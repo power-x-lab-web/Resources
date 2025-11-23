@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11043785,
+  author={Xu, Jinshuo and Zhao, Xiaoyan and Mao, Xiangyu and Yin, Jun and Huang, Mo and Lu, Yan},
+  booktitle={2025 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  title={A High Bandwidth Capacitorless NMOS LDO with Pole-Tracking Scheme and Adaptive FFRC Achieving -65dB PSR across Full Load Range}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Transient response;Regulators;Power supplies;Bandwidth;CMOS process;System-on-chip;Transistors;Transient analysis;Feedforward systems;MOS devices;Feedforward ripple cancellation (FFRC);capacitorless low-dropout regulator (LDO);pole tracking compensation;power supply rejection (PSR)},
+  doi={10.1109/ISCAS56072.2025.11043785}}
