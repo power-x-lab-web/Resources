@@ -1,0 +1,17 @@
+Position:
+Principal Investigator/Alumni/Postdoc/Ph.D. Student/D.Eng. Student/M.Phil. Student/M.E. Student/B.E. Student/ B.A. Student/Visiting/Staff
+
+Google Scholar:
+<Enter your link (you may use your ORCID or IEEE profile as an alternative). If you prefer not to share it, please delete this line.>
+
+Email:
+<Email. If you prefer not to share it, please delete this line.>
+
+Website:
+<Personal Website. If you prefer not to share it, please delete this line.>
+
+LinkedIn:
+<Personal Linkedin Link, If you prefer not to share it, please delete this line.>
+
+Introducton:
+Somebody attained the B.E. degree in ...
