@@ -11,7 +11,7 @@ LinkedIn:
 https://www.linkedin.com/in/zhiguo-tong-928696163/
 
 Research Interests:
-
+PMIC Design for emerging electronic systems
 
 Introduction:
 Zhiguo Tong received the B.E. degree  from Tianjin University in 2018, the M.Sc. degree from Fudan University in 2021, and the Ph.D. degree from the University of Macau in 2024. He is currently a Post-Doctoral Fellow at the University of Pennsylvania, USA. His research focuses on high-efficiency, high-power-density power delivery architectures and integrated circuits for emerging electronic systems. He was awarded the IEEE Solid-State Circuits Society Pre-Doctoral Achievement Award (2024–2025).
