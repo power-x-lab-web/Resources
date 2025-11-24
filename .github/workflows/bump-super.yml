@@ -20,7 +20,7 @@ jobs:
       # 2. 更新 submodule 指到最新提交
       - name: Update submodule to latest
         run: |
-          cd ./         # ✅ 顶层 repo 中 submodule 的路径
+          cd Resources         # ✅ 顶层 repo 中 submodule 的路径
           git fetch origin master         # ✅ submodule 默认分支
           git checkout origin/master
           cd -
