@@ -1,0 +1,48 @@
+@inproceedings{yu2024prediction,
+  title={Prediction of Subharmonic Oscillation in SIMO DC-DC Converter with Ordered Power Distributive Control in CCM and Peak Current Mode},
+  author={Yu, Zhewen and Mao, Fangyu and Lu, Yan},
+  booktitle={2024 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
+}
+
+@inproceedings{tong2025hoop,
+  title={HOOP: A Scalable Hybrid DC-DC Converter Ring for High-Performance Computing},
+  author={Tong, Zhiguo and Yu, Zhewen and Huang, Junwei and Mao, Xiangyu and Wicht, Bernhard and Martins, Rui P and Lu, Yan},
+  booktitle={2025 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume={68},
+  pages={1--3},
+  year={2025},
+  organization={IEEE}
+}
+
+@inproceedings{huang202521,
+  title={21.9 A 20MHz \& 1MHz Dual-Loop Non-Uniform-Multi-Inductor Hybrid DC-DC Converter with Specified Inductor Current Allocation and Fast Transient Response},
+  author={Huang, Junwei and Mao, Xiangyu and Tong, Zhiguo and Yu, Zhewen and Yang, Wenjie and Lam, Chi-Seng and Martins, Rui P and Lu, Yan},
+  booktitle={2025 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume={68},
+  pages={1--3},
+  year={2025},
+  organization={IEEE}
+}
+
+@article{lu2025multi,
+  title={Multi-chip multi-phase DC- DC converters for AI power: a ring, a chain, or a net, independent or master-slave?},
+  author={Lu, Yan and Tong, Zhiguo and Yang, Jiacheng and Yu, Zhewen and Huang, Mo and Mao, Xiangyu and Cheng, Lin and Pan, Dongfang and Yin, Jun and Li, Haoran and others},
+  journal={Journal of Semiconductors},
+  volume={46},
+  number={7},
+  pages={070201--1},
+  year={2025},
+  publisher={Journal of Semiconductors}
+}
+
+@inproceedings{yu2025always,
+  title={An Always Dual-Path Hybrid DC-DC Converter with Multiphase Interleaving Switched-Capacitor Cell Obtaining 45\% Output Ripple Reduction},
+  author={Yu, Zhewen and Huang, Junwei and Tong, Zhiguo and Huang, Mo and Martins, Rui P and Lu, Yan},
+  booktitle={2025 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages={1--5},
+  year={2025},
+  organization={IEEE}
+}
