@@ -1,0 +1,33 @@
+name: Bump super repo submodule
+
+on:
+  push:
+    branches: [ master ]  # 或者你自己的默认分支
+
+jobs:
+  bump-super:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出顶层 repo
+      - name: Checkout super repo
+        uses: actions/checkout@v4
+        with:
+          repository: power-x-lab-web/PowerXLab   # ✅ 顶层仓库全名
+          token: ${{ secrets.SUPER_REPO_TOKEN }}
+          submodules: true                       # 把 submodule 一起拉下来
+
+      # 2. 更新 submodule 指到最新提交
+      - name: Update submodule to latest
+        run: |
+          cd ./         # ✅ 顶层 repo 中 submodule 的路径
+          git fetch origin master         # ✅ submodule 默认分支
+          git checkout origin/master
+          cd -
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add path/to/submodule
+          git commit -m "chore: bump submodule to latest" || echo "No changes to commit"
+          git push origin master          # ✅ 顶层 repo 默认分支
