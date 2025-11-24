@@ -1,7 +1,5 @@
 @ARTICLE{11240615,
 
-
-
   author={Tong, Zhiguo and Yang, Wenjie and Han, Shousheng and Huang, Junwei and Mao, Xiangyu and Lu, Yan},
   booktitle={2025 IEEE Custom Integrated Circuits Conference (CICC)}, 
   title={Where is the Inductor: A Review and Comparison of the Hybrid DC-DC Buck Topologies}, 
@@ -11,8 +9,6 @@
   pages={1-8},
   keywords={Application specific integrated circuits;Buck converters;Reviews;Capacitors;Voltage;Switches;Hybrid power systems;Topology;Inductors;Video recording},
   doi={10.1109/CICC63670.2025.10983170}}@INPROCEEDINGS{10904797,
-
-
 
   author={Tong, Zhiguo and Yu, Zhewen and Huang, Junwei and Mao, Xiangyu and Wicht, Bernhard and Martins, Rui P. and Lu, Yan},
   booktitle={2025 IEEE International Solid-State Circuits Conference (ISSCC)}, 
@@ -24,8 +20,6 @@
   keywords={Art;High performance computing;Capacitors;DC-DC power converters;Pulse width modulation;Hybrid power systems;Solid state circuits;Complexity theory;Inductors;Monitoring},
   doi={10.1109/ISSCC49661.2025.10904695}}@INPROCEEDINGS{10904544,
 
-
-
   author={Tong, Zhiguo and Huang, Junwei and Mao, Xiangyu and Martins, Rui P. and Lu, Yan},
   journal={IEEE Journal of Solid-State Circuits}, 
   title={A Bidirectional USB Power Delivery Voltage-Regulating Cable}, 
@@ -35,8 +29,6 @@
   pages={2866-2878},
   keywords={Universal Serial Bus;Inductors;Power cables;Inductance;Device-to-device communication;Batteries;Wire;Temperature measurement;Cable shielding;Fast charging;Adapter to device (A2D);bidirectional power delivery (BiDi-PD);cable;cable emulator;device to device (D2D);fast charging;hybrid converter;universal serial bus (USB);voltage-regulating cable (VRC)},
   doi={10.1109/JSSC.2025.3527038}}@ARTICLE{10742623,
-
-
 
   author={Tong, Zhiguo and Huang, Junwei and Mao, Xiangyu and Martins, Rui P. and Lu, Yan},
   journal={IEEE Journal of Solid-State Circuits}, 
@@ -48,7 +40,6 @@
   keywords={Laser radar;Optical switches;Diode lasers;Optical pulses;Semiconductor lasers;Distance measurement;Signal to noise ratio;Diode on chip;diode on interposer;diode on PCB;direct time of flight (dToF);double pulse overlapping (DPO);high-resolution light detection and ranging (LiDAR);laser diode driver (LDD);long-range LiDAR;transmitter (TX)},
   doi={10.1109/JSSC.2024.3434586}}@INPROCEEDINGS{10529095,
 
-
   author={Tong, Zhiguo and Huang, Junwei and Lu, Yan and Martins, Rui P.},
   booktitle={2023 IEEE International Solid-State Circuits Conference (ISSCC)}, 
   title={A 42W Reconfigurable Bidirectional Power Delivery Voltage-Regulating Cable}, 
@@ -58,9 +49,6 @@
   pages={192-194},
   keywords={Heating systems;Thermal factors;Protocols;Switches;Universal Serial Bus;Regulation;Topology},
   doi={10.1109/ISSCC42615.2023.10067491}}@ARTICLE{10056323,
-
-
-
 
   author={Tong, Zhiguo and Cao, Peng and Xu, Peng and Lv, Dehong and Lu, Danzhu and He, Jie and Hong, Zhiliang},
   booktitle={2021 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
@@ -82,7 +70,6 @@
   keywords={Propagation losses;Power cables;Humanoid robots;Power transmission;Inductors;Batteries;High-voltage techniques;Voltage control;Actuators;Power conversion;48-V-bus power delivery;bidirectional charging;dc–dc converter;dual-path hybrid converter;high-voltage power transmission system;phase alignment},
   doi={10.1109/JSSC.2025.3624037}}@ARTICLE{11215673,
 
-
   author={Yang, Wenjie and Tong, Zhiguo and Huang, Junwei and Martins, Rui P. and Lu, Yan},
   booktitle={2025 IEEE International Solid-State Circuits Conference (ISSCC)}, 
   title={A Bi-Directional Dual-Path Boost-48V-Buck Hybrid Converter for High-Voltage Power-Transmission Cable in Light-Weight Humanoid Robots}, 
@@ -92,5 +79,6 @@
   pages={194-196},
   keywords={Legged locomotion;Heart;Wires;Humanoid robots;Power transmission;High-voltage techniques;Muscles;Batteries;Solid state circuits;Immune system},
   doi={10.1109/ISSCC49661.2025.10904797}}@INPROCEEDINGS{10904695,
+
 
 
