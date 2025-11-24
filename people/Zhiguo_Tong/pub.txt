@@ -54,6 +54,16 @@
   keywords={Inductors;Capacitors;Voltage;Buck converters;Video recording;Switches;Universal Serial Bus;Electromagnetic interference;Very large scale integration;Stress;Buck converter;dc–dc converter;hybrid con20 verter;hybrid step-down converter;multi-path;reduced inductor current;switched-capacitor (SC)},
   doi={10.1109/JSSC.2024.3485210}}
 
+@INPROCEEDINGS{10067491,
+  author={Tong, Zhiguo and Huang, Junwei and Lu, Yan and Martins, Rui P.},
+  booktitle={2023 IEEE International Solid-State Circuits Conference (ISSCC)}, 
+  title={A 42W Reconfigurable Bidirectional Power Delivery Voltage-Regulating Cable}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={192-194},
+  keywords={Heating systems;Thermal factors;Protocols;Switches;Universal Serial Bus;Regulation;Topology},
+  doi={10.1109/ISSCC42615.2023.10067491}}
 
 @INPROCEEDINGS{10904695,
   author={Tong, Zhiguo and Yu, Zhewen and Huang, Junwei and Mao, Xiangyu and Wicht, Bernhard and Martins, Rui P. and Lu, Yan},
@@ -66,17 +76,6 @@
   keywords={Art;High performance computing;Capacitors;DC-DC power converters;Pulse width modulation;Hybrid power systems;Solid state circuits;Complexity theory;Inductors;Monitoring},
   doi={10.1109/ISSCC49661.2025.10904695}}
 
-@INPROCEEDINGS{10067491,
-  author={Tong, Zhiguo and Huang, Junwei and Lu, Yan and Martins, Rui P.},
-  booktitle={2023 IEEE International Solid-State Circuits Conference (ISSCC)}, 
-  title={A 42W Reconfigurable Bidirectional Power Delivery Voltage-Regulating Cable}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={192-194},
-  keywords={Heating systems;Thermal factors;Protocols;Switches;Universal Serial Bus;Regulation;Topology},
-  doi={10.1109/ISSCC42615.2023.10067491}}
-
 
 @INPROCEEDINGS{10983170,
   author={Tong, Zhiguo and Yang, Wenjie and Han, Shousheng and Huang, Junwei and Mao, Xiangyu and Lu, Yan},
@@ -88,6 +87,17 @@
   pages={1-8},
   keywords={Application specific integrated circuits;Buck converters;Reviews;Capacitors;Voltage;Switches;Hybrid power systems;Topology;Inductors;Video recording},
   doi={10.1109/CICC63670.2025.10983170}}
+
+@INPROCEEDINGS{9401624,
+  author={Tong, Zhiguo and Cao, Peng and Xu, Peng and Lv, Dehong and Lu, Danzhu and He, Jie and Hong, Zhiliang},
+  booktitle={2021 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  title={A Charge-Pump-Based SIMO Buck-Boost DC-DC Converter with Three Operation Modes}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Transient response;Charge pumps;Circuits and systems;Simulation;Topology;Time factors;Power generation;Buck-Boost Converter;Single-inductor Multipleoutput;SIMO;Hybrid structure;Charge-pump based;DC-DC converter},
+  doi={10.1109/ISCAS51556.2021.9401624}}
 
 @INPROCEEDINGS{10904797,
   author={Yang, Wenjie and Tong, Zhiguo and Huang, Junwei and Martins, Rui P. and Lu, Yan},
@@ -124,24 +134,3 @@
   doi={10.1109/CICC57935.2023.10121314}}
 
 
-@INPROCEEDINGS{9401624,
-  author={Tong, Zhiguo and Cao, Peng and Xu, Peng and Lv, Dehong and Lu, Danzhu and He, Jie and Hong, Zhiliang},
-  booktitle={2021 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
-  title={A Charge-Pump-Based SIMO Buck-Boost DC-DC Converter with Three Operation Modes}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-4},
-  keywords={Transient response;Charge pumps;Circuits and systems;Simulation;Topology;Time factors;Power generation;Buck-Boost Converter;Single-inductor Multipleoutput;SIMO;Hybrid structure;Charge-pump based;DC-DC converter},
-  doi={10.1109/ISCAS51556.2021.9401624}}
-
-@INPROCEEDINGS{9278329,
-  author={Tong, Zhiguo and Cao, Peng and Zhang, Xueli and Hong, Zhiliang},
-  booktitle={2020 IEEE 15th International Conference on Solid-State & Integrated Circuit Technology (ICSICT)}, 
-  title={A Right-Half-Plane Zero-Free Single-Inductor Dual-Output Boost Converter with 92.44% Peak efficiency and Fast Transient Response}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-3},
-  keywords={Inductors;Transient response;Topology;Time factors;Matrix converters;Voltage control;Transfer functions},
-  doi={10.1109/ICSICT49897.2020.9278329}}
