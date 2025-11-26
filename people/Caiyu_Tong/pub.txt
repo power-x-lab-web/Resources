@@ -1,31 +1,30 @@
-@inproceedings{tong2023li,
-  title={A Li-ion battery input 96.8\% peak efficiency single-inductor off-chip-capacitor-free 2-switch LED driver with two-color mixing capability},
+@INPROCEEDINGS{11214027,
+  author={Wu, Xuan and Tong, Caiyu and Lu, Yan and Huang, Mo and Gao, Yuan},
+  booktitle={2025 IEEE European Solid-State Electronics Research Conference (ESSERC)}, 
+  title={A Bidirectional Buck/Buck Hybrid Converter Achieving 96.3% Charging and 91.4% Discharging Peak Efficiency for Alkaline-to-Li-Ion Replacement}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={269-272},
+  keywords={Lithium-ion batteries;Power system management;Capacitors;Prototypes;Europe;Thermal management;Discharges (electric);Topology;Inductors;Current density;bidirectional Buck/Buck converter;lithium-ion batteries;shared power-stage;inductor current reduction},
+  doi={10.1109/ESSERC66193.2025.11214027}}
+@ARTICLE{10336887,
   author={Tong, Caiyu and Fan, Zihao and Gao, Yuan},
-  booktitle={2023 IEEE Custom Integrated Circuits Conference (CICC)},
-  pages={1--2},
-  year={2023},
-  organization={IEEE}
-}
-
-@article{tong2023li,
-  title={A Li-Ion Battery Input Highly Integrated LED Driver With 96.8\% Peak Efficiency and Dual-Color Mixing Capability},
-  author={Tong, Caiyu and Fan, Zihao and Gao, Yuan},
-  journal={IEEE Journal of Solid-State Circuits},
+  journal={IEEE Journal of Solid-State Circuits}, 
+  title={A Li-Ion Battery Input Highly Integrated LED Driver With 96.8% Peak Efficiency and Dual-Color Mixing Capability}, 
+  year={2024},
   volume={59},
   number={3},
-  pages={794--803},
+  pages={794-803},
+  keywords={Light emitting diodes;Inductors;Topology;Capacitors;Lithium-ion batteries;Switches;Control systems;Color mixing;dc–dc converter;light-emitting diode (LED) driver;off-chip capacitor free;pulsewidth modulation (PWM) dimming;tunable correlated color temperature (CCT)},
+  doi={10.1109/JSSC.2023.3331763}}
+@INPROCEEDINGS{10121297,
+  author={Tong, Caiyu and Fan, Zihao and Gao, Yuan},
+  booktitle={2023 IEEE Custom Integrated Circuits Conference (CICC)}, 
+  title={A Li-ion Battery Input 96.8% Peak Efficiency Single- Inductor Off-Chip-Capacitor-Free 2-Switch LED Driver with Two-Color Mixing Capability}, 
   year={2023},
-  publisher={IEEE}
-}
-
-@inproceedings{11214027,
-  author    = {Wu, Xuan and Tong, Caiyu and Lu, Yan and Huang, Mo and Gao, Yuan},
-  booktitle = {2025 IEEE European Solid-State Electronics Research Conference (ESSERC)},
-  title     = {A Bidirectional Buck/Buck Hybrid Converter Achieving 96.3% Charging and 91.4% Discharging Peak Efficiency for Alkaline-to-Li-Ion Replacement},
-  year      = {2025},
-  volume    = {},
-  number    = {},
-  pages     = {269-272},
-  keywords  = {Lithium-ion batteries;Power system management;Capacitors;Prototypes;Europe;Thermal management;Discharges (electric);Topology;Inductors;Current density;bidirectional Buck/Buck converter;lithium-ion batteries;shared power-stage;inductor current reduction},
-  doi       = {10.1109/ESSERC66193.2025.11214027}
-}
+  volume={},
+  number={},
+  pages={1-2},
+  keywords={Resistance;Lithium-ion batteries;Capacitors;Lighting;Color;Switches;Light emitting diodes},
+  doi={10.1109/CICC57935.2023.10121297}}
