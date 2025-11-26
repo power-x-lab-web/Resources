@@ -17,3 +17,15 @@
   year={2023},
   publisher={IEEE}
 }
+
+@inproceedings{11214027,
+  author    = {Wu, Xuan and Tong, Caiyu and Lu, Yan and Huang, Mo and Gao, Yuan},
+  booktitle = {2025 IEEE European Solid-State Electronics Research Conference (ESSERC)},
+  title     = {A Bidirectional Buck/Buck Hybrid Converter Achieving 96.3% Charging and 91.4% Discharging Peak Efficiency for Alkaline-to-Li-Ion Replacement},
+  year      = {2025},
+  volume    = {},
+  number    = {},
+  pages     = {269-272},
+  keywords  = {Lithium-ion batteries;Power system management;Capacitors;Prototypes;Europe;Thermal management;Discharges (electric);Topology;Inductors;Current density;bidirectional Buck/Buck converter;lithium-ion batteries;shared power-stage;inductor current reduction},
+  doi       = {10.1109/ESSERC66193.2025.11214027}
+}
