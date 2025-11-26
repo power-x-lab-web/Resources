@@ -1,0 +1,19 @@
+@inproceedings{tong2023li,
+  title={A Li-ion battery input 96.8\% peak efficiency single-inductor off-chip-capacitor-free 2-switch LED driver with two-color mixing capability},
+  author={Tong, Caiyu and Fan, Zihao and Gao, Yuan},
+  booktitle={2023 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages={1--2},
+  year={2023},
+  organization={IEEE}
+}
+
+@article{tong2023li,
+  title={A Li-Ion Battery Input Highly Integrated LED Driver With 96.8\% Peak Efficiency and Dual-Color Mixing Capability},
+  author={Tong, Caiyu and Fan, Zihao and Gao, Yuan},
+  journal={IEEE Journal of Solid-State Circuits},
+  volume={59},
+  number={3},
+  pages={794--803},
+  year={2023},
+  publisher={IEEE}
+}
