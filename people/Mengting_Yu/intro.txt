@@ -8,3 +8,4 @@ Email:
 
 
 Introducton:
+Mengting Yu is currently serving as a hardware designer in the Power X Lab. She is responsible for project hardware design and participates in requirements analysis and component selection. She is also in charge of hardware testing, development debugging, and performance verification, as well as preparing project test reports. In addition, she assists with maintaining the project testing platform, supports project milestone and final acceptance, and completes other tasks assigned by the project lead, such as preparing presentations and drafting project documents.
