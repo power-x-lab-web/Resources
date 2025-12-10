@@ -9,7 +9,7 @@ Xianglong Bai // Ph.D. // 2023 // Post-Doc, SUSTech, Shenzhen
 Shuangxing Zhao // Ph.D. // 2024 // “Future-Star” Engineer, Xiaomi, Shenzhen
 Tingxu Hu // Ph.D. (Co-Supervised) // 2024 // Senior Engineer, Meraki-IC, Shenzhen
 Junwei Huang // Ph.D. (Co-Supervised) // 2024 // Post-Doc, University of Macau, Macao
-Qiujin Chen // Ph.D. Co-Supervised // 2024 // Post-Doc, University of Macau, Macao
+Qiujin Chen // Ph.D. (Co-Supervised) // 2024 // Post-Doc, University of Macau, Macao
 Chenyu Huang // Ph.D. // 2024 // Senior Engineer, Southchip, Shanghai
 Yifan Jiang // Ph.D. // 2024 // Senior Engineer, Xiaomi, Shanghai
 Zhiguo Tong // Ph.D. // 2024 // Post-Doc, University of Macau, Macao
