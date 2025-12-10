@@ -1,5 +1,5 @@
 Position:
-Postdoc @ UM
+Post-Doc @ UM
 
 Research Interests:
 Solutions of efficient and high-performance power management circuits for robotics applications
