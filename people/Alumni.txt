@@ -1,19 +1,59 @@
-Ph.D. Alumni:
-Zhiguo Tong
+Ph.D. Alumni (First Employment):
+Fangyu Mao // Ph.D. // 2020 // Macao Post-Doctoral Fellowship, University of Macau, Macao
+Xiaofei Li // Ph.D. // 2020 // Post-Doc, Zhuhai UM Research Institute, Zhuhai
+Jie Lin // Ph.D. // 2020 // Senior Engineer, HiSilicon, Shenzhen
+Anxin Luo // Ph.D. // 2021 // Post-Doc, SUSTech, Shenzhen
+Guigang Cai // Ph.D. // 2021 // Post-Doc, University of Macau, Macao
+Xiangyu Mao // Ph.D. // 2022 // Macao Post-Doctoral Fellowship, University of Macau, Macao
+Xianglong Bai // Ph.D. // 2023 // Post-Doc, SUSTech, Shenzhen
+Shuangxing Zhao // Ph.D. // 2024 // “Future-Star” Engineer, Xiaomi, Shenzhen
+Tingxu Hu // Ph.D. (Co-Supervised) // 2024 // Senior Engineer, Meraki-IC, Shenzhen
+Junwei Huang // Ph.D. (Co-Supervised) // 2024 // Post-Doc, University of Macau, Macao
+Qiujin Chen // Ph.D. Co-Supervised // 2024 // Post-Doc, University of Macau, Macao
+Chenyu Huang // Ph.D. // 2024 // Senior Engineer, Southchip, Shanghai
+Yifan Jiang // Ph.D. // 2024 // Senior Engineer, Xiaomi, Shanghai
+Zhiguo Tong // Ph.D. // 2024 // Post-Doc, University of Macau, Macao
+Jiacheng Yang // Ph.D. (Co-Supervised) // 2025 // Post-Doc, University of Macau, Macao
 
-Master Alumni:
-Fei Song
-Jinshuo Xu
+Master Alumni (First Employment):
+Haojuan Dai // MSc // 2016 // IC Design Engineer, Solomon Systech, Shenzhen
+Ziyang Luo // MSc // 2017 // Ph.D. student, University of Texas at Dallas, Texas, USA
+Cheng Li // MSc (Co-Supervised) // 2018 // Ph.D. student, UC Davis, CA, USA
+Yuanqing Huang // MSc // 2018 // Ph.D. student, University of Texas at Dallas, Texas, USA
+Wenming Zheng // MSc (Co-Supervised) // 2018 // Senior System Engineer, Injoinic, Zhuhai
+Lei Zhao // MSc // 2019 // Ph.D. student, Iowa State University, Iowa, USA
+Yulun Wu // MSc // 2019 // IC Design Engineer, Goodix, Shanghai
+Tai Zhang // MSc // 2020 // IC Design Engineer, Thinkplus Semiconductor, Shenzhen
+Han Yin // MSc // 2021 // IC Design Engineer, Chipsea Tech, Shenzhen
+Zixiao Lin // MSc // 2022 // Ph.D. student, UC San Diego, CA, USA
+Shengnan Zhou // MSc // 2023 // IC Design Engineer, Xiaomi Xuanjie, Shenzhen
+Sijian Wu // MSc // 2024 // Civil Servant, Baiyun District, Guangzhou
+Ziang Ran // MSc // 2024 // IC Design Engineer, Akrostar, Xi’an
+Nan Shi // M.Phil. // 2024 // System Design Engineer, SIGLENT, Shenzhen
+Ruiyuan Chen // MSc // 2024 // IC Design Engineer, CE Research Institute, Chongqing
+Linzhi Xie // MSc // 2024 // Analog IC Design Engineer, AP Memory, Hangzhou
+Xiaoyan Zhao // MSc // 2025 // IC Design Engineer, Artmemtech, Zhuhai
+Fucong Luo // M.Phil. // 2025 // Analog IC Design Engineer, Lowpower Semiconductor, Chengdu
+Fei Song // M.Phil. // 2025 // Ph.D. student, Columbia University, New York, USA
+Chengyi Zhou // MSc // 2025 //
+Zhengnan Xu // MSc // 2025 //
+Xueyao Zhou // MSc // 2025 //
+Chengkai Wu // MSc // 2025 //
+Yasi Hu // MSc // 2025 //
+Jinshuo Xu // M.Phil. // 2026 // Ph.D. student, The Hong Kong University of Science and Technology, Hong Kong
+Zhewen Yu // M.Phil. // 2026 // Ph.D. student, Tsinghua University, Beijing
+Wenjie Yang // M.Phil. // 2026 // Ph.D. student, Tsinghua University, Beijing
 
-Post-Docs & Visiting Researchers:
+
+Post-Docs & Visiting Researchers (Next Employment):
 Mo Huang // Post-Doc // Dec. 2014 - Sep. 2016 // SCUT, Guangzhou, Associate Professor
 Junmin Jiang // Research Assistant // Aug. 2015 - May 2016 // TI Kilby Labs, CA, USA, Senior IC Design Engineer
-Hesheng Lin // Research Assistant // Aug. 2016 - Jun. 2017 // IMEC, Leuven, Belgium, PhD student
-Xiaofei Ma // Research Assistant // Jul. 2016 - Dec. 2017 // HKUST, Hong Kong, PhD student
-Yerzhan Mustafa // Research Assistant // June 2018- July 2018 // University of Rochester, NY, USA, PhD student
+Hesheng Lin // Research Assistant // Aug. 2016 - Jun. 2017 // IMEC, Leuven, Belgium, Ph.D. student
+Xiaofei Ma // Research Assistant // Jul. 2016 - Dec. 2017 // HKUST, Hong Kong, Ph.D. student
+Yerzhan Mustafa // Research Assistant // June 2018- July 2018 // University of Rochester, NY, USA, Ph.D. student
 Chuang Wang // Post-Doc // Jan. 2019 - Nov. 2021 // Beijing University Of Posts and Telecommunications, Beijing, Associate Professor
-Wenliang Zeng // Post-Doc (co-supervised) // Jan. 2021 - Oct. 2022 // University of Macau, Assistant Professor
-Yuanfei Wang // Post-Doc (co-supervised) // Jan. 2021 - Oct. 2022 // University of Macau, Post-Doc
+Wenliang Zeng // Post-Doc (Co-Supervised) // Jan. 2021 - Oct. 2022 // University of Macau, Assistant Professor
+Yuanfei Wang // Post-Doc (Co-Supervised) // Jan. 2021 - Oct. 2022 // University of Macau, Post-Doc
 Xiaofei Li // Post-Doc // Mar. 2021 - Jun. 2023 // Hunan University, Changsha, Associate Professor
 Guigang Cai // Post-Doc // Dec. 2021 - July 2023 // HKUST Guangzhou, Guangzhou, Assistant Professor
 Fangyu Mao // Post-Doc and Research Assistant Professor // Jun. 2020 - Oct. 2023 // Light SemiBucks, Wuxi, CTO
@@ -23,5 +63,10 @@ Zhiguo Tong // Post-Doc // Dec. 2024 - Sep. 2025 // University of Pennsylvania, 
 
 
 
-Final-Year Project UndergResearch Assistantduate Students:
-Zonghao Liu
+Final-Year Project Undergraduate Students (First Employment):
+Zonghao Liu // Undergraduate // 2024-2025 // Ph.D. student, University of Macau, Macao
+Naiqi Wang // Undergraduate
+Guozhi Li // Undergraduate
+Yusen Wang // Undergraduate
+Zhongyi Wen // Undergraduate
+Luoxin Li // Undergraduate (Co-Supervised)
