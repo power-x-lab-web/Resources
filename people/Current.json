@@ -1,0 +1,72 @@
+{
+  "groups": [
+    {
+      "id": "pi",
+      "title": "Principal Investigator",
+      "people": [
+        "Yan Lu"
+      ]
+    },
+    {
+      "id": "postdoc",
+      "title": "Post-Doc Researcher",
+      "people": [
+        "Kai Cui"
+      ]
+    },
+    {
+      "id": "visiting_postdoc",
+      "title": "Visiting Postdoc Researchers",
+      "people": [
+        "Shousheng Han",
+        "Junwei Huang",
+        "Jing Wang"
+      ]
+    },
+    {
+      "id": "graduate",
+      "title": "Graduate Students",
+      "people": [
+        "Jiwei Zou",
+        "Shiyuan Wang",
+        "Siyuan Zhang",
+        "Xue Guo"
+      ]
+    },
+    {
+      "id": "visiting_graduate",
+      "title": "Visiting Graduate Students",
+      "people": [
+        "Yang Li",
+        "Xiangan You",
+        "Caiyu Tong",
+        "Zhongyao Zhu",
+        "Dajun Zhou",
+        "Zhibang Song",
+        "Zhewen Yu",
+        "Wenjie Yang",
+        "Qingpeng Zou",
+        "Zhiming He"
+      ]
+    },
+    {
+      "id": "supervised_bachelor",
+      "title": "Supervised Bachelor Graduate Design",
+      "people": []
+    },
+    {
+      "id": "bachelor_visiting",
+      "title": "Visiting Researchers",
+      "people": [
+      ]
+    },
+    {
+      "id": "staff",
+      "title": "Staff",
+      "people": [
+        "Siqin Kang",
+        "Mengting Yu"
+      ]
+    }
+  ]
+}

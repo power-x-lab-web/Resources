@@ -1,0 +1,25 @@
+{
+  "chips": [
+    {
+      "file": "junwei_fastslow.jpg",
+      "process": "180nm BCD",
+      "name": "Junwei Huang",
+      "doi": "10.1109/JSSC.2025.3627117",
+      "title": "A Fast-Slow Two-Module High-Power-Density DC–DC Solution With Transient and Efficiency Improvements"
+    },
+    {
+      "file": "shousheng_SC.png",
+      "process": "180nm BCD",
+      "name": "Shousheng Han",
+      "doi": "10.1109/JSSC.2026.3676525",
+      "title": "Shousheng switched-capacitor chip"
+    },
+    {
+      "file": "zhiguo_laser.png",
+      "process": "180nm BCD",
+      "name": "Zhiguo Tong",
+      "doi": "10.1109/JSSC.2024.3434586",
+      "title": "A Double Pulse Overlapping Laser Diode Driver With Minimum 100-ps Pulse for LiDAR System"
+    }
+  ]
+}

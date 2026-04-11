@@ -1,0 +1,396 @@
+{
+  "categories": [
+    {
+      "title": "Ph.D. Alumni (First Employment)",
+      "people": [
+        {
+          "name": "Fangyu Mao",
+          "role": "Ph.D.",
+          "duration": "2020",
+          "destination": "Macao Post-Doctoral Fellowship, University of Macau, Macao"
+        },
+        {
+          "name": "Xiaofei Li",
+          "role": "Ph.D.",
+          "duration": "2020",
+          "destination": "Post-Doc, Zhuhai UM Research Institute, Zhuhai"
+        },
+        {
+          "name": "Jie Lin",
+          "role": "Ph.D.",
+          "duration": "2020",
+          "destination": "Senior Engineer, HiSilicon, Shenzhen"
+        },
+        {
+          "name": "Anxin Luo",
+          "role": "Ph.D.",
+          "duration": "2021",
+          "destination": "Post-Doc, SUSTech, Shenzhen"
+        },
+        {
+          "name": "Guigang Cai",
+          "role": "Ph.D.",
+          "duration": "2021",
+          "destination": "Post-Doc, University of Macau, Macao"
+        },
+        {
+          "name": "Xiangyu Mao",
+          "role": "Ph.D.",
+          "duration": "2022",
+          "destination": "Macao Post-Doctoral Fellowship, University of Macau, Macao"
+        },
+        {
+          "name": "Xianglong Bai",
+          "role": "Ph.D.",
+          "duration": "2023",
+          "destination": "Post-Doc, SUSTech, Shenzhen"
+        },
+        {
+          "name": "Shuangxing Zhao",
+          "role": "Ph.D.",
+          "duration": "2024",
+          "destination": "“Future-Star” Engineer, Xiaomi, Shenzhen"
+        },
+        {
+          "name": "Tingxu Hu",
+          "role": "Ph.D. (Co-Supervised)",
+          "duration": "2024",
+          "destination": "Senior Engineer, Meraki-IC, Shenzhen"
+        },
+        {
+          "name": "Junwei Huang",
+          "role": "Ph.D. (Co-Supervised)",
+          "duration": "2024",
+          "destination": "Post-Doc, University of Macau, Macao"
+        },
+        {
+          "name": "Qiujin Chen",
+          "role": "Ph.D. (Co-Supervised)",
+          "duration": "2024",
+          "destination": "Post-Doc, University of Macau, Macao"
+        },
+        {
+          "name": "Chenyu Huang",
+          "role": "Ph.D.",
+          "duration": "2024",
+          "destination": "Senior Engineer, Southchip, Shanghai"
+        },
+        {
+          "name": "Yifan Jiang",
+          "role": "Ph.D.",
+          "duration": "2024",
+          "destination": "Senior Engineer, Xiaomi, Shanghai"
+        },
+        {
+          "name": "Zhiguo Tong",
+          "role": "Ph.D.",
+          "duration": "2024",
+          "destination": "Post-Doc, University of Macau, Macao"
+        },
+        {
+          "name": "Jiacheng Yang",
+          "role": "Ph.D. (Co-Supervised)",
+          "duration": "2025",
+          "destination": "Post-Doc, University of Macau, Macao"
+        }
+      ]
+    },
+    {
+      "title": "Master Alumni (First Employment)",
+      "people": [
+        {
+          "name": "Haojuan Dai",
+          "role": "MSc",
+          "duration": "2016",
+          "destination": "IC Design Engineer, Solomon Systech, Shenzhen"
+        },
+        {
+          "name": "Ziyang Luo",
+          "role": "MSc",
+          "duration": "2017",
+          "destination": "Ph.D. student, University of Texas at Dallas, Texas, USA"
+        },
+        {
+          "name": "Cheng Li",
+          "role": "MSc (Co-Supervised)",
+          "duration": "2018",
+          "destination": "Ph.D. student, UC Davis, CA, USA"
+        },
+        {
+          "name": "Yuanqing Huang",
+          "role": "MSc",
+          "duration": "2018",
+          "destination": "Ph.D. student, University of Texas at Dallas, Texas, USA"
+        },
+        {
+          "name": "Wenming Zheng",
+          "role": "MSc (Co-Supervised)",
+          "duration": "2018",
+          "destination": "Senior System Engineer, Injoinic, Zhuhai"
+        },
+        {
+          "name": "Lei Zhao",
+          "role": "MSc",
+          "duration": "2019",
+          "destination": "Ph.D. student, Iowa State University, Iowa, USA"
+        },
+        {
+          "name": "Yulun Wu",
+          "role": "MSc",
+          "duration": "2019",
+          "destination": "IC Design Engineer, Goodix, Shanghai"
+        },
+        {
+          "name": "Tai Zhang",
+          "role": "MSc",
+          "duration": "2020",
+          "destination": "IC Design Engineer, Thinkplus Semiconductor, Shenzhen"
+        },
+        {
+          "name": "Han Yin",
+          "role": "MSc",
+          "duration": "2021",
+          "destination": "IC Design Engineer, Chipsea Tech, Shenzhen"
+        },
+        {
+          "name": "Zixiao Lin",
+          "role": "MSc",
+          "duration": "2022",
+          "destination": "Ph.D. student, UC San Diego, CA, USA"
+        },
+        {
+          "name": "Shengnan Zhou",
+          "role": "MSc",
+          "duration": "2023",
+          "destination": "IC Design Engineer, Xiaomi Xuanjie, Shenzhen"
+        },
+        {
+          "name": "Sijian Wu",
+          "role": "MSc",
+          "duration": "2024",
+          "destination": "Civil Servant, Baiyun District, Guangzhou"
+        },
+        {
+          "name": "Ziang Ran",
+          "role": "MSc",
+          "duration": "2024",
+          "destination": "IC Design Engineer, Akrostar, Xi’an"
+        },
+        {
+          "name": "Nan Shi",
+          "role": "M.Phil.",
+          "duration": "2024",
+          "destination": "System Design Engineer, SIGLENT, Shenzhen"
+        },
+        {
+          "name": "Ruiyuan Chen",
+          "role": "MSc",
+          "duration": "2024",
+          "destination": "IC Design Engineer, CE Research Institute, Chongqing"
+        },
+        {
+          "name": "Linzhi Xie",
+          "role": "MSc",
+          "duration": "2024",
+          "destination": "Analog IC Design Engineer, AP Memory, Hangzhou"
+        },
+        {
+          "name": "Xiaoyan Zhao",
+          "role": "MSc",
+          "duration": "2025",
+          "destination": "IC Design Engineer, Artmemtech, Zhuhai"
+        },
+        {
+          "name": "Fucong Luo",
+          "role": "M.Phil.",
+          "duration": "2025",
+          "destination": "Analog IC Design Engineer, Lowpower Semiconductor, Chengdu"
+        },
+        {
+          "name": "Fei Song",
+          "role": "M.Phil.",
+          "duration": "2025",
+          "destination": "Ph.D. student, Columbia University, New York, USA"
+        },
+        {
+          "name": "Chengyi Zhou",
+          "role": "MSc",
+          "duration": "2025",
+          "destination": ""
+        },
+        {
+          "name": "Zhengnan Xu",
+          "role": "MSc",
+          "duration": "2025",
+          "destination": ""
+        },
+        {
+          "name": "Xueyao Zhou",
+          "role": "MSc",
+          "duration": "2025",
+          "destination": ""
+        },
+        {
+          "name": "Chengkai Wu",
+          "role": "MSc",
+          "duration": "2025",
+          "destination": ""
+        },
+        {
+          "name": "Yasi Hu",
+          "role": "MSc",
+          "duration": "2025",
+          "destination": ""
+        },
+        {
+          "name": "Jinshuo Xu",
+          "role": "M.Phil.",
+          "duration": "2026",
+          "destination": "Ph.D. student, The Hong Kong University of Science and Technology, Hong Kong"
+        },
+        {
+          "name": "Zhewen Yu",
+          "role": "M.Phil.",
+          "duration": "2026",
+          "destination": "Ph.D. student, Tsinghua University, Beijing"
+        },
+        {
+          "name": "Wenjie Yang",
+          "role": "M.Phil.",
+          "duration": "2026",
+          "destination": "Ph.D. student, Tsinghua University, Beijing"
+        }
+      ]
+    },
+    {
+      "title": "Post-Docs & Visiting Researchers (Next Employment)",
+      "people": [
+        {
+          "name": "Mo Huang",
+          "role": "Post-Doc",
+          "duration": "Dec. 2014 - Sep. 2016",
+          "destination": "SCUT, Guangzhou, Associate Professor"
+        },
+        {
+          "name": "Junmin Jiang",
+          "role": "Research Assistant",
+          "duration": "Aug. 2015 - May 2016",
+          "destination": "TI Kilby Labs, CA, USA, Senior IC Design Engineer"
+        },
+        {
+          "name": "Hesheng Lin",
+          "role": "Research Assistant",
+          "duration": "Aug. 2016 - Jun. 2017",
+          "destination": "IMEC, Leuven, Belgium, Ph.D. student"
+        },
+        {
+          "name": "Xiaofei Ma",
+          "role": "Research Assistant",
+          "duration": "Jul. 2016 - Dec. 2017",
+          "destination": "HKUST, Hong Kong, Ph.D. student"
+        },
+        {
+          "name": "Yerzhan Mustafa",
+          "role": "Research Assistant",
+          "duration": "June 2018- July 2018",
+          "destination": "University of Rochester, NY, USA, Ph.D. student"
+        },
+        {
+          "name": "Chuang Wang",
+          "role": "Post-Doc",
+          "duration": "Jan. 2019 - Nov. 2021",
+          "destination": "Beijing University Of Posts and Telecommunications, Beijing, Associate Professor"
+        },
+        {
+          "name": "Wenliang Zeng",
+          "role": "Post-Doc (Co-Supervised)",
+          "duration": "Jan. 2021 - Oct. 2022",
+          "destination": "University of Macau, Assistant Professor"
+        },
+        {
+          "name": "Yuanfei Wang",
+          "role": "Post-Doc (Co-Supervised)",
+          "duration": "Jan. 2021 - Oct. 2022",
+          "destination": "University of Macau, Post-Doc"
+        },
+        {
+          "name": "Xiaofei Li",
+          "role": "Post-Doc",
+          "duration": "Mar. 2021 - Jun. 2023",
+          "destination": "Hunan University, Changsha, Associate Professor"
+        },
+        {
+          "name": "Guigang Cai",
+          "role": "Post-Doc",
+          "duration": "Dec. 2021 - July 2023",
+          "destination": "HKUST Guangzhou, Guangzhou, Assistant Professor"
+        },
+        {
+          "name": "Fangyu Mao",
+          "role": "Post-Doc and Research Assistant Professor",
+          "duration": "Jun. 2020 - Oct. 2023",
+          "destination": "Light SemiBucks, Wuxi, CTO"
+        },
+        {
+          "name": "Tianqi Liu",
+          "role": "Post-Doc",
+          "duration": "Jun. 2021 - Sep. 2024",
+          "destination": "Light SemiBucks, Wuxi, Founder & Manager"
+        },
+        {
+          "name": "Xiangyu Mao",
+          "role": "Post-Doc",
+          "duration": "Oct. 2022 - Nov. 2024",
+          "destination": "University of Electronic Science and Technology of China, Chengdu, Full Professor"
+        },
+        {
+          "name": "Zhiguo Tong",
+          "role": "Post-Doc",
+          "duration": "Dec. 2024 - Sep. 2025",
+          "destination": "University of Pennsylvania, PA, USA, Post-Doc"
+        }
+      ]
+    },
+    {
+      "title": "Final-Year Project Undergraduate Students (First Employment)",
+      "people": [
+        {
+          "name": "Zonghao Liu",
+          "role": "Undergraduate",
+          "duration": "2024-2025",
+          "destination": "Ph.D. student, University of Macau, Macao"
+        },
+        {
+          "name": "Naiqi Wang",
+          "role": "Undergraduate",
+          "duration": "",
+          "destination": ""
+        },
+        {
+          "name": "Guozhi Li",
+          "role": "Undergraduate",
+          "duration": "",
+          "destination": ""
+        },
+        {
+          "name": "Yusen Wang",
+          "role": "Undergraduate",
+          "duration": "",
+          "destination": ""
+        },
+        {
+          "name": "Zhongyi Wen",
+          "role": "Undergraduate",
+          "duration": "",
+          "destination": ""
+        },
+        {
+          "name": "Luoxin Li",
+          "role": "Undergraduate (Co-Supervised)",
+          "duration": "",
+          "destination": ""
+        }
+      ]
+    }
+  ]
+}
