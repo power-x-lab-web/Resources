@@ -11,13 +11,7 @@
       "id": "postdoc",
       "title": "Post-Doc Researcher",
       "people": [
-        "Kai Cui"
-      ]
-    },
-    {
-      "id": "visiting_postdoc",
-      "title": "Visiting Postdoc Researchers",
-      "people": [
+        "Kai Cui",
         "Shousheng Han",
         "Junwei Huang",
         "Jing Wang"
@@ -27,6 +21,12 @@
       "id": "graduate",
       "title": "Graduate Students",
       "people": [
+        "Xiangan You",
+        "Caiyu Tong",
+        "Zhongyao Zhu",
+        "Dajun Zhou",
+        "Zhibang Song",
+        "Qingpeng Zou",
         "Jiwei Zou",
         "Shiyuan Wang",
         "Siyuan Zhang",
@@ -37,18 +37,6 @@
       ]
     },
     {
-      "id": "visiting_graduate",
-      "title": "Visiting Graduate Students",
-      "people": [
-        "Xiangan You",
-        "Caiyu Tong",
-        "Zhongyao Zhu",
-        "Dajun Zhou",
-        "Zhibang Song",
-        "Qingpeng Zou"
-      ]
-    },
-    {
       "id": "supervised_bachelor",
       "title": "Supervised Bachelor Graduate Design",
       "people": []
@@ -56,8 +44,7 @@
     {
       "id": "bachelor_visiting",
       "title": "Visiting Researchers",
-      "people": [
-      ]
+      "people": []
     },
     {
       "id": "staff",

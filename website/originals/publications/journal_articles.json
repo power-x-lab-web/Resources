@@ -1,0 +1,5719 @@
+[
+  {
+    "id": "yan-lu-b998b10b08b7",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 180 mA LDO With Adaptive Feed-Forward Capacitor Array Achieving 60 dB PSR Across Wide Load and Input Ranges",
+    "author": "Zhao, Xiaoyan and Xu, Jinshuo and Mao, Xiangyu and Jia, Haiyang and Chen, Yong and Sun, Nan and Lu, Yan",
+    "editor": "",
+    "year": 2026,
+    "journal": "Integrated Circuits and Systems",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "3",
+    "number": "1",
+    "pages": "34-44",
+    "doi": "10.23919/ics.2026.3674822",
+    "url": "https://doi.org/10.23919/ics.2026.3674822",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11435978"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.23919/ics.2026.3674822",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Zhao, Xiaoyan",
+      "Xu, Jinshuo",
+      "Mao, Xiangyu",
+      "Jia, Haiyang",
+      "Chen, Yong",
+      "Sun, Nan",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-6fbbf24fe977",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 2.82–4.76 mV/LSB Ultra-High-Resolution and Wide-Range All-Digital Voltage Sensor at 2 GHz for Fast Droop Detection and Mitigation",
+    "author": "Du, Yuxuan and Yan, Zhihao and Qian, Zhangrui and Zhou, Kaize and Chen, Zhuo and Deng, Lishuo and Yin, Jun and Lu, Yan and Shan, Weiwei",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "",
+    "number": "",
+    "pages": "1-13",
+    "doi": "10.1109/tcsi.2026.3732003",
+    "url": "https://doi.org/10.1109/tcsi.2026.3732003",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11716734"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2026.3732003",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Du, Yuxuan",
+      "Yan, Zhihao",
+      "Qian, Zhangrui",
+      "Zhou, Kaize",
+      "Chen, Zhuo",
+      "Deng, Lishuo",
+      "Yin, Jun",
+      "Lu, Yan",
+      "Shan, Weiwei"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-c0bcb62bb0ce",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 22.4–25.6-GHz Ping-Pong Sub-Sampling PLL Featuring Unified Supply Voltage Level and Balanced 2nd Harmonic Extraction",
+    "author": "Huang, Yunbo and Yang, Zunsong and Ren, Hongyu and Martins, Rui P. and Lu, Yan and Sun, Nan and Qi, Nan and Li, Bo and Chen, Yong",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "61",
+    "number": "6",
+    "pages": "2560-2573",
+    "doi": "10.1109/jssc.2025.3621088",
+    "url": "https://doi.org/10.1109/jssc.2025.3621088",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11227144"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3621088",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11227144"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Huang, Yunbo",
+      "Yang, Zunsong",
+      "Ren, Hongyu",
+      "Martins, Rui P.",
+      "Lu, Yan",
+      "Sun, Nan",
+      "Qi, Nan",
+      "Li, Bo",
+      "Chen, Yong"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-aec5d68cc5d3",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 28.71-ppm/°C Voltage Reference With 0.000006%/V Line Sensitivity and 35 μs Start-Up Time for High Voltage Applications",
+    "author": "Wang, Yining and Li, Xing and Lu, Yan and Liu, Weiqiang",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "",
+    "number": "",
+    "pages": "1-11",
+    "doi": "10.1109/jssc.2026.3737270",
+    "url": "https://doi.org/10.1109/jssc.2026.3737270",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11725301"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2026.3737270",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Wang, Yining",
+      "Li, Xing",
+      "Lu, Yan",
+      "Liu, Weiqiang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-1dc272a0f777",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fast-Slow Two-Module High-Power-Density DC–DC Solution With Transient and Efficiency Improvements",
+    "author": "Huang, Junwei and Tong, Zhiguo and Mao, Xiangyu and Lam, Chi-Seng and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "61",
+    "number": "6",
+    "pages": "2764-2774",
+    "doi": "10.1109/jssc.2025.3627117",
+    "url": "https://doi.org/10.1109/jssc.2025.3627117",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11240615"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3627117",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11240615"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Huang, Junwei",
+      "Tong, Zhiguo",
+      "Mao, Xiangyu",
+      "Lam, Chi-Seng",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-3710dfe9cc29",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A LEGO-Like Easy-Stacking SC Boost Converter",
+    "author": "Han, Shousheng and Song, Fei and Zhu, Zhongyao and Sin, Sai-Weng and Wu, Xiaoming and Jiang, Hanjun and Ren, Tianling and Lu, Yan",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "61",
+    "number": "9",
+    "pages": "4926-4938",
+    "doi": "10.1109/jssc.2026.3676525",
+    "url": "https://doi.org/10.1109/jssc.2026.3676525",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11458050"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2026.3676525",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Han, Shousheng",
+      "Song, Fei",
+      "Zhu, Zhongyao",
+      "Sin, Sai-Weng",
+      "Wu, Xiaoming",
+      "Jiang, Hanjun",
+      "Ren, Tianling",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-e723590aad3d",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Single-Stage CSCR-Based SIDO/DISO Converter With Almost-Lossless Path Switching",
+    "author": "Wang, Yuanfei and Lu, Yan and Luo, Ping and Martins, Rui P. and Huang, Mo",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "61",
+    "number": "9",
+    "pages": "4902-4913",
+    "doi": "10.1109/jssc.2026.3680968",
+    "url": "https://doi.org/10.1109/jssc.2026.3680968",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11478282"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2026.3680968",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Wang, Yuanfei",
+      "Lu, Yan",
+      "Luo, Ping",
+      "Martins, Rui P.",
+      "Huang, Mo"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-af7d6f2ea9c0",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Single-Stage Wireless Power Transmitter With Boosted and Regulated AC Output Voltage for D2D Wireless Fast Charging",
+    "author": "Mao, Fangyu and Li, Xiaofei and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "",
+    "number": "",
+    "pages": "1-10",
+    "doi": "10.1109/jssc.2026.3715060",
+    "url": "https://doi.org/10.1109/jssc.2026.3715060",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11626534"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2026.3715060",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Mao, Fangyu",
+      "Li, Xiaofei",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-5bb20b1d70ba",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Topology-Level Hybrid High-VCR Input-Parallel–Output-Series Step-Up DC–DC Converter for Flyweight Applications",
+    "author": "Han, Shousheng and Fang, Zanfeng and Tong, Zhiguo and Wu, Xiaoming and Jiang, Hanjun and Ren, Tianling and Lu, Yan",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "61",
+    "number": "6",
+    "pages": "2687-2698",
+    "doi": "10.1109/jssc.2025.3618957",
+    "url": "https://doi.org/10.1109/jssc.2025.3618957",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11215673"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3618957",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11215673"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Han, Shousheng",
+      "Fang, Zanfeng",
+      "Tong, Zhiguo",
+      "Wu, Xiaoming",
+      "Jiang, Hanjun",
+      "Ren, Tianling",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-725f1522bf4e",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An Accuracy-and-Efficiency-Configurable Blade-Type Approximate Multiplier With Genetic Algorithm-Based Automatic Training Framework",
+    "author": "Du, Yuxuan and Zhou, Kaize and Yan, Zhihao and Qian, Zhangrui and Chen, Zhuo and Yin, Jun and Lu, Yan and Shan, Weiwei",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "73",
+    "number": "8",
+    "pages": "5406-5419",
+    "doi": "10.1109/tcsi.2026.3678032",
+    "url": "https://doi.org/10.1109/tcsi.2026.3678032",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11477846"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2026.3678032",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Du, Yuxuan",
+      "Zhou, Kaize",
+      "Yan, Zhihao",
+      "Qian, Zhangrui",
+      "Chen, Zhuo",
+      "Yin, Jun",
+      "Lu, Yan",
+      "Shan, Weiwei"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-d8fee2f00675",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Design and Analysis of Small-TX Large-RX Coupler in Wireless Charging System for Mobile Devices",
+    "author": "Fang, Zanfeng and Han, Shousheng and Huang, Mo and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "73",
+    "number": "3",
+    "pages": "2170-2180",
+    "doi": "10.1109/tcsi.2025.3613518",
+    "url": "https://doi.org/10.1109/tcsi.2025.3613518",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11185076"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2025.3613518",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11185076"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Fang, Zanfeng",
+      "Han, Shousheng",
+      "Huang, Mo",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-196c645cec3e",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Hybrid-Polarity Logic Design and an Automated Algorithm for Glitch-Optimized Arithmetic Units",
+    "author": "Du, Yuxuan and Qian, Zhangrui and Li, Tuo and Wang, Changhong and Yan, Zhihao and Zhou, Kaize and Chen, Zhuo and Yin, Jun and Lu, Yan and Shan, Weiwei",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "73",
+    "number": "6",
+    "pages": "648-652",
+    "doi": "10.1109/tcsii.2026.3690140",
+    "url": "https://doi.org/10.1109/tcsii.2026.3690140",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11506432"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2026.3690140",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Du, Yuxuan",
+      "Qian, Zhangrui",
+      "Li, Tuo",
+      "Wang, Changhong",
+      "Yan, Zhihao",
+      "Zhou, Kaize",
+      "Chen, Zhuo",
+      "Yin, Jun",
+      "Lu, Yan",
+      "Shan, Weiwei"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-360337dbb6ba",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Phase-Scalable CF-Cross-Connected-Based Hybrid DC-DC Converter With Auto VCF Balancing and Inactive CF Charging",
+    "author": "Yang, Jiacheng and Hu, Tingxu and Lu, Yan and Ming, Xin and Martins, Rui P. and Huang, Mo",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "61",
+    "number": "1",
+    "pages": "366-377",
+    "doi": "10.1109/jssc.2025.3557060",
+    "url": "https://doi.org/10.1109/jssc.2025.3557060",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10964111"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3557060",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "10964111"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Yang, Jiacheng",
+      "Hu, Tingxu",
+      "Lu, Yan",
+      "Ming, Xin",
+      "Martins, Rui P.",
+      "Huang, Mo"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-3424d3d4c5c8",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Power Supply Ripple Rejection Analysis of Low-Dropout Regulators With a Buffer Stage",
+    "author": "Xu, Jinshuo and Wang, Naiqi and Sun, Nan and Lu, Yan",
+    "editor": "",
+    "year": 2026,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "73",
+    "number": "8",
+    "pages": "5128-5141",
+    "doi": "10.1109/tcsi.2026.3687445",
+    "url": "https://doi.org/10.1109/tcsi.2026.3687445",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11506410"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2026.3687445",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Xu, Jinshuo",
+      "Wang, Naiqi",
+      "Sun, Nan",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-256072d1de8a",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 1.52-W Capacitor-Drop Sigma-Floating-SC AC/DC Converter for Grid Power to IoT Devices",
+    "author": "Song, Fei and Han, Shousheng and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "12",
+    "pages": "4396-4406",
+    "doi": "10.1109/jssc.2025.3603990",
+    "url": "https://doi.org/10.1109/jssc.2025.3603990",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11151982"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3603990",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11151982"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Song, Fei",
+      "Han, Shousheng",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-3013be451942",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 2.5–5-V Input 100-V Output 86.2% Peak Efficiency Fibonacci-Dickson Hybrid Converter for Acoustic Surface Audio Driver",
+    "author": "Jiang, Yifan and Lu, Yan and Hu, Chen and Jiang, Junmin",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "9",
+    "pages": "3305-3316",
+    "doi": "10.1109/jssc.2025.3541341",
+    "url": "https://doi.org/10.1109/jssc.2025.3541341",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10892274"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3541341",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "10892274"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Jiang, Yifan",
+      "Lu, Yan",
+      "Hu, Chen",
+      "Jiang, Junmin"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-63a77bb0d629",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Bi-Directional Dual-Path Boost–Buck Hybrid Converter for High-Voltage Power Transmission Delivery Cable in Humanoid Robots",
+    "author": "Yang, Wenjie and Tong, Zhiguo and Huang, Junwei and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "12",
+    "pages": "4476-4489",
+    "doi": "10.1109/jssc.2025.3624037",
+    "url": "https://doi.org/10.1109/jssc.2025.3624037",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11223878"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3624037",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11223878"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Yang, Wenjie",
+      "Tong, Zhiguo",
+      "Huang, Junwei",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-cb2de95e3026",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Bidirectional USB Power Delivery Voltage-Regulating Cable",
+    "author": "Tong, Zhiguo and Huang, Junwei and Mao, Xiangyu and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "8",
+    "pages": "2866-2878",
+    "doi": "10.1109/jssc.2025.3527038",
+    "url": "https://doi.org/10.1109/jssc.2025.3527038",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10843964"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3527038",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Tong, Zhiguo",
+      "Huang, Junwei",
+      "Mao, Xiangyu",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-77da74c11987",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Double Pulse Overlapping Laser Diode Driver With Minimum 100-ps Pulse for LiDAR System",
+    "author": "Tong, Zhiguo and Huang, Junwei and Mao, Xiangyu and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "2",
+    "pages": "555-567",
+    "doi": "10.1109/jssc.2024.3434586",
+    "url": "https://doi.org/10.1109/jssc.2024.3434586",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10630865"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2024.3434586",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Tong, Zhiguo",
+      "Huang, Junwei",
+      "Mao, Xiangyu",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-d5ff7c5ec0b8",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Dual-Inductor Quad-Path Hybrid Buck (2L4PHB) Converter With Reduced Inductor Current",
+    "author": "Zeng, Wen-Liang and Cai, Guigang and Lu, Yan and Sin, Sai-Weng and Martins, Rui P. and Lam, Chi-Seng",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "9",
+    "pages": "3366-3378",
+    "doi": "10.1109/jssc.2025.3543582",
+    "url": "https://doi.org/10.1109/jssc.2025.3543582",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10906527"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3543582",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "10906527"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Zeng, Wen-Liang",
+      "Cai, Guigang",
+      "Lu, Yan",
+      "Sin, Sai-Weng",
+      "Martins, Rui P.",
+      "Lam, Chi-Seng"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-0e124945d0b1",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A GaN Driver IC With Asymmetrical dV/dt Current Clamping Level Shifter and Logic-Based Adaptive Deadtime Control",
+    "author": "Zhou, Dajun and Liu, Tianqi and Zhu, Zhongyao and Sin, Sai-Weng and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "72",
+    "number": "11",
+    "pages": "6750-6761",
+    "doi": "10.1109/tcsi.2025.3576158",
+    "url": "https://doi.org/10.1109/tcsi.2025.3576158",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11027909"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2025.3576158",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11027909"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Zhou, Dajun",
+      "Liu, Tianqi",
+      "Zhu, Zhongyao",
+      "Sin, Sai-Weng",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-f4c34c6d9004",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Linear Dynamic Voltage Scaling Technique With Adaptive Minimum Voltage Headroom Tracking for Implantable Neurostimulation",
+    "author": "Cui, Kai and Xu, Honglei and Duan, Yingduo and Lu, Yan and Fan, Xiaoya and Ma, Yanzhao",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Solid-State Circuits Letters",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "8",
+    "number": "",
+    "pages": "261-264",
+    "doi": "10.1109/lssc.2025.3608096",
+    "url": "https://doi.org/10.1109/lssc.2025.3608096",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "11157849"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/lssc.2025.3608096",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "11157849"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Cui, Kai",
+      "Xu, Honglei",
+      "Duan, Yingduo",
+      "Lu, Yan",
+      "Fan, Xiaoya",
+      "Ma, Yanzhao"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-4c2b9ae51291",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Multi-Path Inductor-First Inductor-on-Ground Switched-Capacitor Hybrid DC-DC Converter",
+    "author": "Huang, Junwei and Tong, Zhiguo and Lam, Chi-Seng and Mao, Xiangyu and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "6",
+    "pages": "2182-2193",
+    "doi": "10.1109/jssc.2024.3485210",
+    "url": "https://doi.org/10.1109/jssc.2024.3485210",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10742623"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2024.3485210",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Huang, Junwei",
+      "Tong, Zhiguo",
+      "Lam, Chi-Seng",
+      "Mao, Xiangyu",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-8eb40f265f18",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Resonant Switched-Capacitor Parallel Inductor Hybrid Buck Converter",
+    "author": "Cai, Guigang and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "72",
+    "number": "5",
+    "pages": "2432-2443",
+    "doi": "10.1109/tcsi.2025.3532228",
+    "url": "https://doi.org/10.1109/tcsi.2025.3532228",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10856718"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2025.3532228",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Cai, Guigang",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-b10794db8779",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Single-Input RF Energy-Harvesting Interface With Compensated-CEPE Control and 3-D Hill-Climbing MPPT Achieving −28.5-dBm Sensitivity",
+    "author": "Chen, Qiujin and Xia, Tian and Hu, Tingxu and Wang, Yuanfei and Lu, Yan and Martins, Rui P. and Huang, Mo",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "8",
+    "pages": "2933-2945",
+    "doi": "10.1109/jssc.2024.3516117",
+    "url": "https://doi.org/10.1109/jssc.2024.3516117",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10807159"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Chen, Qiujin",
+      "Xia, Tian",
+      "Hu, Tingxu",
+      "Wang, Yuanfei",
+      "Lu, Yan",
+      "Martins, Rui P.",
+      "Huang, Mo"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-dcee95b7852e",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Three-Fine-Level Buck–Boost Hybrid Converter Achieving Half-VIN-Stress on All Switches and Fast Transient Response",
+    "author": "Zhao, Shuangxing and Zhan, Chenchang and Zhang, Zhaobo and Bai, Xianglong and Huang, Chenyu and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "5",
+    "pages": "1719-1730",
+    "doi": "10.1109/jssc.2024.3453950",
+    "url": "https://doi.org/10.1109/jssc.2024.3453950",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10681460"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2024.3453950",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Zhao, Shuangxing",
+      "Zhan, Chenchang",
+      "Zhang, Zhaobo",
+      "Bai, Xianglong",
+      "Huang, Chenyu",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-53e6aefd8ccb",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A VCF-Step-Reconfigurable Continuously Scalable-Conversion-Ratio Switched- Capacitor Converter",
+    "author": "Wang, Yuanfei and Huang, Mo and Chen, Qiujin and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "2",
+    "pages": "626-637",
+    "doi": "10.1109/jssc.2024.3414448",
+    "url": "https://doi.org/10.1109/jssc.2024.3414448",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10576732"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2024.3414448",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Wang, Yuanfei",
+      "Huang, Mo",
+      "Chen, Qiujin",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-96f352bee5f4",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An Emulated Curve Assisted Fast-Transient Buck Converter With One-Cycle Charge Balance",
+    "author": "Tang, Zihao and Lu, Yan and Martins, Rui P. and Huang, Mo",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "9",
+    "pages": "3317-3328",
+    "doi": "10.1109/jssc.2025.3539593",
+    "url": "https://doi.org/10.1109/jssc.2025.3539593",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10903191"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2025.3539593",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/pub/ExPub.txt",
+        "key": "10903191"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Tang, Zihao",
+      "Lu, Yan",
+      "Martins, Rui P.",
+      "Huang, Mo"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-27766549486f",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An Isolated DC-DC Converter With Full-Duplex Communication Using a Single Pair of Transformers",
+    "author": "Hu, Tingxu and Lu, Yan and Martins, Rui P. and Huang, Mo",
+    "editor": "",
+    "year": 2025,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "3",
+    "pages": "1070-1081",
+    "doi": "10.1109/jssc.2024.3445316",
+    "url": "https://doi.org/10.1109/jssc.2024.3445316",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10645969"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2024.3445316",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Hu, Tingxu",
+      "Lu, Yan",
+      "Martins, Rui P.",
+      "Huang, Mo"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-ac7f2baa26ce",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 27 W Wireless Power Transceiver With Compact Single-Stage Regulated Class-E Architecture and Adaptive ZVS Control",
+    "author": "Ma, Xiaofei and Ki, Wing-Hung and Lu, Yan",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "59",
+    "number": "6",
+    "pages": "1782-1793",
+    "doi": "10.1109/jssc.2023.3333196",
+    "url": "https://doi.org/10.1109/jssc.2023.3333196",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10335186"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3333196",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Ma, Xiaofei",
+      "Ki, Wing-Hung",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-63f23a133d03",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Battery-Input Three-Mode Buck–Boost Hybrid DC–DC Converter With 97.6% Peak Efficiency",
+    "author": "Zhao, Shuangxing and Zhan, Chenchang and Lu, Yan",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "59",
+    "number": "5",
+    "pages": "1567-1577",
+    "doi": "10.1109/jssc.2023.3320200",
+    "url": "https://doi.org/10.1109/jssc.2023.3320200",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10281380"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3320200",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00030"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:4xDN1ZYqzskC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Zhao, Shuangxing",
+      "Zhan, Chenchang",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-6b497bb725eb",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully Synthesizable All-Digital Dual-Loop Distributed Low-Dropout Regulator",
+    "author": "Mao, Xiangyu and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "59",
+    "number": "6",
+    "pages": "1871-1882",
+    "doi": "10.1109/jssc.2023.3340008",
+    "url": "https://doi.org/10.1109/jssc.2023.3340008",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10371357"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3340008",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Mao, Xiangyu",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-ae6c830b6b34",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully-Integrated Flexible Dual-Ring Switched-Capacitor DC–DC Converter With Fractional VCRs and Parasitic Reduction",
+    "author": "Jiang, Yifan and Lu, Yan and Jiang, Junmin",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "71",
+    "number": "12",
+    "pages": "5683-5693",
+    "doi": "10.1109/tcsi.2024.3415955",
+    "url": "https://doi.org/10.1109/tcsi.2024.3415955",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10576048"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2024.3415955",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Jiang, Yifan",
+      "Lu, Yan",
+      "Jiang, Junmin"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-a7e3195accf2",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A High-Efficiency Wide Output Range Reconfigurable Capacitive-Sigma DC–DC Converter",
+    "author": "Yang, Xu and Zhao, Linhu and Tan, Zhichao and Zhao, Menglian and Ding, Yong and Li, Wuhua and Lu, Yan and Qu, Wanyuan",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "59",
+    "number": "5",
+    "pages": "1532-1542",
+    "doi": "10.1109/jssc.2023.3319511",
+    "url": "https://doi.org/10.1109/jssc.2023.3319511",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10278205"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3319511",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Yang, Xu",
+      "Zhao, Linhu",
+      "Tan, Zhichao",
+      "Zhao, Menglian",
+      "Ding, Yong",
+      "Li, Wuhua",
+      "Lu, Yan",
+      "Qu, Wanyuan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-5ca4d05ee43a",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Radio-Frequency Cross-Connected Rectifier With LC Source Degeneration",
+    "author": "Chen, Qiujin and Huang, Mo and Xia, Tian and Yin, Jun and Liu, Haiwen and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "71",
+    "number": "2",
+    "pages": "573-582",
+    "doi": "10.1109/tcsi.2023.3339962",
+    "url": "https://doi.org/10.1109/tcsi.2023.3339962",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10363640"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2023.3339962",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Chen, Qiujin",
+      "Huang, Mo",
+      "Xia, Tian",
+      "Yin, Jun",
+      "Liu, Haiwen",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-7d9f85b5a624",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Single-Inductor Multiple-Output DC–DC Converter With Fixed-Frequency Victim-Last Charge Control for Reduced Cross Regulation",
+    "author": "Li, Yang and Huang, Mo and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "71",
+    "number": "8",
+    "pages": "3904-3914",
+    "doi": "10.1109/tcsi.2024.3399224",
+    "url": "https://doi.org/10.1109/tcsi.2024.3399224",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10531808"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2024.3399224",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Li, Yang",
+      "Huang, Mo",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-a41b54e8d981",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Single-Stage Bipolar-Output Regulating Rectifier With Negligible Cross-Regulation for Wireless Display",
+    "author": "Huang, Chenyu and Zhan, Chenchang and Bai, Xianglong and Lu, Yan",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "59",
+    "number": "9",
+    "pages": "2983-2994",
+    "doi": "10.1109/jssc.2024.3385337",
+    "url": "https://doi.org/10.1109/jssc.2024.3385337",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10496692"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2024.3385337",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Huang, Chenyu",
+      "Zhan, Chenchang",
+      "Bai, Xianglong",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-257862fcde79",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An Overview of Hybrid DC–DC Converters: From Seeds to Leaves",
+    "author": "Lu, Yan and Huang, Junwei and Tong, Zhiguo and Hu, Tingxu and Zeng, Wen-Liang and Huang, Mo and Mao, Xiangyu and Cai, Guigang",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Open Journal of the Solid-State Circuits Society",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "4",
+    "number": "",
+    "pages": "12-24",
+    "doi": "10.1109/ojsscs.2023.3334228",
+    "url": "https://doi.org/10.1109/ojsscs.2023.3334228",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10323295"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/ojsscs.2023.3334228",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00078"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:QD3KBmkZPeQC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Lu, Yan",
+      "Huang, Junwei",
+      "Tong, Zhiguo",
+      "Hu, Tingxu",
+      "Zeng, Wen-Liang",
+      "Huang, Mo",
+      "Mao, Xiangyu",
+      "Cai, Guigang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-cd853688938c",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Guest Editorial 2023 Custom Integrated Circuits Conference",
+    "author": "Lu, Yan and Li, Shaolan",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "59",
+    "number": "3",
+    "pages": "651-652",
+    "doi": "10.1109/jssc.2023.3346068",
+    "url": "https://doi.org/10.1109/jssc.2023.3346068",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10445391"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3346068",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Li, Shaolan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-b38df053df03",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Guest Editorial Introduction to the Special Section on the 2024 IEEE International Solid-State Circuits Conference (ISSCC)",
+    "author": "Hall, Drew A. and Lu, Yan and Maghari, Nima and Deng, Wei and Giannini, Vito",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "59",
+    "number": "12",
+    "pages": "3879-3883",
+    "doi": "10.1109/jssc.2024.3485320",
+    "url": "https://doi.org/10.1109/jssc.2024.3485320",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10767262"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Hall, Drew A.",
+      "Lu, Yan",
+      "Maghari, Nima",
+      "Deng, Wei",
+      "Giannini, Vito"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-beb9e0e5b958",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Optimizing Power Transfer Efficiency in Biomedical Implants: A Comparative Analysis of SS and SP Inductive Link Topologies",
+    "author": "Xia, Fen and Mao, Fangyu and Lu, Yan and Sawan, Mohamad",
+    "editor": "",
+    "year": 2024,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "39",
+    "number": "9",
+    "pages": "11770-11783",
+    "doi": "10.1109/tpel.2024.3402238",
+    "url": "https://doi.org/10.1109/tpel.2024.3402238",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10533450"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2024.3402238",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Xia, Fen",
+      "Mao, Fangyu",
+      "Lu, Yan",
+      "Sawan, Mohamad"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-aa3419ae4170",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 1-A Switching LDO With 40-mV Dropout Voltage and Fast DVS",
+    "author": "Mao, Xiangyu and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "70",
+    "number": "9",
+    "pages": "3454-3458",
+    "doi": "10.1109/tcsii.2023.3257023",
+    "url": "https://doi.org/10.1109/tcsii.2023.3257023",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10068804"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2023.3257023",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Mao, Xiangyu",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-f7176c83f97b",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 12-to-1 Flying Capacitor Cross-Connected Buck Converter With Inserted D > 0.5 Control for Fast Transient Response",
+    "author": "Hu, Tingxu and Huang, Mo and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "58",
+    "number": "11",
+    "pages": "3207-3218",
+    "doi": "10.1109/jssc.2023.3297111",
+    "url": "https://doi.org/10.1109/jssc.2023.3297111",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10198512"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3297111",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00012"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:PVgj2kMGcgYC"
+    ],
+    "notes": [],
+    "authors": [
+      "Hu, Tingxu",
+      "Huang, Mo",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-e39ef9f1294f",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 12-to-1 V Quad-Output Switched-Capacitor Buck Converter With Shared DC Capacitors",
+    "author": "Hu, Tingxu and Huang, Mo and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "58",
+    "number": "12",
+    "pages": "3492-3502",
+    "doi": "10.1109/jssc.2023.3301068",
+    "url": "https://doi.org/10.1109/jssc.2023.3301068",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10214655"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3301068",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00013"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:uDGL6kOW6j0C"
+    ],
+    "notes": [],
+    "authors": [
+      "Hu, Tingxu",
+      "Huang, Mo",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-23896a659946",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 200 MHz Passive Rectifier With Active-Static Hybrid VTH Compensation Obtaining 8% PCE Improvement",
+    "author": "Li, Xiaofei and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "38",
+    "number": "5",
+    "pages": "5655-5658",
+    "doi": "10.1109/tpel.2023.3241095",
+    "url": "https://doi.org/10.1109/tpel.2023.3241095",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10032573"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2023.3241095",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Li, Xiaofei",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-befb669c37b4",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 6.78-MHz Wireless Power Transfer System With Inherent Wireless Phase Shift Control Without Feedback Data Sensing Coil",
+    "author": "Bai, Xianglong and Lu, Yan and Zhan, Chenchang and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "58",
+    "number": "6",
+    "pages": "1746-1757",
+    "doi": "10.1109/jssc.2022.3228101",
+    "url": "https://doi.org/10.1109/jssc.2022.3228101",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9993729"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2022.3228101",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00028"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:5MTHONV0fEkC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Bai, Xianglong",
+      "Lu, Yan",
+      "Zhan, Chenchang",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-2edc2d3bb341",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Battery to 70-V Hybrid Boost Converter Achieving 14-to-20 VCR for Piezoelectric Actuators",
+    "author": "Jiang, Yifan and Hu, Chen and Wu, Han and Lu, Yan and Liu, Xun and Jiang, Junmin",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "70",
+    "number": "10",
+    "pages": "3857-3861",
+    "doi": "10.1109/tcsii.2023.3289910",
+    "url": "https://doi.org/10.1109/tcsii.2023.3289910",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10164631"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2023.3289910",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Jiang, Yifan",
+      "Hu, Chen",
+      "Wu, Han",
+      "Lu, Yan",
+      "Liu, Xun",
+      "Jiang, Junmin"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-598ed299acb8",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A High-Current Scalable Parallel LDO Scheme With Analog-Digital Merged Control for Small Current-Sharing Mismatch",
+    "author": "Mao, Xiangyu and Lu, Yan and Wang, Chuang and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "70",
+    "number": "10",
+    "pages": "3857-3866",
+    "doi": "10.1109/tcsi.2023.3293133",
+    "url": "https://doi.org/10.1109/tcsi.2023.3293133",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10185923"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2023.3293133",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Mao, Xiangyu",
+      "Lu, Yan",
+      "Wang, Chuang",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-d4a92ba36be0",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Hybrid Single-Inductor Bipolar Triple-Output DC–DC Converter With High-Quality Positive Outputs for AMOLED Displays",
+    "author": "Mao, Fangyu and Lu, Yan and Maloberti, Franco and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "70",
+    "number": "1",
+    "pages": "506-517",
+    "doi": "10.1109/tcsi.2022.3211100",
+    "url": "https://doi.org/10.1109/tcsi.2022.3211100",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9913209"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2022.3211100",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00048"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:Aul-kAQHnToC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Mao, Fangyu",
+      "Lu, Yan",
+      "Maloberti, Franco",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-3e7d373398ff",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Level Shifter With Almost Full Immunity to Positive dv/dt for Buck Converters",
+    "author": "Yang, Yunzhe and Huang, Mo and Du, Sijun and Martins, Rui P. and Lu, Yan",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "70",
+    "number": "11",
+    "pages": "4595-4604",
+    "doi": "10.1109/tcsi.2023.3307869",
+    "url": "https://doi.org/10.1109/tcsi.2023.3307869",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10236598"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2023.3307869",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00050"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:U4n9YNQMCAIC"
+    ],
+    "notes": [],
+    "authors": [
+      "Yang, Yunzhe",
+      "Huang, Mo",
+      "Du, Sijun",
+      "Martins, Rui P.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-4790b63ee98c",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "All Rivers Flow to the Sea: A High-Density Wireless Power Receiver With Split-Dual-Path and Hybrid-Quad-Path Step-Down Rectifying Conversion",
+    "author": "Lin, Zixiao and Lu, Yan and Mao, Fangyu and Wang, Chuang and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "58",
+    "number": "11",
+    "pages": "3127-3137",
+    "doi": "10.1109/jssc.2023.3287212",
+    "url": "https://doi.org/10.1109/jssc.2023.3287212",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10167548"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2023.3287212",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Lin, Zixiao",
+      "Lu, Yan",
+      "Mao, Fangyu",
+      "Wang, Chuang",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-279e6e4f17d5",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An SC-Parallel-Inductor Hybrid Buck Converter With Reduced Inductor Voltage and Current",
+    "author": "Cai, Guigang and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "58",
+    "number": "6",
+    "pages": "1758-1768",
+    "doi": "10.1109/jssc.2022.3213835",
+    "url": "https://doi.org/10.1109/jssc.2022.3213835",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9927404"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2022.3213835",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00079"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:u-coK7KVo8oC"
+    ],
+    "notes": [],
+    "authors": [
+      "Cai, Guigang",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-ac7c36e7658b",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Favorable basic cells for hybrid DC–DC converters",
+    "author": "Lu, Yan and Cai, Guigang and Huang, Junwei",
+    "editor": "",
+    "year": 2023,
+    "journal": "Journal of Semiconductors",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "44",
+    "number": "4",
+    "pages": "040301",
+    "doi": "10.1088/1674-4926/44/4/040301",
+    "url": "https://doi.org/10.1088/1674-4926/44/4/040301",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00088"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1088/1674-4926/44/4/040301",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:artPoR2Yc-kC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Lu, Yan",
+      "Cai, Guigang",
+      "Huang, Junwei"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-e1d83a8678d6",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Guest Editorial 2022 Custom Integrated Circuits Conference",
+    "author": "Sheikh, Farhana and Lu, Yan",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "58",
+    "number": "3",
+    "pages": "587-588",
+    "doi": "10.1109/jssc.2023.3236279",
+    "url": "https://doi.org/10.1109/jssc.2023.3236279",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10051125"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Sheikh, Farhana",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-d5dcadec3da5",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Relative Stability Analysis of Multi-Loop Low Dropout Regulators Using a Sub-Loop Superposition Method",
+    "author": "Yang, Zihan and Huang, Mo and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2023,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "70",
+    "number": "11",
+    "pages": "3968-3972",
+    "doi": "10.1109/tcsii.2023.3282633",
+    "url": "https://doi.org/10.1109/tcsii.2023.3282633",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "10143923"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2023.3282633",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Yang, Zihan",
+      "Huang, Mo",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-9dd04defee52",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 1.2-A Calibration-Free Hybrid LDO With In-Loop Quantization and Auxiliary Constant Current Control Achieving High Accuracy and Fast DVS",
+    "author": "Mao, Xiangyu and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "69",
+    "number": "11",
+    "pages": "4443-4452",
+    "doi": "10.1109/tcsi.2022.3198268",
+    "url": "https://doi.org/10.1109/tcsi.2022.3198268",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9859258"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2022.3198268",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Mao, Xiangyu",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-47fe56369031",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Capacitor-Cross-Connected Boost Converter With Duty Cycle < 0.5 Control for Extended Conversion-Ratio and Soft Start-Up",
+    "author": "Hu, Tingxu and Huang, Mo and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "69",
+    "number": "10",
+    "pages": "4272-4283",
+    "doi": "10.1109/tcsi.2022.3189161",
+    "url": "https://doi.org/10.1109/tcsi.2022.3189161",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9828493"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2022.3189161",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Hu, Tingxu",
+      "Huang, Mo",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-878ee78bf2ee",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Dual-Branch Series-Parallel Hybrid Buck DC-DC Converter With Flying Capacitor Voltage Auto-Balancing",
+    "author": "Wang, Chuang and Lu, Yan and Li, Xiuping and Martins, Rui P.",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "69",
+    "number": "12",
+    "pages": "4741-4750",
+    "doi": "10.1109/tcsi.2022.3201166",
+    "url": "https://doi.org/10.1109/tcsi.2022.3201166",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9872148"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2022.3201166",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Wang, Chuang",
+      "Lu, Yan",
+      "Li, Xiuping",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-fd17f375b987",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Highly Integrated Tri-Path Hybrid Buck Converter With Reduced Inductor Current and Self-Balanced Flying Capacitor Voltage",
+    "author": "Wang, Chuang and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "69",
+    "number": "9",
+    "pages": "3841-3850",
+    "doi": "10.1109/tcsi.2022.3182145",
+    "url": "https://doi.org/10.1109/tcsi.2022.3182145",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9804688"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2022.3182145",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00046"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:Ehil0879vHcC"
+    ],
+    "notes": [],
+    "authors": [
+      "Wang, Chuang",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-562919b6179e",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Reconfigurable Single-Stage Asymmetrical Full-Wave Step-Down Rectifier for Bidirectional Device-to-Device Wireless Fast Charging",
+    "author": "Mao, Fangyu and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "57",
+    "number": "6",
+    "pages": "1888-1898",
+    "doi": "10.1109/jssc.2022.3149921",
+    "url": "https://doi.org/10.1109/jssc.2022.3149921",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9718584"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2022.3149921",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Mao, Fangyu",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-12c9d1b5e28a",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Scalable High-Current High-Accuracy Dual-Loop Four-Phase Switching LDO for Microprocessors",
+    "author": "Mao, Xiangyu and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "57",
+    "number": "6",
+    "pages": "1841-1853",
+    "doi": "10.1109/jssc.2021.3129620",
+    "url": "https://doi.org/10.1109/jssc.2021.3129620",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9639005"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2021.3129620",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00058"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:OR75R8vi5nAC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Mao, Xiangyu",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-55f333c694d5",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Symmetrical Double Step-Down Converter With Extended Voltage Conversion Ratio",
+    "author": "Huang, Junwei and Lam, Chi-Seng and Lu, Yan and Martins, Rui Paulo",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "69",
+    "number": "12",
+    "pages": "4761-4773",
+    "doi": "10.1109/tcsi.2022.3197356",
+    "url": "https://doi.org/10.1109/tcsi.2022.3197356",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9859259"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2022.3197356",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00062"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:_OXeSy2IsFwC"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Junwei",
+      "Lam, Chi-Seng",
+      "Lu, Yan",
+      "Martins, Rui Paulo"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-34b50a853365",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "RF Rectifiers With Wide Incident Angle of Incoming Waves Based on Rat-Race Couplers",
+    "author": "Liu, Jian and Huang, Mo and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2022,
+    "journal": "IEEE Transactions on Microwave Theory and Techniques",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "70",
+    "number": "3",
+    "pages": "1983-1993",
+    "doi": "10.1109/tmtt.2021.3132331",
+    "url": "https://doi.org/10.1109/tmtt.2021.3132331",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9656164"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tmtt.2021.3132331",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00095"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:3htObqc8RwsC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Liu, Jian",
+      "Huang, Mo",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-a421da8f186d",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Trending IC design directions in 2022",
+    "author": "Chi-Hang Chan and Lin Cheng and Wei Deng and Peng Feng and Li Geng and Mo Huang and Haikun Jia and Lu Jie and Ka-Meng Lei and Xihao Liu and Xun Liu and Yongpan Liu and Yan Lu and Kaiming Nie and Dongfang Pan and Nan Qi and Sai-Weng Sin and Nan Sun and Wenyu Sun and Jiangtao Xu and Jinshan Yue and Milin Zhang and Zhao Zhang",
+    "editor": "",
+    "year": 2022,
+    "journal": "Journal of Semiconductors",
+    "booktitle": "",
+    "publisher": "IOP Publishing",
+    "volume": "43",
+    "number": "7",
+    "pages": "071401",
+    "doi": "10.1088/1674-4926/43/7/071401",
+    "url": "https://doi.org/10.1088/1674-4926/43/7/071401",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1088/1674-4926/43/7/071401",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00099"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:P7Ujq4OLJYoC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Chi-Hang Chan",
+      "Lin Cheng",
+      "Wei Deng",
+      "Peng Feng",
+      "Li Geng",
+      "Mo Huang",
+      "Haikun Jia",
+      "Lu Jie",
+      "Ka-Meng Lei",
+      "Xihao Liu",
+      "Xun Liu",
+      "Yongpan Liu",
+      "Yan Lu",
+      "Kaiming Nie",
+      "Dongfang Pan",
+      "Nan Qi",
+      "Sai-Weng Sin",
+      "Nan Sun",
+      "Wenyu Sun",
+      "Jiangtao Xu",
+      "Jinshan Yue",
+      "Milin Zhang",
+      "Zhao Zhang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-0ec3dd4eaaf2",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 2.4-GHz CMOS Differential Class-DE Rectifier With Coupled Inductors",
+    "author": "Hu, Tingxu and Huang, Mo and Lu, Yan and Zhang, Xiu Yin and Maloberti, Franco and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "36",
+    "number": "9",
+    "pages": "9864-9875",
+    "doi": "10.1109/tpel.2021.3061703",
+    "url": "https://doi.org/10.1109/tpel.2021.3061703",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9362286"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2021.3061703",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00017"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:QYdC8u9Cj1oC"
+    ],
+    "notes": [],
+    "authors": [
+      "Hu, Tingxu",
+      "Huang, Mo",
+      "Lu, Yan",
+      "Zhang, Xiu Yin",
+      "Maloberti, Franco",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-096e927a98d7",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 3-Phase Resonant Switched-Capacitor Converter for Data Center 48-V Rack Power Distribution",
+    "author": "Wang, Chuang and Lu, Yan and Sun, Nan and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "68",
+    "number": "6",
+    "pages": "2714-2724",
+    "doi": "10.1109/tcsi.2021.3068564",
+    "url": "https://doi.org/10.1109/tcsi.2021.3068564",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9395634"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2021.3068564",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00020"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:mNrWkgRL2YcC"
+    ],
+    "notes": [],
+    "authors": [
+      "Wang, Chuang",
+      "Lu, Yan",
+      "Sun, Nan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-59a45a94c962",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 6.78-MHz Single-Stage Wireless Power Receiver With Ultrafast Transient Response Using Hysteretic Control and Multilevel Current-Wave Modulation",
+    "author": "Lin, Jie and Zhan, Chenchang and Lu, Yan",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "36",
+    "number": "9",
+    "pages": "9918-9926",
+    "doi": "10.1109/tpel.2021.3062400",
+    "url": "https://doi.org/10.1109/tpel.2021.3062400",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9364718"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2021.3062400",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00027"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:OTTXONDVkokC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lin, Jie",
+      "Zhan, Chenchang",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-889a7225aadc",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully Integrated FVF LDO With Enhanced Full-Spectrum Power Supply Rejection",
+    "author": "Cai, Guigang and Lu, Yan and Zhan, Chenchang and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "36",
+    "number": "4",
+    "pages": "4326-4337",
+    "doi": "10.1109/tpel.2020.3024595",
+    "url": "https://doi.org/10.1109/tpel.2020.3024595",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9200562"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2020.3024595",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00039"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:4hFrxpcac9AC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Cai, Guigang",
+      "Lu, Yan",
+      "Zhan, Chenchang",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-019bb93b7269",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Highly Integrated 3-Phase 4:1 Resonant Switched-Capacitor Converter With Parasitic Loss Reduction and Fast Pre-Charge Startup",
+    "author": "Wang, Chuang and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "68",
+    "number": "7",
+    "pages": "2608-2612",
+    "doi": "10.1109/tcsii.2021.3060188",
+    "url": "https://doi.org/10.1109/tcsii.2021.3060188",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9356662"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2021.3060188",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00045"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:IUKN3-7HHlwC"
+    ],
+    "notes": [],
+    "authors": [
+      "Wang, Chuang",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-657606761c84",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Hybrid Boost Converter With Cross-Connected Flying Capacitors",
+    "author": "Huang, Mo and Lu, Yan and Hu, Tingxu and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "56",
+    "number": "7",
+    "pages": "2102-2112",
+    "doi": "10.1109/jssc.2020.3044062",
+    "url": "https://doi.org/10.1109/jssc.2020.3044062",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9310201"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2020.3044062",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00047"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:_5tno0g5mFcC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Huang, Mo",
+      "Lu, Yan",
+      "Hu, Tingxu",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-057b1e9ec357",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Hybrid Single-Inductor Bipolar-Output DC–DC Converter With Floating Negative Output for AMOLED Displays",
+    "author": "Mao, Fangyu and Lu, Yan and Bonizzoni, Edoardo and Boera, Filippo and Huang, Mo and Maloberti, Franco and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "56",
+    "number": "9",
+    "pages": "2760-2769",
+    "doi": "10.1109/jssc.2021.3062092",
+    "url": "https://doi.org/10.1109/jssc.2021.3062092",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9373993"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2021.3062092",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00049"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:dBIO0h50nwkC"
+    ],
+    "notes": [],
+    "authors": [
+      "Mao, Fangyu",
+      "Lu, Yan",
+      "Bonizzoni, Edoardo",
+      "Boera, Filippo",
+      "Huang, Mo",
+      "Maloberti, Franco",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-aa8e2d04629f",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Single-Stage Dual-Output Regulating Rectifier With Hysteretic Current-Wave Modulation",
+    "author": "Lin, Jie and Lu, Yan and Zhan, Chenchang and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "56",
+    "number": "9",
+    "pages": "2770-2780",
+    "doi": "10.1109/jssc.2021.3071221",
+    "url": "https://doi.org/10.1109/jssc.2021.3071221",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9404303"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2021.3071221",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00060"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:4vMrXwiscB8C"
+    ],
+    "notes": [],
+    "authors": [
+      "Lin, Jie",
+      "Lu, Yan",
+      "Zhan, Chenchang",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-fbc96060e4d1",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Two-Phase Three-Level Buck Converter With Cross-Connected Flying Capacitors for Inductor Current Balancing",
+    "author": "Wang, Chuang and Lu, Yan and Huang, Mo and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "36",
+    "number": "12",
+    "pages": "13855-13866",
+    "doi": "10.1109/tpel.2021.3084218",
+    "url": "https://doi.org/10.1109/tpel.2021.3084218",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9442910"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2021.3084218",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00063"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:HeT0ZceujKMC"
+    ],
+    "notes": [],
+    "authors": [
+      "Wang, Chuang",
+      "Lu, Yan",
+      "Huang, Mo",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-5f66dbb9b22a",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Adaptive Maximum Power Point Tracking With Model-Based Negative Feedback Control and Improved V–f Model",
+    "author": "Wang, Yuanfei and Huang, Mo and Luo, Ping and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "68",
+    "number": "9",
+    "pages": "3103-3107",
+    "doi": "10.1109/tcsii.2021.3097825",
+    "url": "https://doi.org/10.1109/tcsii.2021.3097825",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9488276"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2021.3097825",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Wang, Yuanfei",
+      "Huang, Mo",
+      "Luo, Ping",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-529e3f6e7342",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Circuit Techniques for High Efficiency Fully-Integrated Switched-Capacitor Converters",
+    "author": "Jiang, Junmin and Liu, Xun and Ki, Wing-Hung and Mok, Philip K. T. and Lu, Yan",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "68",
+    "number": "2",
+    "pages": "556-561",
+    "doi": "10.1109/tcsii.2020.3046514",
+    "url": "https://doi.org/10.1109/tcsii.2020.3046514",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9302632"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2020.3046514",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00082"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:6ZxmRoH8BuwC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Jiang, Junmin",
+      "Liu, Xun",
+      "Ki, Wing-Hung",
+      "Mok, Philip K. T.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-cb12d6ceb4da",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Optimization of MEMS Vibration Energy Harvester With Perforated Electrode",
+    "author": "Luo, Anxin and Zhang, Yulong and Guo, Xinge and Lu, Yan and Lee, Chengkuo and Wang, Fei",
+    "editor": "",
+    "year": 2021,
+    "journal": "Journal of Microelectromechanical Systems",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "30",
+    "number": "2",
+    "pages": "299-308",
+    "doi": "10.1109/jmems.2021.3058766",
+    "url": "https://doi.org/10.1109/jmems.2021.3058766",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9360317"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00093"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:9c2xU6iGI7YC"
+    ],
+    "notes": [],
+    "authors": [
+      "Luo, Anxin",
+      "Zhang, Yulong",
+      "Guo, Xinge",
+      "Lu, Yan",
+      "Lee, Chengkuo",
+      "Wang, Fei"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-dedf2b0ecad3",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Review of Analog-Assisted-Digital and Digital-Assisted-Analog Low Dropout Regulators",
+    "author": "Huang, Mo and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2021,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "68",
+    "number": "1",
+    "pages": "24-29",
+    "doi": "10.1109/tcsii.2020.3040393",
+    "url": "https://doi.org/10.1109/tcsii.2020.3040393",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9270575"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2020.3040393",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00094"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:sNmaIFBj_lkC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Huang, Mo",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-661b1b209e18",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Spray-coated electret materials with enhanced stability in a harsh environment for an MEMS energy harvesting device",
+    "author": "Anxin Luo and Yixin Xu and Yulong Zhang and Mi Zhang and Xiaoqing Zhang and Yan Lu and Fei Wang",
+    "editor": "",
+    "year": 2021,
+    "journal": "Microsystems & Nanoengineering",
+    "booktitle": "",
+    "publisher": "Springer Science and Business Media LLC",
+    "volume": "7",
+    "number": "1",
+    "pages": "",
+    "doi": "10.1038/s41378-021-00239-0",
+    "url": "https://doi.org/10.1038/s41378-021-00239-0",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1038/s41378-021-00239-0",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00097"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:IRz6iEL74y4C"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Anxin Luo",
+      "Yixin Xu",
+      "Yulong Zhang",
+      "Mi Zhang",
+      "Xiaoqing Zhang",
+      "Yan Lu",
+      "Fei Wang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-c49d6cba9b26",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 2.4-GHz Mid-Field CMOS Wireless Power Receiver Achieving 46% Maximum PCE and 163-mW Output Power",
+    "author": "Li, Xiaofei and Lu, Yan and Huang, Mo and Martins, Rui P.",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "67",
+    "number": "2",
+    "pages": "360-364",
+    "doi": "10.1109/tcsii.2019.2911642",
+    "url": "https://doi.org/10.1109/tcsii.2019.2911642",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8692630"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2019.2911642",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00018"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:Dip1O2bNi0gC"
+    ],
+    "notes": [],
+    "authors": [
+      "Li, Xiaofei",
+      "Lu, Yan",
+      "Huang, Mo",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-de75a2210686",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A comparative study of digital low dropout regulators",
+    "author": "Mo Huang and Yan Lu and Rui P. Martins",
+    "editor": "",
+    "year": 2020,
+    "journal": "Journal of Semiconductors",
+    "booktitle": "",
+    "publisher": "IOP Publishing",
+    "volume": "41",
+    "number": "11",
+    "pages": "111405",
+    "doi": "10.1088/1674-4926/41/11/111405",
+    "url": "https://doi.org/10.1088/1674-4926/41/11/111405",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1088/1674-4926/41/11/111405",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00032"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:umqufdRvDiIC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Mo Huang",
+      "Yan Lu",
+      "Rui P. Martins"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-2fc5dc6d9adb",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully Integrated LDO With 50-mV Dropout for Power Efficiency Optimization",
+    "author": "Ma, Xiaofei and Lu, Yan and Li, Qiang",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "67",
+    "number": "4",
+    "pages": "725-729",
+    "doi": "10.1109/tcsii.2019.2919665",
+    "url": "https://doi.org/10.1109/tcsii.2019.2919665",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8723615"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2019.2919665",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00041"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:q3CdL3IzO_QC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Ma, Xiaofei",
+      "Lu, Yan",
+      "Li, Qiang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-e64f8d056fa7",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Multiphase Switched-Capacitor Converter for Fully Integrated AMLED Microdisplay System",
+    "author": "Jiang, Junmin and Liu, Xun and Ki, Wing-Hung and Mok, Philip K. T. and Lu, Yan",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "35",
+    "number": "6",
+    "pages": "6001-6011",
+    "doi": "10.1109/tpel.2019.2951799",
+    "url": "https://doi.org/10.1109/tpel.2019.2951799",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8892517"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2019.2951799",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00051"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:rmuvC79q63oC"
+    ],
+    "notes": [],
+    "authors": [
+      "Jiang, Junmin",
+      "Liu, Xun",
+      "Ki, Wing-Hung",
+      "Mok, Philip K. T.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-6b7084cfd67c",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Nano-Watt Dual-Output Subthreshold CMOS Voltage Reference",
+    "author": "Lin, Jie and Wang, Lidan and Lu, Yan and Zhan, Chenchang",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Open Journal of Circuits and Systems",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "1",
+    "number": "",
+    "pages": "100-106",
+    "doi": "10.1109/ojcas.2020.3005546",
+    "url": "https://doi.org/10.1109/ojcas.2020.3005546",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9127522"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/ojcas.2020.3005546",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00053"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:_FM0Bhl9EiAC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lin, Jie",
+      "Wang, Lidan",
+      "Lu, Yan",
+      "Zhan, Chenchang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-91633d242f19",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Two-Phase Three-Level Buck DC–DC Converter With X-Connected Flying Capacitors for Current Balancing",
+    "author": "Wang, Chuang and Lu, Yan and Huang, Mo and Martins, Rui P.",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Solid-State Circuits Letters",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "3",
+    "number": "",
+    "pages": "442-445",
+    "doi": "10.1109/lssc.2020.3026056",
+    "url": "https://doi.org/10.1109/lssc.2020.3026056",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9204731"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/lssc.2020.3026056",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00064"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:a9-T7VOCCH8C"
+    ],
+    "notes": [],
+    "authors": [
+      "Wang, Chuang",
+      "Lu, Yan",
+      "Huang, Mo",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-4f8fe7a13a2b",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A VHF Wide-Input Range CMOS Passive Rectifier With Active Bias Tuning",
+    "author": "Li, Xiaofei and Mao, Fangyu and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "55",
+    "number": "10",
+    "pages": "2629-2638",
+    "doi": "10.1109/jssc.2020.3005814",
+    "url": "https://doi.org/10.1109/jssc.2020.3005814",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9138458"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2020.3005814",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00065"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:0izLItjtcgwC"
+    ],
+    "notes": [],
+    "authors": [
+      "Li, Xiaofei",
+      "Mao, Fangyu",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-2444a059ace7",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An Analog-Proportional Digital-Integral Multiloop Digital LDO With PSR Improvement and LCO Reduction",
+    "author": "Huang, Mo and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "55",
+    "number": "6",
+    "pages": "1637-1650",
+    "doi": "10.1109/jssc.2020.2967540",
+    "url": "https://doi.org/10.1109/jssc.2020.2967540",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8978580"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2020.2967540",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00073"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:Ri6SYOTghG4C"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Mo",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-7959e0f54355",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An inertial rotary energy harvester for vibrations at ultra-low frequency with high energy conversion efficiency",
+    "author": "Luo, Anxin and Zhang, Yulong and Dai, Xiangtian and Wang, Yifan and Xu, Weihan and Lu, Yan and Wang, Min and Fan, Kangqi and Wang, Fei",
+    "editor": "",
+    "year": 2020,
+    "journal": "Applied Energy",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "279",
+    "number": "",
+    "pages": "115762",
+    "doi": "10.1016/j.apenergy.2020.115762",
+    "url": "https://doi.org/10.1016/j.apenergy.2020.115762",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00074"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1016/j.apenergy.2020.115762",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:NXb4pA-qfm4C"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Luo, Anxin",
+      "Zhang, Yulong",
+      "Dai, Xiangtian",
+      "Wang, Yifan",
+      "Xu, Weihan",
+      "Lu, Yan",
+      "Wang, Min",
+      "Fan, Kangqi",
+      "Wang, Fei"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-1a32eed7798e",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An NMOS Digital LDO With NAND-Based Analog-Assisted Loop in 28-nm CMOS",
+    "author": "Ma, Xiaofei and Lu, Yan and Li, Qiang and Ki, Wing-Hung and Martins, Rui P.",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "67",
+    "number": "11",
+    "pages": "4041-4052",
+    "doi": "10.1109/tcsi.2020.3009454",
+    "url": "https://doi.org/10.1109/tcsi.2020.3009454",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "9146705"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2020.3009454",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00076"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:anf4URPfarAC"
+    ],
+    "notes": [],
+    "authors": [
+      "Ma, Xiaofei",
+      "Lu, Yan",
+      "Li, Qiang",
+      "Ki, Wing-Hung",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-d85d68b10c5a",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Dual Active-Feedback Frequency Compensation for Output-Capacitorless LDO With Transient and Stability Enhancement in 65-nm CMOS",
+    "author": "Li, Guangxiang and Qian, Huimin and Guo, Jianping and Mo, Bing and Lu, Yan and Chen, Dihu",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "35",
+    "number": "1",
+    "pages": "415-429",
+    "doi": "10.1109/tpel.2019.2910557",
+    "url": "https://doi.org/10.1109/tpel.2019.2910557",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8688481"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2019.2910557",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00087"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:xtoqd-5pKcoC"
+    ],
+    "notes": [
+      "Source year differs from canonical publication year; source_year retained."
+    ],
+    "authors": [
+      "Li, Guangxiang",
+      "Qian, Huimin",
+      "Guo, Jianping",
+      "Mo, Bing",
+      "Lu, Yan",
+      "Chen, Dihu"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-48f1505fb70e",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Rotational electromagnetic energy harvester for human motion application at low frequency",
+    "author": "Yulong Zhang and Anxin Luo and Yifan Wang and Xiangtian Dai and Yan Lu and Fei Wang",
+    "editor": "",
+    "year": 2020,
+    "journal": "Applied Physics Letters",
+    "booktitle": "",
+    "publisher": "AIP Publishing",
+    "volume": "116",
+    "number": "5",
+    "pages": "",
+    "doi": "10.1063/1.5142575",
+    "url": "https://doi.org/10.1063/1.5142575",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1063/1.5142575",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00096"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:FAceZFleit8C"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Yulong Zhang",
+      "Anxin Luo",
+      "Yifan Wang",
+      "Xiangtian Dai",
+      "Yan Lu",
+      "Fei Wang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-a901b2c9b322",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Subtraction-Mode Switched-Capacitor Converters With Parasitic Loss Reduction",
+    "author": "Jiang, Junmin and Liu, Xun and Huang, Cheng and Ki, Wing-Hung and Mok, Philip K. T. and Lu, Yan",
+    "editor": "",
+    "year": 2020,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "35",
+    "number": "2",
+    "pages": "1200-1204",
+    "doi": "10.1109/tpel.2019.2933623",
+    "url": "https://doi.org/10.1109/tpel.2019.2933623",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8789393"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2019.2933623",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00098"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:5qfkUJPXOUwC"
+    ],
+    "notes": [],
+    "authors": [
+      "Jiang, Junmin",
+      "Liu, Xun",
+      "Huang, Cheng",
+      "Ki, Wing-Hung",
+      "Mok, Philip K. T.",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-be040ee2a367",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 0.5-V-supply, 37.8-nW, 17.6-ppm/°C switched-capacitor bandgap reference with second-order curvature compensation",
+    "author": "Yang Liu and Bin Li and Zhaoquan Chen and Zhijian Chen and Mo Huang and Yan Lu",
+    "editor": "",
+    "year": 2019,
+    "journal": "Microelectronics Journal",
+    "booktitle": "",
+    "publisher": "Elsevier BV",
+    "volume": "87",
+    "number": "",
+    "pages": "136-143",
+    "doi": "10.1016/j.mejo.2019.02.017",
+    "url": "https://doi.org/10.1016/j.mejo.2019.02.017",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1016/j.mejo.2019.02.017",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Yang Liu",
+      "Bin Li",
+      "Zhaoquan Chen",
+      "Zhijian Chen",
+      "Mo Huang",
+      "Yan Lu"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-dc81a730e7d4",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 1-nW Ultra-Low Voltage Subthreshold CMOS Voltage Reference With 0.0154%/V Line Sensitivity",
+    "author": "Lin, Jie and Wang, Lidan and Zhan, Chenchang and Lu, Yan",
+    "editor": "",
+    "year": 2019,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "66",
+    "number": "10",
+    "pages": "1653-1657",
+    "doi": "10.1109/tcsii.2019.2920693",
+    "url": "https://doi.org/10.1109/tcsii.2019.2920693",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8728230"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2019.2920693",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00011"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:ruyezt5ZtCIC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lin, Jie",
+      "Wang, Lidan",
+      "Zhan, Chenchang",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-5d1781a834e4",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fast-Transient-Response Fully-Integrated Digital LDO With Adaptive Current Step Size Control",
+    "author": "Cai, Guigang and Zhan, Chenchang and Lu, Yan",
+    "editor": "",
+    "year": 2019,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "66",
+    "number": "9",
+    "pages": "3610-3619",
+    "doi": "10.1109/tcsi.2019.2917558",
+    "url": "https://doi.org/10.1109/tcsi.2019.2917558",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8746785"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2019.2917558",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00038"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:HbR8gkJAVGIC"
+    ],
+    "notes": [],
+    "authors": [
+      "Cai, Guigang",
+      "Zhan, Chenchang",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-b82bf114d09f",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully Integrated FVF-Based Low-Dropout Regulator With Wide Load Capacitance and Current Ranges",
+    "author": "Huang, Mo and Feng, Haigang and Lu, Yan",
+    "editor": "",
+    "year": 2019,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "34",
+    "number": "12",
+    "pages": "11880-11888",
+    "doi": "10.1109/tpel.2019.2904622",
+    "url": "https://doi.org/10.1109/tpel.2019.2904622",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8665872"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2019.2904622",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00040"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:SpbeaW3--B0C"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Mo",
+      "Feng, Haigang",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-0bce5a420a71",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Reconfigurable Bidirectional Wireless Power Transceiver for Battery-to-Battery Wireless Charging",
+    "author": "Huang, Mo and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2019,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "34",
+    "number": "8",
+    "pages": "7745-7753",
+    "doi": "10.1109/tpel.2018.2881285",
+    "url": "https://doi.org/10.1109/tpel.2018.2881285",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8534349"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2018.2881285",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00054"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:LI9QrySNdTsC"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Mo",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-20c4edf6ab82",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Reconfigurable Cross-Connected Wireless-Power Transceiver for Bidirectional Device-to-Device Wireless Charging",
+    "author": "Mao, Fangyu and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2019,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "54",
+    "number": "9",
+    "pages": "2579-2589",
+    "doi": "10.1109/jssc.2019.2921449",
+    "url": "https://doi.org/10.1109/jssc.2019.2921449",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8754727"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2019.2921449",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00056"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:Ug5p-4gJ2f0C"
+    ],
+    "notes": [],
+    "authors": [
+      "Mao, Fangyu",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-cfe0411883b1",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An Integrated DC–DC Converter With Segmented Frequency Modulation and Multiphase Co-Work Control for Fast Transient Recovery",
+    "author": "Chio, U-Fat and Wen, Kuo-Chih and Sin, Sai-Weng and Lam, Chi-Seng and Lu, Yan and Maloberti, Franco and Martins, Rui P.",
+    "editor": "",
+    "year": 2019,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "54",
+    "number": "10",
+    "pages": "2637-2648",
+    "doi": "10.1109/jssc.2019.2924092",
+    "url": "https://doi.org/10.1109/jssc.2019.2924092",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8759889"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2019.2924092",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00075"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:k8Z6L05lTy4C"
+    ],
+    "notes": [],
+    "authors": [
+      "Chio, U-Fat",
+      "Wen, Kuo-Chih",
+      "Sin, Sai-Weng",
+      "Lam, Chi-Seng",
+      "Lu, Yan",
+      "Maloberti, Franco",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-b512d4aa4220",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "0.45‐V 5.4‐nW switched‐capacitor bandgap reference with intermittent operation and improved supply immunity",
+    "author": "Ziyang Luo and Yan Lu and Rui P. Martins",
+    "editor": "",
+    "year": 2018,
+    "journal": "Electronics Letters",
+    "booktitle": "",
+    "publisher": "Institution of Engineering and Technology (IET)",
+    "volume": "54",
+    "number": "20",
+    "pages": "1154-1156",
+    "doi": "10.1049/el.2018.5524",
+    "url": "https://doi.org/10.1049/el.2018.5524",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1049/el.2018.5524",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Ziyang Luo",
+      "Yan Lu",
+      "Rui P. Martins"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-dbe23bef814b",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Digital LDO With Co-SA Logics and TSPC Dynamic Latches for Fast Transient Response",
+    "author": "Zhao, Lei and Lu, Yan and Martins, Rui P.",
+    "editor": "",
+    "year": 2018,
+    "journal": "IEEE Solid-State Circuits Letters",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "1",
+    "number": "6",
+    "pages": "154-157",
+    "doi": "10.1109/lssc.2018.2885217",
+    "url": "https://doi.org/10.1109/lssc.2018.2885217",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8561245"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/lssc.2018.2885217",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00034"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:VaXvl8Fpj5cC"
+    ],
+    "notes": [],
+    "authors": [
+      "Zhao, Lei",
+      "Lu, Yan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-fbc46db261cd",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully Integrated Low-Dropout Regulator With Differentiator-Based Active Zero Compensation",
+    "author": "Bu, Shi and Leung, Ka Nang and Lu, Yan and Guo, Jianping and Zheng, Yanqi",
+    "editor": "",
+    "year": 2018,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "65",
+    "number": "10",
+    "pages": "3578-3591",
+    "doi": "10.1109/tcsi.2018.2833162",
+    "url": "https://doi.org/10.1109/tcsi.2018.2833162",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8418755"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2018.2833162",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00042"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:gsN89kCJA0AC"
+    ],
+    "notes": [],
+    "authors": [
+      "Bu, Shi",
+      "Leung, Ka Nang",
+      "Lu, Yan",
+      "Guo, Jianping",
+      "Zheng, Yanqi"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-e49a470e925f",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An Analog-Assisted Tri-Loop Digital Low-Dropout Regulator",
+    "author": "Huang, Mo and Lu, Yan and U, Seng-Pan and Martins, Rui P.",
+    "editor": "",
+    "year": 2018,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "53",
+    "number": "1",
+    "pages": "20-34",
+    "doi": "10.1109/jssc.2017.2751512",
+    "url": "https://doi.org/10.1109/jssc.2017.2751512",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8054693"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2017.2751512",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00071"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:BwyfMAYsbu0C"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Mo",
+      "Lu, Yan",
+      "U, Seng-Pan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-285880fabf0e",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Design Considerations of Distributed and Centralized Switched-Capacitor Converters for Power Supply On-Chip",
+    "author": "Lu, Yan and Jiang, Junmin and Ki, Wing-Hung",
+    "editor": "",
+    "year": 2018,
+    "journal": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "6",
+    "number": "2",
+    "pages": "515-525",
+    "doi": "10.1109/jestpe.2017.2747094",
+    "url": "https://doi.org/10.1109/jestpe.2017.2747094",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8022691"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jestpe.2017.2747094",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00085"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:4MWp96NkSFoC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Jiang, Junmin",
+      "Ki, Wing-Hung"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-c3e3e487f0ea",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Missing-Code-Occurrence Probability Calibration Technique for DAC Nonlinearity With Supply and Reference Circuit Analysis in a SAR ADC",
+    "author": "Wang, Guancheng and Li, Cheng and Zhu, Yan and Zhong, Jianyu and Lu, Yan and Chan, Chi-Hang and Martins, Rui P.",
+    "editor": "",
+    "year": 2018,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "65",
+    "number": "11",
+    "pages": "3707-3719",
+    "doi": "10.1109/tcsi.2018.2858848",
+    "url": "https://doi.org/10.1109/tcsi.2018.2858848",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8445603"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2018.2858848",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Wang, Guancheng",
+      "Li, Cheng",
+      "Zhu, Yan",
+      "Zhong, Jianyu",
+      "Lu, Yan",
+      "Chan, Chi-Hang",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-a770260b3e6d",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Nano-Ampere Low-Dropout Regulator Designs for IoT Devices",
+    "author": "Huang, Yuanqing and Lu, Yan and Maloberti, Franco and Martins, Rui P.",
+    "editor": "",
+    "year": 2018,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "65",
+    "number": "11",
+    "pages": "4017-4026",
+    "doi": "10.1109/tcsi.2018.2851226",
+    "url": "https://doi.org/10.1109/tcsi.2018.2851226",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "8438305"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00091"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:kuK5TVdYjLIC"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Yuanqing",
+      "Lu, Yan",
+      "Maloberti, Franco",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-e8aab174c091",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Partial analogue‐assisted digital low dropout regulator with transient body‐drive and 2.5× FOM improvement",
+    "author": "Mo Huang and Yan Lu and Xing Lu",
+    "editor": "",
+    "year": 2018,
+    "journal": "Electronics Letters",
+    "booktitle": "",
+    "publisher": "Institution of Engineering and Technology (IET)",
+    "volume": "54",
+    "number": "5",
+    "pages": "282-283",
+    "doi": "10.1049/el.2017.4211",
+    "url": "https://doi.org/10.1049/el.2017.4211",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1049/el.2017.4211",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Mo Huang",
+      "Yan Lu",
+      "Xing Lu"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-d5059b38c042",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Dual-Output Wireless Power Transfer System With Active Rectifier and Three-Level Operation",
+    "author": "Lu, Yan and Huang, Mo and Cheng, Lin and Ki, Wing-Hung and U, Seng-Pan and Martins, Rui P.",
+    "editor": "",
+    "year": 2017,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "32",
+    "number": "2",
+    "pages": "927-930",
+    "doi": "10.1109/tpel.2016.2601623",
+    "url": "https://doi.org/10.1109/tpel.2016.2601623",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7547959"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00036"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:2KloaMYe4IUC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Huang, Mo",
+      "Cheng, Lin",
+      "Ki, Wing-Hung",
+      "U, Seng-Pan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-10910062d24f",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Multiphase Switched-Capacitor DC–DC Converter Ring With Fast Transient Response and Small Ripple",
+    "author": "Lu, Yan and Jiang, Junmin and Ki, Wing-Hung",
+    "editor": "",
+    "year": 2017,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "52",
+    "number": "2",
+    "pages": "579-591",
+    "doi": "10.1109/jssc.2016.2617315",
+    "url": "https://doi.org/10.1109/jssc.2016.2617315",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7737010"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2016.2617315",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00052"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:35r97b3x0nAC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Jiang, Junmin",
+      "Ki, Wing-Hung"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-905605169ce6",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A sub-1V 78-nA bandgap reference with curvature compensation",
+    "author": "Luo, Ziyang and Lu, Yan and Huang, Mo and Jiang, Junmin and Sin, Sai-Weng and U, Seng-Pan and Martins, Rui P.",
+    "editor": "",
+    "year": 2017,
+    "journal": "Microelectronics Journal",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "63",
+    "number": "",
+    "pages": "35-40",
+    "doi": "10.1016/j.mejo.2017.02.016",
+    "url": "https://doi.org/10.1016/j.mejo.2017.02.016",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00061"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1016/j.mejo.2017.02.016",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:0KyAp5RtaNEC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Luo, Ziyang",
+      "Lu, Yan",
+      "Huang, Mo",
+      "Jiang, Junmin",
+      "Sin, Sai-Weng",
+      "U, Seng-Pan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-c8b27b10bac5",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Wide Input Range Dual-Path CMOS Rectifier for RF Energy Harvesting",
+    "author": "Lu, Yan and Dai, Haojuan and Huang, Mo and Law, Man-Kay and Sin, Sai-Weng and U, Seng-Pan and Martins, Rui P.",
+    "editor": "",
+    "year": 2017,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "64",
+    "number": "2",
+    "pages": "166-170",
+    "doi": "10.1109/tcsii.2016.2554778",
+    "url": "https://doi.org/10.1109/tcsii.2016.2554778",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7453186"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00066"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:7T2F9Uy0os0C"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Dai, Haojuan",
+      "Huang, Mo",
+      "Law, Man-Kay",
+      "Sin, Sai-Weng",
+      "U, Seng-Pan",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-c059af829a53",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Digital 2-/3-Phase Switched-Capacitor Converter With Ripple Reduction and Efficiency Improvement",
+    "author": "Jiang, Junmin and Ki, Wing-Hung and Lu, Yan",
+    "editor": "",
+    "year": 2017,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "52",
+    "number": "7",
+    "pages": "1836-1848",
+    "doi": "10.1109/jssc.2017.2679065",
+    "url": "https://doi.org/10.1109/jssc.2017.2679065",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7892868"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jssc.2017.2679065",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00086"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:uc_IGeMz5qoC"
+    ],
+    "notes": [],
+    "authors": [
+      "Jiang, Junmin",
+      "Ki, Wing-Hung",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-2f68a6acf659",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Optic Nerve Stimulation System with Adaptive Wireless Powering and Data Telemetry",
+    "author": "Xing Li and Yan Lu and Xiaodong Meng and Chi-Ying Tsui and Wing-Hung Ki",
+    "editor": "",
+    "year": 2017,
+    "journal": "Micromachines",
+    "booktitle": "",
+    "publisher": "MDPI AG",
+    "volume": "8",
+    "number": "12",
+    "pages": "368",
+    "doi": "10.3390/mi8120368",
+    "url": "https://doi.org/10.3390/mi8120368",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.3390/mi8120368",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00092"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:p__nRnzSRKYC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Xing Li",
+      "Yan Lu",
+      "Xiaodong Meng",
+      "Chi-Ying Tsui",
+      "Wing-Hung Ki"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-0fb6dc0a829b",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 312 ps response‐time LDO with enhanced super source follower in 28 nm CMOS",
+    "author": "Yan Lu and Cheng Li and Yan Zhu and Mo Huang and Seng‐Pan U and Rui P. Martins",
+    "editor": "",
+    "year": 2016,
+    "journal": "Electronics Letters",
+    "booktitle": "",
+    "publisher": "Institution of Engineering and Technology (IET)",
+    "volume": "52",
+    "number": "16",
+    "pages": "1368-1370",
+    "doi": "10.1049/el.2016.1719",
+    "url": "https://doi.org/10.1049/el.2016.1719",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1049/el.2016.1719",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00022"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:tzM49s52ZIMC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Yan Lu",
+      "Cheng Li",
+      "Yan Zhu",
+      "Mo Huang",
+      "Seng‐Pan U",
+      "Rui P. Martins"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-88944c9cb5cf",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully Integrated Digital LDO With Coarse–Fine-Tuning and Burst-Mode Operation",
+    "author": "Huang, Mo and Lu, Yan and Sin, Sai-Weng and Seng-Pan, U. and Martins, Rui P.",
+    "editor": "",
+    "year": 2016,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "63",
+    "number": "7",
+    "pages": "683-687",
+    "doi": "10.1109/tcsii.2016.2530094",
+    "url": "https://doi.org/10.1109/tcsii.2016.2530094",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7407328"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2016.2530094",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00043"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:kzcrU_BdoSEC"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Mo",
+      "Lu, Yan",
+      "Sin, Sai-Weng",
+      "Seng-Pan, U.",
+      "Martins, Rui P."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-8d089e302440",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Adaptive On/Off Delay-Compensated Active Rectifiers for Wireless Power Transfer Systems",
+    "author": "Cheng, Lin and Ki, Wing-Hung and Lu, Yan and Yim, Tak-Sang",
+    "editor": "",
+    "year": 2016,
+    "journal": "IEEE Journal of Solid-State Circuits",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "51",
+    "number": "3",
+    "pages": "712-723",
+    "doi": "10.1109/jssc.2016.2517119",
+    "url": "https://doi.org/10.1109/jssc.2016.2517119",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7403843"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00068"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:NJ774b8OgUMC"
+    ],
+    "notes": [],
+    "authors": [
+      "Cheng, Lin",
+      "Ki, Wing-Hung",
+      "Lu, Yan",
+      "Yim, Tak-Sang"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-903e8ad12f27",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An 18-Gb/s Fully Integrated Optical Receiver With Adaptive Cascaded Equalizer",
+    "author": "Pan, Quan and Wang, Yipeng and Lu, Yan and Yue, C. Patrick",
+    "editor": "",
+    "year": 2016,
+    "journal": "IEEE Journal of Selected Topics in Quantum Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "22",
+    "number": "6",
+    "pages": "361-369",
+    "doi": "10.1109/jstqe.2016.2574567",
+    "url": "https://doi.org/10.1109/jstqe.2016.2574567",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7480760"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00069"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:ZfRJV9d4-WMC"
+    ],
+    "notes": [],
+    "authors": [
+      "Pan, Quan",
+      "Wang, Yipeng",
+      "Lu, Yan",
+      "Yue, C. Patrick"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-181cb257de80",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "An NMOS-LDO Regulated Switched-Capacitor DC–DC Converter With Fast-Response Adaptive-Phase Digital Control",
+    "author": "Lu, Yan and Ki, Wing-Hung and Patrick Yue, C.",
+    "editor": "",
+    "year": 2016,
+    "journal": "IEEE Transactions on Power Electronics",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "31",
+    "number": "2",
+    "pages": "1294-1303",
+    "doi": "10.1109/tpel.2015.2420572",
+    "url": "https://doi.org/10.1109/tpel.2015.2420572",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7080886"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tpel.2015.2420572",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00077"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:hkOj_22Ku90C"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Ki, Wing-Hung",
+      "Patrick Yue, C."
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-eb82d5efceff",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Limit Cycle Oscillation Reduction for Digital Low Dropout Regulators",
+    "author": "Huang, Mo and Lu, Yan and Sin, Sai-Weng and U, Seng-Pan and Martins, Rui P. and Ki, Wing-Hung",
+    "editor": "",
+    "year": 2016,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "63",
+    "number": "9",
+    "pages": "903-907",
+    "doi": "10.1109/tcsii.2016.2534778",
+    "url": "https://doi.org/10.1109/tcsii.2016.2534778",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7419894"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsii.2016.2534778",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00089"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:Fu2w8maKXqMC"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Mo",
+      "Lu, Yan",
+      "Sin, Sai-Weng",
+      "U, Seng-Pan",
+      "Martins, Rui P.",
+      "Ki, Wing-Hung"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-28b0f00f4709",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Wireless Power Transfer System Architectures for Portable or Implantable Applications",
+    "author": "Yan Lu and Dongsheng Ma",
+    "editor": "",
+    "year": 2016,
+    "journal": "Energies",
+    "booktitle": "",
+    "publisher": "MDPI AG",
+    "volume": "9",
+    "number": "12",
+    "pages": "1087",
+    "doi": "10.3390/en9121087",
+    "url": "https://doi.org/10.3390/en9121087",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.3390/en9121087",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00100"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:-_dYPAW6P2MC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Yan Lu",
+      "Dongsheng Ma"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-34260d7b3317",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 30-Gb/s 1.37-pJ/b CMOS Receiver for Optical Interconnects",
+    "author": "Pan, Quan and Wang, Yipeng and Hou, Zhengxiong and Sun, Li and Lu, Yan and Ki, Wing-Hung and Chiang, Patrick and Yue, C. Patrick",
+    "editor": "",
+    "year": 2015,
+    "journal": "Journal of Lightwave Technology",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "33",
+    "number": "4",
+    "pages": "778-786",
+    "doi": "10.1109/jlt.2014.2381266",
+    "url": "https://doi.org/10.1109/jlt.2014.2381266",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "6985584"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/jlt.2014.2381266",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00021"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:2P1L_qKh6hAC"
+    ],
+    "notes": [],
+    "authors": [
+      "Pan, Quan",
+      "Wang, Yipeng",
+      "Hou, Zhengxiong",
+      "Sun, Li",
+      "Lu, Yan",
+      "Ki, Wing-Hung",
+      "Chiang, Patrick",
+      "Yue, C. Patrick"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-ab4aaf41fd31",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A CMOS Delta-Sigma PLL Transmitter with Efficient Modulation Bandwidth Calibration",
+    "author": "Huang, Mo and Chen, Dihu and Guo, Jianping and Ye, Hui and Xu, Ken and Liang, Xiaofeng and Lu, Yan",
+    "editor": "",
+    "year": 2015,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "62",
+    "number": "7",
+    "pages": "1716-1725",
+    "doi": "10.1109/tcsi.2015.2441965",
+    "url": "https://doi.org/10.1109/tcsi.2015.2441965",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7123678"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2015.2441965",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00031"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:dQ2og3OwTAUC"
+    ],
+    "notes": [],
+    "authors": [
+      "Huang, Mo",
+      "Chen, Dihu",
+      "Guo, Jianping",
+      "Ye, Hui",
+      "Xu, Ken",
+      "Liang, Xiaofeng",
+      "Lu, Yan"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-b69229afd68a",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A Fully-Integrated Low-Dropout Regulator With Full-Spectrum Power Supply Rejection",
+    "author": "Lu, Yan and Wang, Yipeng and Pan, Quan and Ki, Wing-Hung and Yue, C. Patrick",
+    "editor": "",
+    "year": 2015,
+    "journal": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "62",
+    "number": "3",
+    "pages": "707-716",
+    "doi": "10.1109/tcsi.2014.2380644",
+    "url": "https://doi.org/10.1109/tcsi.2014.2380644",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "7001720"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1109/tcsi.2014.2380644",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00044"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:XiVPGOgt02cC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Wang, Yipeng",
+      "Pan, Quan",
+      "Ki, Wing-Hung",
+      "Yue, C. Patrick"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-b10b653bd1af",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A 13.56 MHz CMOS Active Rectifier With Switched-Offset and Compensated Biasing for Biomedical Wireless Power Transfer Systems",
+    "author": "Lu, Yan and Ki, Wing-Hung",
+    "editor": "",
+    "year": 2014,
+    "journal": "IEEE Transactions on Biomedical Circuits and Systems",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "8",
+    "number": "3",
+    "pages": "334-344",
+    "doi": "10.1109/tbcas.2013.2270177",
+    "url": "https://doi.org/10.1109/tbcas.2013.2270177",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "6552222"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00014"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:XD-gHx7UXLsC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Ki, Wing-Hung"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-773501fdbcd0",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "A ±0.5% Precision On-Chip Frequency Reference With Programmable Switch Array for Crystal-Less Applications",
+    "author": "Lu, Yan and Yuan, Gang and Der, Lawrence and Ki, Wing-Hung and Yue, C. Patrick",
+    "editor": "",
+    "year": 2013,
+    "journal": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+    "booktitle": "",
+    "publisher": "",
+    "volume": "60",
+    "number": "10",
+    "pages": "642-646",
+    "doi": "10.1109/tcsii.2013.2277984",
+    "url": "https://doi.org/10.1109/tcsii.2013.2277984",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Journal_bibtex.txt",
+        "key": "6584791"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00067"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:W7OEmFMy1HYC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Yuan, Gang",
+      "Der, Lawrence",
+      "Ki, Wing-Hung",
+      "Yue, C. Patrick"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-2d24a0e82c23",
+    "category": "Journal Articles",
+    "type": "article",
+    "title": "Low-voltage constant-gm rail-to-rail CMOS operational amplifier input stage",
+    "author": "Yan Lu and Ruo He Yao",
+    "editor": "",
+    "year": 2008,
+    "journal": "Solid-State Electronics",
+    "booktitle": "",
+    "publisher": "Elsevier BV",
+    "volume": "52",
+    "number": "6",
+    "pages": "957-961",
+    "doi": "10.1016/j.sse.2008.02.002",
+    "url": "https://doi.org/10.1016/j.sse.2008.02.002",
+    "isbn": "",
+    "sources": [
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1016/j.sse.2008.02.002",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00090"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:z_wVstp3MssC"
+    ],
+    "notes": [
+      "Supplemental record not present in supplied IEEE_Xplore lists."
+    ],
+    "authors": [
+      "Yan Lu",
+      "Ruo He Yao"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  }
+]

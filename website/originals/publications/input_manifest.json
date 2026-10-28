@@ -1,0 +1,22 @@
+[
+  {
+    "file": "IEEE_Xplore\\Books_bibtex.txt",
+    "sha256": "c62ea1b278f48f2d22d1aff5988ecc97fad4f518013ad9a8034ac9d8aef936f6",
+    "bytes": 1068
+  },
+  {
+    "file": "IEEE_Xplore\\Conference_bibtex.txt",
+    "sha256": "bc8a67590aa4aa137312bada35ce4742f699f86b06a7b9ad0fd57be13c8787b2",
+    "bytes": 49252
+  },
+  {
+    "file": "IEEE_Xplore\\Journal_bibtex.txt",
+    "sha256": "ce03cbf4cf0c4f7a25385b7055ce21634b613c4c310b9d35ba352614cb4ed6b4",
+    "bytes": 41960
+  },
+  {
+    "file": "publications.json",
+    "sha256": "13ca76ed1efb914fe6a09f09b50ed25a7164e6e22118314709701492c6ac513b",
+    "bytes": 269474
+  }
+]

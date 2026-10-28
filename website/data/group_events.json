@@ -1,0 +1,137 @@
+[
+  {
+    "id": "first-group-photo",
+    "title": "First Group Photo",
+    "date": "",
+    "priority": 0,
+    "url": "html/group-first-group-photo.html",
+    "order": 0,
+    "cover": "group-photos/first-group-photo-1-3330f7.jpg"
+  },
+  {
+    "id": "iccc-2026",
+    "title": "ICCC 2026",
+    "date": "2026-10-10",
+    "priority": 1,
+    "url": "html/group-iccc-2026.html",
+    "order": 1,
+    "cover": "group-photos/2026-10-10-1.jpg"
+  },
+  {
+    "id": "three-final-year-project-ug-students-graduated",
+    "title": "Three Final-Year-Project UG Students Graduated",
+    "date": "2026-06-28",
+    "priority": 1,
+    "url": "html/group-three-final-year-project-ug-students-graduated.html",
+    "order": 2,
+    "cover": "group-photos/three-final-year-project-ug-students-graduated-1-7201db.jpg"
+  },
+  {
+    "id": "beijing-hike-2026",
+    "title": "Beijing Second Ring Road Hiking",
+    "date": "2026-06-15",
+    "priority": 1,
+    "url": "html/group-beijing-hike-2026.html",
+    "order": 3,
+    "cover": "group-photos/2025-06-15-6.jpg"
+  },
+  {
+    "id": "workshop-2026",
+    "title": "Power Workshop 2026",
+    "date": "2026-06-03",
+    "priority": 1,
+    "url": "html/group-workshop-2026.html",
+    "order": 4,
+    "cover": "group-photos/2026-06-03-2.jpg"
+  },
+  {
+    "id": "icac-2026-at-shanghai",
+    "title": "ICAC 2026 at Shanghai",
+    "date": "2026-03-28",
+    "priority": 1,
+    "url": "html/group-icac-2026-at-shanghai.html",
+    "order": 5,
+    "cover": "group-photos/icac-2026-at-shanghai-1-3769bc.jpg"
+  },
+  {
+    "id": "year-end-party",
+    "title": "Year-End Party",
+    "date": "2025-12-20",
+    "priority": 1,
+    "url": "html/group-year-end-party.html",
+    "order": 6,
+    "cover": "group-photos/year-end-party-1-51c72b.jpg"
+  },
+  {
+    "id": "academic-exchange",
+    "title": "Academic Exchange",
+    "date": "2025-09-22",
+    "priority": 1,
+    "url": "html/group-academic-exchange.html",
+    "order": 7,
+    "cover": "group-photos/academic-exchange-1-fd4ca1.jpg"
+  },
+  {
+    "id": "wutai-2025",
+    "title": "Mount Wutai Trip",
+    "date": "2025-09-14",
+    "priority": 1,
+    "url": "html/group-wutai-2025.html",
+    "order": 8,
+    "cover": "group-photos/2025-09-14-3.jpg"
+  },
+  {
+    "id": "the-great-wall-hiking",
+    "title": "The Great Wall Hiking",
+    "date": "2025-06-21",
+    "priority": 1,
+    "url": "html/group-the-great-wall-hiking.html",
+    "order": 9,
+    "cover": "group-photos/the-great-wall-hiking-1-8282e4.jpg"
+  },
+  {
+    "id": "iscas-2025-at-london",
+    "title": "ISCAS 2025 at London",
+    "date": "2025-05-27",
+    "priority": 1,
+    "url": "html/group-iscas-2025-at-london.html",
+    "order": 10,
+    "cover": "group-photos/iscas-2025-at-london-1-889dec.jpg"
+  },
+  {
+    "id": "beiling-mt-hiking",
+    "title": "Beiling Mt. Hiking",
+    "date": "2025-05-17",
+    "priority": 1,
+    "url": "html/group-beiling-mt-hiking.html",
+    "order": 11,
+    "cover": "group-photos/beiling-mt-hiking-1-6baf7d.jpg"
+  },
+  {
+    "id": "isscc-2025",
+    "title": "ISSCC 2025",
+    "date": "2025-02-15",
+    "priority": 1,
+    "url": "html/group-isscc-2025.html",
+    "order": 12,
+    "cover": "group-photos/isscc-2025-1-83ccdf.jpg"
+  },
+  {
+    "id": "gulou-hot-pot",
+    "title": "Gulou Hot Pot",
+    "date": "2025-01-08",
+    "priority": 1,
+    "url": "html/group-gulou-hot-pot.html",
+    "order": 13,
+    "cover": "group-photos/gulou-hot-pot-1-f8d8c3.jpg"
+  },
+  {
+    "id": "peking-duck-gathering",
+    "title": "Peking Duck Gathering",
+    "date": "",
+    "priority": 2,
+    "url": "html/group-peking-duck-gathering.html",
+    "order": 14,
+    "cover": "group-photos/peking-duck-gathering-1-9ba24d.jpg"
+  }
+]

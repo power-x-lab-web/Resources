@@ -1,0 +1,135 @@
+[
+  {
+    "id": "yan-lu-ea16917d22f3",
+    "category": "Books",
+    "type": "book",
+    "title": "Fully-Integrated Low-Dropout Regulators",
+    "author": "Mao, Xiangyu and Lu, Yan and Martins, Rui Paulo",
+    "editor": "",
+    "year": 2025,
+    "journal": "",
+    "booktitle": "",
+    "publisher": "Springer",
+    "volume": "",
+    "number": "",
+    "pages": "1--229",
+    "doi": "10.1007/978-3-031-84916-9",
+    "url": "https://doi.org/10.1007/978-3-031-84916-9",
+    "isbn": "978-3-031-84915-2",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Books_bibtex.txt",
+        "key": "mao2025fully"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1007/978-3-031-84916-9",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [],
+    "authors": [
+      "Mao, Xiangyu",
+      "Lu, Yan",
+      "Martins, Rui Paulo"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-e68c118a3b2a",
+    "category": "Books",
+    "type": "book",
+    "title": "CMOS Integrated Circuit Design for Wireless Power Transfer",
+    "author": "Lu, Yan and Ki, Wing-Hung",
+    "editor": "",
+    "year": 2018,
+    "journal": "",
+    "booktitle": "",
+    "publisher": "Springer Singapore",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "doi": "10.1007/978-981-10-2615-7",
+    "url": "https://doi.org/10.1007/978-981-10-2615-7",
+    "isbn": "978-981-10-2615-7",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Books_bibtex.txt",
+        "key": "lu2018cmos"
+      },
+      {
+        "type": "crossref",
+        "url": "https://api.crossref.org/works/10.1007/978-981-10-2615-7",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "local_bibtex",
+        "path": "Resources/people/Current/Yan_Lu/pub.bib",
+        "key": "pop00083"
+      }
+    ],
+    "scholar_urls": [
+      "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:ML0RJ9NH7IQC"
+    ],
+    "notes": [],
+    "authors": [
+      "Lu, Yan",
+      "Ki, Wing-Hung"
+    ],
+    "editors": [],
+    "date_precision": "year",
+    "link_type": "doi"
+  },
+  {
+    "id": "yan-lu-06d6297c99d8",
+    "category": "Books",
+    "type": "book",
+    "title": "Selected Topics in Power, RF, and Mixed-Signal ICs",
+    "author": "",
+    "editor": "Lu, Yan and Lam, Chi-Seng",
+    "year": 2017,
+    "journal": "",
+    "booktitle": "",
+    "publisher": "River Publishers",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "doi": "10.17023/e9dx-zj75",
+    "url": "https://doi.org/10.17023/e9dx-zj75",
+    "isbn": "9788793609402",
+    "sources": [
+      {
+        "type": "user_supplied_bibtex",
+        "file": "IEEE_Xplore/Books_bibtex.txt",
+        "key": "lu2017selected"
+      },
+      {
+        "type": "publisher",
+        "url": "https://www.riverpublishers.com/flyer_pdf/create_flyer_new.php?id=481",
+        "accessed": "2026-10-27"
+      },
+      {
+        "type": "ieee_resource_center",
+        "url": "https://resourcecenter.cas.ieee.org/publications/ebooks/caspub0030",
+        "accessed": "2026-10-27"
+      }
+    ],
+    "scholar_urls": [],
+    "notes": [
+      "Edited volume. Original publisher release: December 2017. IEEE Resource Center lists 2018-02-01; DOI points to that eBook record. Later 2022 edition DOI: 10.1201/9781003339434.",
+      "Editors are credited as editors, not authors."
+    ],
+    "authors": [],
+    "editors": [
+      "Lu, Yan",
+      "Lam, Chi-Seng"
+    ],
+    "date_precision": "year",
+    "link_type": "doi"
+  }
+]

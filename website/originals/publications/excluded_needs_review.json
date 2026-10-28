@@ -1,0 +1,103 @@
+[
+  {
+    "reason": "Crossref and institutional record list no Yan Lu among authors; do not publish without confirmation.",
+    "evidence": "https://doi.org/10.1109/esscirc.2014.6942038",
+    "record": {
+      "title": "A 41-mW 30-Gb/s CMOS optical receiver with digitally-tunable cascaded equalization",
+      "authors": [
+        "Q Pan",
+        "Y Wang",
+        "Z Hou",
+        "L Sun",
+        "Y Lu",
+        "L Wu",
+        "WH Ki",
+        "P Chiang",
+        "CP Yue"
+      ],
+      "editors": [],
+      "category": "Conference Articles",
+      "subtype": "Conference paper",
+      "year": 2014,
+      "date": "2014",
+      "date_precision": "year",
+      "online_date": "",
+      "print_date": "",
+      "venue": "European Solid State Circuits Conference (ESSCIRC), ESSCIRC 2014-40th",
+      "publisher": "",
+      "volume": "",
+      "issue": "",
+      "pages": "127--130",
+      "article_number": "",
+      "doi": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:_Re3VWB3Y0AC",
+      "isbn": [],
+      "scholar_urls": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:_Re3VWB3Y0AC"
+      ],
+      "sources": [
+        {
+          "type": "local_bibtex",
+          "path": "Resources/people/Current/Yan_Lu/pub.bib",
+          "key": "pop00023"
+        }
+      ],
+      "notes": [],
+      "review_flags": [
+        "doi_not_found"
+      ],
+      "scholar_membership": "present_in_2025-11-23_export",
+      "id": "yan-lu-9ef173b4a740",
+      "link_type": "scholar_record",
+      "ready_for_website": false
+    }
+  },
+  {
+    "reason": "Book chapter: outside the requested three categories; retained for review.",
+    "record": {
+      "title": "Analysis and Design Strategy of On-Chip Charge Pumps for Micro-power Energy Harvesting Applications",
+      "authors": [
+        "WH Ki",
+        "Y Lu",
+        "F Su",
+        "CY Tsui"
+      ],
+      "editors": [],
+      "category": "Review Required",
+      "subtype": "book-chapter",
+      "year": 2012,
+      "date": "2012",
+      "date_precision": "year",
+      "online_date": "",
+      "print_date": "",
+      "venue": "VLSI-SoC: Advanced Research for Systems on Chip",
+      "publisher": "",
+      "volume": "",
+      "issue": "",
+      "pages": "158--186",
+      "article_number": "",
+      "doi": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:qjMakFHDy7sC",
+      "isbn": [],
+      "scholar_urls": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BSLKtEAAAAAJ&pagesize=100&citation_for_view=BSLKtEAAAAAJ:qjMakFHDy7sC"
+      ],
+      "sources": [
+        {
+          "type": "local_bibtex",
+          "path": "Resources/people/Current/Yan_Lu/pub.bib",
+          "key": "pop00080"
+        }
+      ],
+      "notes": [],
+      "review_flags": [
+        "doi_not_found",
+        "book_chapter_not_whole_book"
+      ],
+      "scholar_membership": "present_in_2025-11-23_export",
+      "id": "yan-lu-953b113f356c",
+      "link_type": "scholar_record",
+      "ready_for_website": false
+    }
+  }
+]

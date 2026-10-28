@@ -1,0 +1,21 @@
+[maintainer_password_demo]
+label = "Protected Maintainer Note"
+description = "This section is encrypted in the generated HTML. Enter the shared password to reveal it for 3 minutes."
+placeholder = "Enter shared password"
+button_label = "Unlock"
+ttl_seconds = 180
+iterations = 600000
+salt = "cO7NSsW8kPf2S1Gq5X4Kow=="
+iv = "AA43eZ1/xSW3kfVS"
+ciphertext = "lowQJHNvc/T+T2qpuEwq5c/QQN+mjY3wTPdEqWkSCZw2Xor9VAWeP+ja2VYINjkpwYB2k3eMpLFZI6ch5Ja1lAwHGV697JGNRHgjddWoj4smgH0="
+
+[my_secret_note]
+label = "Protected content"
+description = "This section is encrypted in the generated HTML. Enter the shared password to reveal it for 3 minutes."
+placeholder = "Enter shared password"
+button_label = "Unlock"
+ttl_seconds = 180
+iterations = 600000
+salt = "ogZ4xKSvbY1F4WEEv8+Gww=="
+iv = "VAla6iJ/nl87LLNf"
+ciphertext = "J7t1t0IQvuPuGp3xr7Jcko4jMzajRMQ8WaN4/SdLNN5EZQRtfEF3w5B+uZw+ibHaTRTorFIxMqJlNbnDSKljd9yifyuYQXwyNvD+A8TTMKMKjaMNvJDZSpXew2D9bVl6tJU9Yn9rrigGiYSjvn4m21Z5zfV7VgLcyYNMVXwpvrgWMxAQLUVRTfn4dYESgAGTDHL04ZlR2AB/agEe1lPk7TSnTjMTrTjZrgDC4KkKYUGt13elgilNflieEtLuHeyjvfZU9pRR2+aKguDlUPsxoU/PRV4gkQPJAusJJvEYUdv5TqkOJn2wQN1w5VnRqw=="

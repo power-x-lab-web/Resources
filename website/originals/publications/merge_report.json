@@ -1,0 +1,830 @@
+{
+  "input_counts": {
+    "Books": 3,
+    "Journal Articles": 111,
+    "Conference Articles": 118
+  },
+  "old_count": 167,
+  "matched_old_records": 149,
+  "added_supplemental_records": 16,
+  "output_counts": {
+    "Books": 3,
+    "Journal Articles": 125,
+    "Conference Articles": 120
+  },
+  "output_count": 248,
+  "doi_count": 247,
+  "excluded_count": 2,
+  "field_differences": [
+    {
+      "id": "10.1109/jssc.2026.3737270",
+      "field": "title",
+      "previous": "A 28.71-ppm/°C Voltage Reference With 0.000006%/V Line Sensitivity and 35\n                    μ\n                    s Start-Up Time for High Voltage Applications",
+      "selected": "A 28.71-ppm/°C Voltage Reference With 0.000006%/V Line Sensitivity and 35 μs Start-Up Time for High Voltage Applications",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "10.1109/tpel.2016.2601623",
+      "field": "title",
+      "previous": "A Dual-Output Wireless Power Transfer System with Active Rectifier and Three-Level Operation",
+      "selected": "A Dual-Output Wireless Power Transfer System With Active Rectifier and Three-Level Operation",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "10.1109/jstqe.2016.2574567",
+      "field": "title",
+      "previous": "An 18-Gb/s Fully Integrated Optical Receiver with Adaptive Cascaded Equalizer",
+      "selected": "An 18-Gb/s Fully Integrated Optical Receiver With Adaptive Cascaded Equalizer",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "10.1109/tbcas.2013.2270177",
+      "field": "title",
+      "previous": "A 13.56 MHz CMOS Active Rectifier with Switched-Offset and Compensated Biasing for Biomedical Wireless Power Transfer Systems",
+      "selected": "A 13.56 MHz CMOS Active Rectifier With Switched-Offset and Compensated Biasing for Biomedical Wireless Power Transfer Systems",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "10.1109/isscc42615.2023.10067491",
+      "field": "title",
+      "previous": "A 42W reconfigurable bidirectional power delivery voltage-regulating cable",
+      "selected": "A 42W Reconfigurable Bidirectional Power Delivery Voltage-Regulating Cable",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "10.1109/isscc42614.2022.9731669",
+      "field": "title",
+      "previous": "A 4A 12-to-1 Flying Capacitor Cross-Connected DC-DC Converter with Inserted D> 0.5 Control Achieving> 2x Transient Inductor Current Slew Rate and 0.73× Theoretical Minimum …",
+      "selected": "A 4A 12-to-1 Flying Capacitor Cross-Connected DC-DC Converter with Inserted D>0.5 Control Achieving >2x Transient Inductor Current Slew Rate and 0.73× Theoretical Minimum Output Undershoot of DSD",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "10.1109/isscc.2014.6757446",
+      "field": "title",
+      "previous": "17.11 A 0.65 ns-response-time 3.01 ps FOM fully-integrated low-dropout regulator with full-spectrum power-supply-rejection for wideband communication systems",
+      "selected": "17.11 A 0.65ns-response-time 3.01ps FOM fully-integrated low-dropout regulator with full-spectrum power-supply-rejection for wideband communication systems",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "10.1109/isscc.2013.6487639",
+      "field": "title",
+      "previous": "A 13.56 MHz fully integrated 1X/2X active rectifier with compensated bias current for inductively powered devices",
+      "selected": "A 13.56MHz fully integrated 1X/2X active rectifier with compensated bias current for inductively powered devices",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    },
+    {
+      "id": "A 13.56MHz CMOS rectifier with switched-offset for reversion current control",
+      "field": "title",
+      "previous": "A 13.56 MHz CMOS rectifier with switched-offset for reversion current control",
+      "selected": "A 13.56MHz CMOS rectifier with switched-offset for reversion current control",
+      "rule": "Prefer user-provided IEEE_Xplore export"
+    }
+  ],
+  "matches": [
+    {
+      "old_id": "yan-lu-ea16917d22f3",
+      "selected_doi": "10.1007/978-3-031-84916-9",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-e68c118a3b2a",
+      "selected_doi": "10.1007/978-981-10-2615-7",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-06d6297c99d8",
+      "selected_doi": "10.17023/e9dx-zj75",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-3710dfe9cc29",
+      "selected_doi": "10.1109/jssc.2026.3676525",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-e723590aad3d",
+      "selected_doi": "10.1109/jssc.2026.3680968",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-725f1522bf4e",
+      "selected_doi": "10.1109/tcsi.2026.3678032",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-3424d3d4c5c8",
+      "selected_doi": "10.1109/tcsi.2026.3687445",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-c0bcb62bb0ce",
+      "selected_doi": "10.1109/jssc.2025.3621088",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-1dc272a0f777",
+      "selected_doi": "10.1109/jssc.2025.3627117",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-5bb20b1d70ba",
+      "selected_doi": "10.1109/jssc.2025.3618957",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-196c645cec3e",
+      "selected_doi": "10.1109/tcsii.2026.3690140",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-b998b10b08b7",
+      "selected_doi": "10.23919/ics.2026.3674822",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-d8fee2f00675",
+      "selected_doi": "10.1109/tcsi.2025.3613518",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-360337dbb6ba",
+      "selected_doi": "10.1109/jssc.2025.3557060",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-6fbbf24fe977",
+      "selected_doi": "10.1109/tcsi.2026.3732003",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-aec5d68cc5d3",
+      "selected_doi": "10.1109/jssc.2026.3737270",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-af7d6f2ea9c0",
+      "selected_doi": "10.1109/jssc.2026.3715060",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-256072d1de8a",
+      "selected_doi": "10.1109/jssc.2025.3603990",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-63a77bb0d629",
+      "selected_doi": "10.1109/jssc.2025.3624037",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-0e124945d0b1",
+      "selected_doi": "10.1109/tcsi.2025.3576158",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-3013be451942",
+      "selected_doi": "10.1109/jssc.2025.3541341",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-d5ff7c5ec0b8",
+      "selected_doi": "10.1109/jssc.2025.3543582",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-96f352bee5f4",
+      "selected_doi": "10.1109/jssc.2025.3539593",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-cb2de95e3026",
+      "selected_doi": "10.1109/jssc.2025.3527038",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-4c2b9ae51291",
+      "selected_doi": "10.1109/jssc.2024.3485210",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-8eb40f265f18",
+      "selected_doi": "10.1109/tcsi.2025.3532228",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-dcee95b7852e",
+      "selected_doi": "10.1109/jssc.2024.3453950",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-27766549486f",
+      "selected_doi": "10.1109/jssc.2024.3445316",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-77da74c11987",
+      "selected_doi": "10.1109/jssc.2024.3434586",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-53e6aefd8ccb",
+      "selected_doi": "10.1109/jssc.2024.3414448",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-f4c34c6d9004",
+      "selected_doi": "10.1109/lssc.2025.3608096",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-ae6c830b6b34",
+      "selected_doi": "10.1109/tcsi.2024.3415955",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-a41b54e8d981",
+      "selected_doi": "10.1109/jssc.2024.3385337",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-beb9e0e5b958",
+      "selected_doi": "10.1109/tpel.2024.3402238",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-7d9f85b5a624",
+      "selected_doi": "10.1109/tcsi.2024.3399224",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-ac7f2baa26ce",
+      "selected_doi": "10.1109/jssc.2023.3333196",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-6b497bb725eb",
+      "selected_doi": "10.1109/jssc.2023.3340008",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-63f23a133d03",
+      "selected_doi": "10.1109/jssc.2023.3320200",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-a7e3195accf2",
+      "selected_doi": "10.1109/jssc.2023.3319511",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-cd853688938c",
+      "selected_doi": "10.1109/jssc.2023.3346068",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-5ca4d05ee43a",
+      "selected_doi": "10.1109/tcsi.2023.3339962",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-257862fcde79",
+      "selected_doi": "10.1109/ojsscs.2023.3334228",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-e39ef9f1294f",
+      "selected_doi": "10.1109/jssc.2023.3301068",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-f7176c83f97b",
+      "selected_doi": "10.1109/jssc.2023.3297111",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-3e7d373398ff",
+      "selected_doi": "10.1109/tcsi.2023.3307869",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-4790b63ee98c",
+      "selected_doi": "10.1109/jssc.2023.3287212",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-d5dcadec3da5",
+      "selected_doi": "10.1109/tcsii.2023.3282633",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-2edc2d3bb341",
+      "selected_doi": "10.1109/tcsii.2023.3289910",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-598ed299acb8",
+      "selected_doi": "10.1109/tcsi.2023.3293133",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-aa3419ae4170",
+      "selected_doi": "10.1109/tcsii.2023.3257023",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-befb669c37b4",
+      "selected_doi": "10.1109/jssc.2022.3228101",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-279e6e4f17d5",
+      "selected_doi": "10.1109/jssc.2022.3213835",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-23896a659946",
+      "selected_doi": "10.1109/tpel.2023.3241095",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-d4a92ba36be0",
+      "selected_doi": "10.1109/tcsi.2022.3211100",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-878ee78bf2ee",
+      "selected_doi": "10.1109/tcsi.2022.3201166",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-55f333c694d5",
+      "selected_doi": "10.1109/tcsi.2022.3197356",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-9dd04defee52",
+      "selected_doi": "10.1109/tcsi.2022.3198268",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-47fe56369031",
+      "selected_doi": "10.1109/tcsi.2022.3189161",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-fd17f375b987",
+      "selected_doi": "10.1109/tcsi.2022.3182145",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-562919b6179e",
+      "selected_doi": "10.1109/jssc.2022.3149921",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-12c9d1b5e28a",
+      "selected_doi": "10.1109/jssc.2021.3129620",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-34b50a853365",
+      "selected_doi": "10.1109/tmtt.2021.3132331",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-fbc96060e4d1",
+      "selected_doi": "10.1109/tpel.2021.3084218",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-0ec3dd4eaaf2",
+      "selected_doi": "10.1109/tpel.2021.3061703",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-59a45a94c962",
+      "selected_doi": "10.1109/tpel.2021.3062400",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-057b1e9ec357",
+      "selected_doi": "10.1109/jssc.2021.3062092",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-aa8e2d04629f",
+      "selected_doi": "10.1109/jssc.2021.3071221",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-5f66dbb9b22a",
+      "selected_doi": "10.1109/tcsii.2021.3097825",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-019bb93b7269",
+      "selected_doi": "10.1109/tcsii.2021.3060188",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-657606761c84",
+      "selected_doi": "10.1109/jssc.2020.3044062",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-096e927a98d7",
+      "selected_doi": "10.1109/tcsi.2021.3068564",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-889a7225aadc",
+      "selected_doi": "10.1109/tpel.2020.3024595",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-529e3f6e7342",
+      "selected_doi": "10.1109/tcsii.2020.3046514",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-dedf2b0ecad3",
+      "selected_doi": "10.1109/tcsii.2020.3040393",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-c0418a56be9c",
+      "selected_doi": "10.1109/jmems.2021.3058766",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-1a32eed7798e",
+      "selected_doi": "10.1109/tcsi.2020.3009454",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-4f8fe7a13a2b",
+      "selected_doi": "10.1109/jssc.2020.3005814",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-e64f8d056fa7",
+      "selected_doi": "10.1109/tpel.2019.2951799",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-2fc5dc6d9adb",
+      "selected_doi": "10.1109/tcsii.2019.2919665",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-c49d6cba9b26",
+      "selected_doi": "10.1109/tcsii.2019.2911642",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-a901b2c9b322",
+      "selected_doi": "10.1109/tpel.2019.2933623",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-d85d68b10c5a",
+      "selected_doi": "10.1109/tpel.2019.2910557",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-6b7084cfd67c",
+      "selected_doi": "10.1109/ojcas.2020.3005546",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-91633d242f19",
+      "selected_doi": "10.1109/lssc.2020.3026056",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-2444a059ace7",
+      "selected_doi": "10.1109/jssc.2020.2967540",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-b82bf114d09f",
+      "selected_doi": "10.1109/tpel.2019.2904622",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-dc81a730e7d4",
+      "selected_doi": "10.1109/tcsii.2019.2920693",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-cfe0411883b1",
+      "selected_doi": "10.1109/jssc.2019.2924092",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-5d1781a834e4",
+      "selected_doi": "10.1109/tcsi.2019.2917558",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-20c4edf6ab82",
+      "selected_doi": "10.1109/jssc.2019.2921449",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-0bce5a420a71",
+      "selected_doi": "10.1109/tpel.2018.2881285",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-c3e3e487f0ea",
+      "selected_doi": "10.1109/tcsi.2018.2858848",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-fbc46db261cd",
+      "selected_doi": "10.1109/tcsi.2018.2833162",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-dbe23bef814b",
+      "selected_doi": "10.1109/lssc.2018.2885217",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-285880fabf0e",
+      "selected_doi": "10.1109/jestpe.2017.2747094",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-e49a470e925f",
+      "selected_doi": "10.1109/jssc.2017.2751512",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-b473d05ab6f4",
+      "selected_doi": "10.1109/tcsi.2018.2851226",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-c059af829a53",
+      "selected_doi": "10.1109/jssc.2017.2679065",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-10910062d24f",
+      "selected_doi": "10.1109/jssc.2016.2617315",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-73981fe1c9e8",
+      "selected_doi": "10.1109/tpel.2016.2601623",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-4be2e4edc302",
+      "selected_doi": "10.1109/tcsii.2016.2554778",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-eb82d5efceff",
+      "selected_doi": "10.1109/tcsii.2016.2534778",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-88944c9cb5cf",
+      "selected_doi": "10.1109/tcsii.2016.2530094",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-181cb257de80",
+      "selected_doi": "10.1109/tpel.2015.2420572",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-75080ede1706",
+      "selected_doi": "10.1109/jssc.2016.2517119",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-57116fd86c37",
+      "selected_doi": "10.1109/jstqe.2016.2574567",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-ab4aaf41fd31",
+      "selected_doi": "10.1109/tcsi.2015.2441965",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-b69229afd68a",
+      "selected_doi": "10.1109/tcsi.2014.2380644",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-34260d7b3317",
+      "selected_doi": "10.1109/jlt.2014.2381266",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-e3a32588c2eb",
+      "selected_doi": "10.1109/tbcas.2013.2270177",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-bc2bf4f504bd",
+      "selected_doi": "10.1109/tcsii.2013.2277984",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-0171b36804e5",
+      "selected_doi": "10.1109/esserc66193.2025.11214027",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-1bb70ab4a007",
+      "selected_doi": "10.1109/iscas56072.2025.11043422",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-551108198e62",
+      "selected_doi": "10.1109/iscas56072.2025.11043445",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-4d899ec512cf",
+      "selected_doi": "10.1109/iscas56072.2025.11043398",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-bedc2fdacff9",
+      "selected_doi": "10.1109/iscas56072.2025.11043785",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-7a463828d5a9",
+      "selected_doi": "10.1109/iscas56072.2025.11043583",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-4347b33d9ad3",
+      "selected_doi": "10.1109/cicc63670.2025.10983523",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-ba93316d24e9",
+      "selected_doi": "10.1109/cicc63670.2025.10983170",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-1d87f509ed5e",
+      "selected_doi": "10.1109/isscc49661.2025.10904544",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-2ac44cf65a1a",
+      "selected_doi": "10.1109/isscc49661.2025.10904669",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-6737e5e77612",
+      "selected_doi": "10.1109/isscc49661.2025.10904797",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-e6f8c3ff3d02",
+      "selected_doi": "10.1109/isscc49661.2025.10904504",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-f3189616160f",
+      "selected_doi": "10.1109/isscc49661.2025.10904695",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-33d5a986e21e",
+      "selected_doi": "10.1109/isscc49657.2024.10454311",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-64afac7ddf5c",
+      "selected_doi": "10.1109/isscc42615.2023.10067710",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-1930edb775c4",
+      "selected_doi": "10.1109/isscc42615.2023.10067303",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-72602f44d736",
+      "selected_doi": "10.1109/isscc42615.2023.10067756",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-f4928c6dd710",
+      "selected_doi": "10.1109/isscc42615.2023.10067491",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-6b0b6d918a87",
+      "selected_doi": "10.1109/isscc42614.2022.9731576",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-9311fbff1954",
+      "selected_doi": "10.1109/isscc42614.2022.9731669",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-f01a060e5b9b",
+      "selected_doi": "10.1109/isscc19947.2020.9062902",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-9beea47834bc",
+      "selected_doi": "10.1109/cicc.2019.8780307",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-d9c7dce6d25b",
+      "selected_doi": "10.1109/isscc.2018.8310306",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-1a86875ae83e",
+      "selected_doi": "10.1109/iscas.2018.8351669",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-3f97212b732f",
+      "selected_doi": "10.1109/isscc.2018.8310223",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-bd6c2bc49d9f",
+      "selected_doi": "10.1109/iscas.2018.8351692",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-ab274355ccc6",
+      "selected_doi": "10.1109/isscc.2017.7870402",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-de512b873e0b",
+      "selected_doi": "10.1109/isscc.2017.7870418",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-97145186ccb8",
+      "selected_doi": "10.1109/isscc.2017.7870401",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-2b9bf0d45eac",
+      "selected_doi": "10.1109/tencon.2015.7373013",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-312ecf1fe16d",
+      "selected_doi": "10.1109/ieee-iws.2015.7164642",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-06391f1d95b8",
+      "selected_doi": "10.1109/isscc.2015.7063077",
+      "method": "doi"
+    },
+    {
+      "old_id": "yan-lu-00e64c0d113f",
+      "selected_doi": "10.1109/isscc.2015.7063078",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-3e69b7711ce1",
+      "selected_doi": "10.1109/isscc.2014.6757446",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-43bcc18f3f24",
+      "selected_doi": "10.1109/rfic.2014.6851718",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-3b3619a8b52d",
+      "selected_doi": "10.1109/iscas.2014.6865407",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-c080c657bab4",
+      "selected_doi": "10.1109/isscc.2013.6487639",
+      "method": "normalized_title_or_truncated_title"
+    },
+    {
+      "old_id": "yan-lu-fef0709a5ca9",
+      "selected_doi": "",
+      "method": "normalized_title_or_truncated_title"
+    }
+  ]
+}

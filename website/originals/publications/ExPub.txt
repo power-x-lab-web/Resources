@@ -1,0 +1,2741 @@
+@book{yan-lu-ea16917d22f3,
+  title = {Fully-Integrated Low-Dropout Regulators},
+  author = {Mao, Xiangyu and Lu, Yan and Martins, Rui Paulo},
+  year = {2025},
+  publisher = {Springer},
+  pages = {1--229},
+  doi = {10.1007/978-3-031-84916-9},
+  url = {https://doi.org/10.1007/978-3-031-84916-9},
+  isbn = {978-3-031-84915-2}
+}
+
+@book{yan-lu-e68c118a3b2a,
+  title = {CMOS Integrated Circuit Design for Wireless Power Transfer},
+  author = {Lu, Yan and Ki, Wing-Hung},
+  year = {2018},
+  publisher = {Springer Singapore},
+  doi = {10.1007/978-981-10-2615-7},
+  url = {https://doi.org/10.1007/978-981-10-2615-7},
+  isbn = {978-981-10-2615-7}
+}
+
+@book{yan-lu-06d6297c99d8,
+  title = {Selected Topics in Power, RF, and Mixed-Signal ICs},
+  editor = {Lu, Yan and Lam, Chi-Seng},
+  year = {2017},
+  publisher = {River Publishers},
+  doi = {10.17023/e9dx-zj75},
+  url = {https://doi.org/10.17023/e9dx-zj75},
+  isbn = {9788793609402}
+}
+
+@article{yan-lu-b998b10b08b7,
+  title = {A 180 mA LDO With Adaptive Feed-Forward Capacitor Array Achieving 60 dB PSR Across Wide Load and Input Ranges},
+  author = {Zhao, Xiaoyan and Xu, Jinshuo and Mao, Xiangyu and Jia, Haiyang and Chen, Yong and Sun, Nan and Lu, Yan},
+  year = {2026},
+  journal = {Integrated Circuits and Systems},
+  volume = {3},
+  number = {1},
+  pages = {34-44},
+  doi = {10.23919/ics.2026.3674822},
+  url = {https://doi.org/10.23919/ics.2026.3674822}
+}
+
+@article{yan-lu-6fbbf24fe977,
+  title = {A 2.82–4.76 mV/LSB Ultra-High-Resolution and Wide-Range All-Digital Voltage Sensor at 2 GHz for Fast Droop Detection and Mitigation},
+  author = {Du, Yuxuan and Yan, Zhihao and Qian, Zhangrui and Zhou, Kaize and Chen, Zhuo and Deng, Lishuo and Yin, Jun and Lu, Yan and Shan, Weiwei},
+  year = {2026},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  pages = {1-13},
+  doi = {10.1109/tcsi.2026.3732003},
+  url = {https://doi.org/10.1109/tcsi.2026.3732003}
+}
+
+@article{yan-lu-c0bcb62bb0ce,
+  title = {A 22.4–25.6-GHz Ping-Pong Sub-Sampling PLL Featuring Unified Supply Voltage Level and Balanced 2nd Harmonic Extraction},
+  author = {Huang, Yunbo and Yang, Zunsong and Ren, Hongyu and Martins, Rui P. and Lu, Yan and Sun, Nan and Qi, Nan and Li, Bo and Chen, Yong},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {61},
+  number = {6},
+  pages = {2560-2573},
+  doi = {10.1109/jssc.2025.3621088},
+  url = {https://doi.org/10.1109/jssc.2025.3621088}
+}
+
+@article{yan-lu-aec5d68cc5d3,
+  title = {A 28.71-ppm/°C Voltage Reference With 0.000006%/V Line Sensitivity and 35 μs Start-Up Time for High Voltage Applications},
+  author = {Wang, Yining and Li, Xing and Lu, Yan and Liu, Weiqiang},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  pages = {1-11},
+  doi = {10.1109/jssc.2026.3737270},
+  url = {https://doi.org/10.1109/jssc.2026.3737270}
+}
+
+@article{yan-lu-1dc272a0f777,
+  title = {A Fast-Slow Two-Module High-Power-Density DC–DC Solution With Transient and Efficiency Improvements},
+  author = {Huang, Junwei and Tong, Zhiguo and Mao, Xiangyu and Lam, Chi-Seng and Martins, Rui P. and Lu, Yan},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {61},
+  number = {6},
+  pages = {2764-2774},
+  doi = {10.1109/jssc.2025.3627117},
+  url = {https://doi.org/10.1109/jssc.2025.3627117}
+}
+
+@article{yan-lu-3710dfe9cc29,
+  title = {A LEGO-Like Easy-Stacking SC Boost Converter},
+  author = {Han, Shousheng and Song, Fei and Zhu, Zhongyao and Sin, Sai-Weng and Wu, Xiaoming and Jiang, Hanjun and Ren, Tianling and Lu, Yan},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {61},
+  number = {9},
+  pages = {4926-4938},
+  doi = {10.1109/jssc.2026.3676525},
+  url = {https://doi.org/10.1109/jssc.2026.3676525}
+}
+
+@article{yan-lu-e723590aad3d,
+  title = {A Single-Stage CSCR-Based SIDO/DISO Converter With Almost-Lossless Path Switching},
+  author = {Wang, Yuanfei and Lu, Yan and Luo, Ping and Martins, Rui P. and Huang, Mo},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {61},
+  number = {9},
+  pages = {4902-4913},
+  doi = {10.1109/jssc.2026.3680968},
+  url = {https://doi.org/10.1109/jssc.2026.3680968}
+}
+
+@article{yan-lu-af7d6f2ea9c0,
+  title = {A Single-Stage Wireless Power Transmitter With Boosted and Regulated AC Output Voltage for D2D Wireless Fast Charging},
+  author = {Mao, Fangyu and Li, Xiaofei and Martins, Rui P. and Lu, Yan},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  pages = {1-10},
+  doi = {10.1109/jssc.2026.3715060},
+  url = {https://doi.org/10.1109/jssc.2026.3715060}
+}
+
+@article{yan-lu-5bb20b1d70ba,
+  title = {A Topology-Level Hybrid High-VCR Input-Parallel–Output-Series Step-Up DC–DC Converter for Flyweight Applications},
+  author = {Han, Shousheng and Fang, Zanfeng and Tong, Zhiguo and Wu, Xiaoming and Jiang, Hanjun and Ren, Tianling and Lu, Yan},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {61},
+  number = {6},
+  pages = {2687-2698},
+  doi = {10.1109/jssc.2025.3618957},
+  url = {https://doi.org/10.1109/jssc.2025.3618957}
+}
+
+@article{yan-lu-725f1522bf4e,
+  title = {An Accuracy-and-Efficiency-Configurable Blade-Type Approximate Multiplier With Genetic Algorithm-Based Automatic Training Framework},
+  author = {Du, Yuxuan and Zhou, Kaize and Yan, Zhihao and Qian, Zhangrui and Chen, Zhuo and Yin, Jun and Lu, Yan and Shan, Weiwei},
+  year = {2026},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {73},
+  number = {8},
+  pages = {5406-5419},
+  doi = {10.1109/tcsi.2026.3678032},
+  url = {https://doi.org/10.1109/tcsi.2026.3678032}
+}
+
+@article{yan-lu-d8fee2f00675,
+  title = {Design and Analysis of Small-TX Large-RX Coupler in Wireless Charging System for Mobile Devices},
+  author = {Fang, Zanfeng and Han, Shousheng and Huang, Mo and Martins, Rui P. and Lu, Yan},
+  year = {2026},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {73},
+  number = {3},
+  pages = {2170-2180},
+  doi = {10.1109/tcsi.2025.3613518},
+  url = {https://doi.org/10.1109/tcsi.2025.3613518}
+}
+
+@article{yan-lu-196c645cec3e,
+  title = {Hybrid-Polarity Logic Design and an Automated Algorithm for Glitch-Optimized Arithmetic Units},
+  author = {Du, Yuxuan and Qian, Zhangrui and Li, Tuo and Wang, Changhong and Yan, Zhihao and Zhou, Kaize and Chen, Zhuo and Yin, Jun and Lu, Yan and Shan, Weiwei},
+  year = {2026},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {73},
+  number = {6},
+  pages = {648-652},
+  doi = {10.1109/tcsii.2026.3690140},
+  url = {https://doi.org/10.1109/tcsii.2026.3690140}
+}
+
+@article{yan-lu-360337dbb6ba,
+  title = {Phase-Scalable CF-Cross-Connected-Based Hybrid DC-DC Converter With Auto VCF Balancing and Inactive CF Charging},
+  author = {Yang, Jiacheng and Hu, Tingxu and Lu, Yan and Ming, Xin and Martins, Rui P. and Huang, Mo},
+  year = {2026},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {61},
+  number = {1},
+  pages = {366-377},
+  doi = {10.1109/jssc.2025.3557060},
+  url = {https://doi.org/10.1109/jssc.2025.3557060}
+}
+
+@article{yan-lu-3424d3d4c5c8,
+  title = {Power Supply Ripple Rejection Analysis of Low-Dropout Regulators With a Buffer Stage},
+  author = {Xu, Jinshuo and Wang, Naiqi and Sun, Nan and Lu, Yan},
+  year = {2026},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {73},
+  number = {8},
+  pages = {5128-5141},
+  doi = {10.1109/tcsi.2026.3687445},
+  url = {https://doi.org/10.1109/tcsi.2026.3687445}
+}
+
+@article{yan-lu-256072d1de8a,
+  title = {A 1.52-W Capacitor-Drop Sigma-Floating-SC AC/DC Converter for Grid Power to IoT Devices},
+  author = {Song, Fei and Han, Shousheng and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {12},
+  pages = {4396-4406},
+  doi = {10.1109/jssc.2025.3603990},
+  url = {https://doi.org/10.1109/jssc.2025.3603990}
+}
+
+@article{yan-lu-3013be451942,
+  title = {A 2.5–5-V Input 100-V Output 86.2% Peak Efficiency Fibonacci-Dickson Hybrid Converter for Acoustic Surface Audio Driver},
+  author = {Jiang, Yifan and Lu, Yan and Hu, Chen and Jiang, Junmin},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {9},
+  pages = {3305-3316},
+  doi = {10.1109/jssc.2025.3541341},
+  url = {https://doi.org/10.1109/jssc.2025.3541341}
+}
+
+@article{yan-lu-63a77bb0d629,
+  title = {A Bi-Directional Dual-Path Boost–Buck Hybrid Converter for High-Voltage Power Transmission Delivery Cable in Humanoid Robots},
+  author = {Yang, Wenjie and Tong, Zhiguo and Huang, Junwei and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {12},
+  pages = {4476-4489},
+  doi = {10.1109/jssc.2025.3624037},
+  url = {https://doi.org/10.1109/jssc.2025.3624037}
+}
+
+@article{yan-lu-cb2de95e3026,
+  title = {A Bidirectional USB Power Delivery Voltage-Regulating Cable},
+  author = {Tong, Zhiguo and Huang, Junwei and Mao, Xiangyu and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {8},
+  pages = {2866-2878},
+  doi = {10.1109/jssc.2025.3527038},
+  url = {https://doi.org/10.1109/jssc.2025.3527038}
+}
+
+@article{yan-lu-77da74c11987,
+  title = {A Double Pulse Overlapping Laser Diode Driver With Minimum 100-ps Pulse for LiDAR System},
+  author = {Tong, Zhiguo and Huang, Junwei and Mao, Xiangyu and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {2},
+  pages = {555-567},
+  doi = {10.1109/jssc.2024.3434586},
+  url = {https://doi.org/10.1109/jssc.2024.3434586}
+}
+
+@article{yan-lu-d5ff7c5ec0b8,
+  title = {A Dual-Inductor Quad-Path Hybrid Buck (2L4PHB) Converter With Reduced Inductor Current},
+  author = {Zeng, Wen-Liang and Cai, Guigang and Lu, Yan and Sin, Sai-Weng and Martins, Rui P. and Lam, Chi-Seng},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {9},
+  pages = {3366-3378},
+  doi = {10.1109/jssc.2025.3543582},
+  url = {https://doi.org/10.1109/jssc.2025.3543582}
+}
+
+@article{yan-lu-0e124945d0b1,
+  title = {A GaN Driver IC With Asymmetrical dV/dt Current Clamping Level Shifter and Logic-Based Adaptive Deadtime Control},
+  author = {Zhou, Dajun and Liu, Tianqi and Zhu, Zhongyao and Sin, Sai-Weng and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {72},
+  number = {11},
+  pages = {6750-6761},
+  doi = {10.1109/tcsi.2025.3576158},
+  url = {https://doi.org/10.1109/tcsi.2025.3576158}
+}
+
+@article{yan-lu-f4c34c6d9004,
+  title = {A Linear Dynamic Voltage Scaling Technique With Adaptive Minimum Voltage Headroom Tracking for Implantable Neurostimulation},
+  author = {Cui, Kai and Xu, Honglei and Duan, Yingduo and Lu, Yan and Fan, Xiaoya and Ma, Yanzhao},
+  year = {2025},
+  journal = {IEEE Solid-State Circuits Letters},
+  volume = {8},
+  pages = {261-264},
+  doi = {10.1109/lssc.2025.3608096},
+  url = {https://doi.org/10.1109/lssc.2025.3608096}
+}
+
+@article{yan-lu-4c2b9ae51291,
+  title = {A Multi-Path Inductor-First Inductor-on-Ground Switched-Capacitor Hybrid DC-DC Converter},
+  author = {Huang, Junwei and Tong, Zhiguo and Lam, Chi-Seng and Mao, Xiangyu and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {6},
+  pages = {2182-2193},
+  doi = {10.1109/jssc.2024.3485210},
+  url = {https://doi.org/10.1109/jssc.2024.3485210}
+}
+
+@article{yan-lu-8eb40f265f18,
+  title = {A Resonant Switched-Capacitor Parallel Inductor Hybrid Buck Converter},
+  author = {Cai, Guigang and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {72},
+  number = {5},
+  pages = {2432-2443},
+  doi = {10.1109/tcsi.2025.3532228},
+  url = {https://doi.org/10.1109/tcsi.2025.3532228}
+}
+
+@article{yan-lu-b10794db8779,
+  title = {A Single-Input RF Energy-Harvesting Interface With Compensated-CEPE Control and 3-D Hill-Climbing MPPT Achieving −28.5-dBm Sensitivity},
+  author = {Chen, Qiujin and Xia, Tian and Hu, Tingxu and Wang, Yuanfei and Lu, Yan and Martins, Rui P. and Huang, Mo},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {8},
+  pages = {2933-2945},
+  doi = {10.1109/jssc.2024.3516117},
+  url = {https://doi.org/10.1109/jssc.2024.3516117}
+}
+
+@article{yan-lu-dcee95b7852e,
+  title = {A Three-Fine-Level Buck–Boost Hybrid Converter Achieving Half-VIN-Stress on All Switches and Fast Transient Response},
+  author = {Zhao, Shuangxing and Zhan, Chenchang and Zhang, Zhaobo and Bai, Xianglong and Huang, Chenyu and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {5},
+  pages = {1719-1730},
+  doi = {10.1109/jssc.2024.3453950},
+  url = {https://doi.org/10.1109/jssc.2024.3453950}
+}
+
+@article{yan-lu-53e6aefd8ccb,
+  title = {A VCF-Step-Reconfigurable Continuously Scalable-Conversion-Ratio Switched- Capacitor Converter},
+  author = {Wang, Yuanfei and Huang, Mo and Chen, Qiujin and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {2},
+  pages = {626-637},
+  doi = {10.1109/jssc.2024.3414448},
+  url = {https://doi.org/10.1109/jssc.2024.3414448}
+}
+
+@article{yan-lu-96f352bee5f4,
+  title = {An Emulated Curve Assisted Fast-Transient Buck Converter With One-Cycle Charge Balance},
+  author = {Tang, Zihao and Lu, Yan and Martins, Rui P. and Huang, Mo},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {9},
+  pages = {3317-3328},
+  doi = {10.1109/jssc.2025.3539593},
+  url = {https://doi.org/10.1109/jssc.2025.3539593}
+}
+
+@article{yan-lu-27766549486f,
+  title = {An Isolated DC-DC Converter With Full-Duplex Communication Using a Single Pair of Transformers},
+  author = {Hu, Tingxu and Lu, Yan and Martins, Rui P. and Huang, Mo},
+  year = {2025},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {60},
+  number = {3},
+  pages = {1070-1081},
+  doi = {10.1109/jssc.2024.3445316},
+  url = {https://doi.org/10.1109/jssc.2024.3445316}
+}
+
+@article{yan-lu-ac7f2baa26ce,
+  title = {A 27 W Wireless Power Transceiver With Compact Single-Stage Regulated Class-E Architecture and Adaptive ZVS Control},
+  author = {Ma, Xiaofei and Ki, Wing-Hung and Lu, Yan},
+  year = {2024},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {59},
+  number = {6},
+  pages = {1782-1793},
+  doi = {10.1109/jssc.2023.3333196},
+  url = {https://doi.org/10.1109/jssc.2023.3333196}
+}
+
+@article{yan-lu-63f23a133d03,
+  title = {A Battery-Input Three-Mode Buck–Boost Hybrid DC–DC Converter With 97.6% Peak Efficiency},
+  author = {Zhao, Shuangxing and Zhan, Chenchang and Lu, Yan},
+  year = {2024},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {59},
+  number = {5},
+  pages = {1567-1577},
+  doi = {10.1109/jssc.2023.3320200},
+  url = {https://doi.org/10.1109/jssc.2023.3320200}
+}
+
+@article{yan-lu-6b497bb725eb,
+  title = {A Fully Synthesizable All-Digital Dual-Loop Distributed Low-Dropout Regulator},
+  author = {Mao, Xiangyu and Lu, Yan and Martins, Rui P.},
+  year = {2024},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {59},
+  number = {6},
+  pages = {1871-1882},
+  doi = {10.1109/jssc.2023.3340008},
+  url = {https://doi.org/10.1109/jssc.2023.3340008}
+}
+
+@article{yan-lu-ae6c830b6b34,
+  title = {A Fully-Integrated Flexible Dual-Ring Switched-Capacitor DC–DC Converter With Fractional VCRs and Parasitic Reduction},
+  author = {Jiang, Yifan and Lu, Yan and Jiang, Junmin},
+  year = {2024},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {71},
+  number = {12},
+  pages = {5683-5693},
+  doi = {10.1109/tcsi.2024.3415955},
+  url = {https://doi.org/10.1109/tcsi.2024.3415955}
+}
+
+@article{yan-lu-a7e3195accf2,
+  title = {A High-Efficiency Wide Output Range Reconfigurable Capacitive-Sigma DC–DC Converter},
+  author = {Yang, Xu and Zhao, Linhu and Tan, Zhichao and Zhao, Menglian and Ding, Yong and Li, Wuhua and Lu, Yan and Qu, Wanyuan},
+  year = {2024},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {59},
+  number = {5},
+  pages = {1532-1542},
+  doi = {10.1109/jssc.2023.3319511},
+  url = {https://doi.org/10.1109/jssc.2023.3319511}
+}
+
+@article{yan-lu-5ca4d05ee43a,
+  title = {A Radio-Frequency Cross-Connected Rectifier With LC Source Degeneration},
+  author = {Chen, Qiujin and Huang, Mo and Xia, Tian and Yin, Jun and Liu, Haiwen and Martins, Rui P. and Lu, Yan},
+  year = {2024},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {71},
+  number = {2},
+  pages = {573-582},
+  doi = {10.1109/tcsi.2023.3339962},
+  url = {https://doi.org/10.1109/tcsi.2023.3339962}
+}
+
+@article{yan-lu-7d9f85b5a624,
+  title = {A Single-Inductor Multiple-Output DC–DC Converter With Fixed-Frequency Victim-Last Charge Control for Reduced Cross Regulation},
+  author = {Li, Yang and Huang, Mo and Martins, Rui P. and Lu, Yan},
+  year = {2024},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {71},
+  number = {8},
+  pages = {3904-3914},
+  doi = {10.1109/tcsi.2024.3399224},
+  url = {https://doi.org/10.1109/tcsi.2024.3399224}
+}
+
+@article{yan-lu-a41b54e8d981,
+  title = {A Single-Stage Bipolar-Output Regulating Rectifier With Negligible Cross-Regulation for Wireless Display},
+  author = {Huang, Chenyu and Zhan, Chenchang and Bai, Xianglong and Lu, Yan},
+  year = {2024},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {59},
+  number = {9},
+  pages = {2983-2994},
+  doi = {10.1109/jssc.2024.3385337},
+  url = {https://doi.org/10.1109/jssc.2024.3385337}
+}
+
+@article{yan-lu-257862fcde79,
+  title = {An Overview of Hybrid DC–DC Converters: From Seeds to Leaves},
+  author = {Lu, Yan and Huang, Junwei and Tong, Zhiguo and Hu, Tingxu and Zeng, Wen-Liang and Huang, Mo and Mao, Xiangyu and Cai, Guigang},
+  year = {2024},
+  journal = {IEEE Open Journal of the Solid-State Circuits Society},
+  volume = {4},
+  pages = {12-24},
+  doi = {10.1109/ojsscs.2023.3334228},
+  url = {https://doi.org/10.1109/ojsscs.2023.3334228}
+}
+
+@article{yan-lu-cd853688938c,
+  title = {Guest Editorial 2023 Custom Integrated Circuits Conference},
+  author = {Lu, Yan and Li, Shaolan},
+  year = {2024},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {59},
+  number = {3},
+  pages = {651-652},
+  doi = {10.1109/jssc.2023.3346068},
+  url = {https://doi.org/10.1109/jssc.2023.3346068}
+}
+
+@article{yan-lu-b38df053df03,
+  title = {Guest Editorial Introduction to the Special Section on the 2024 IEEE International Solid-State Circuits Conference (ISSCC)},
+  author = {Hall, Drew A. and Lu, Yan and Maghari, Nima and Deng, Wei and Giannini, Vito},
+  year = {2024},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {59},
+  number = {12},
+  pages = {3879-3883},
+  doi = {10.1109/jssc.2024.3485320},
+  url = {https://doi.org/10.1109/jssc.2024.3485320}
+}
+
+@article{yan-lu-beb9e0e5b958,
+  title = {Optimizing Power Transfer Efficiency in Biomedical Implants: A Comparative Analysis of SS and SP Inductive Link Topologies},
+  author = {Xia, Fen and Mao, Fangyu and Lu, Yan and Sawan, Mohamad},
+  year = {2024},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {39},
+  number = {9},
+  pages = {11770-11783},
+  doi = {10.1109/tpel.2024.3402238},
+  url = {https://doi.org/10.1109/tpel.2024.3402238}
+}
+
+@article{yan-lu-aa3419ae4170,
+  title = {A 1-A Switching LDO With 40-mV Dropout Voltage and Fast DVS},
+  author = {Mao, Xiangyu and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {70},
+  number = {9},
+  pages = {3454-3458},
+  doi = {10.1109/tcsii.2023.3257023},
+  url = {https://doi.org/10.1109/tcsii.2023.3257023}
+}
+
+@article{yan-lu-f7176c83f97b,
+  title = {A 12-to-1 Flying Capacitor Cross-Connected Buck Converter With Inserted D > 0.5 Control for Fast Transient Response},
+  author = {Hu, Tingxu and Huang, Mo and Martins, Rui P. and Lu, Yan},
+  year = {2023},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {58},
+  number = {11},
+  pages = {3207-3218},
+  doi = {10.1109/jssc.2023.3297111},
+  url = {https://doi.org/10.1109/jssc.2023.3297111}
+}
+
+@article{yan-lu-e39ef9f1294f,
+  title = {A 12-to-1 V Quad-Output Switched-Capacitor Buck Converter With Shared DC Capacitors},
+  author = {Hu, Tingxu and Huang, Mo and Martins, Rui P. and Lu, Yan},
+  year = {2023},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {58},
+  number = {12},
+  pages = {3492-3502},
+  doi = {10.1109/jssc.2023.3301068},
+  url = {https://doi.org/10.1109/jssc.2023.3301068}
+}
+
+@article{yan-lu-23896a659946,
+  title = {A 200 MHz Passive Rectifier With Active-Static Hybrid VTH Compensation Obtaining 8% PCE Improvement},
+  author = {Li, Xiaofei and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {38},
+  number = {5},
+  pages = {5655-5658},
+  doi = {10.1109/tpel.2023.3241095},
+  url = {https://doi.org/10.1109/tpel.2023.3241095}
+}
+
+@article{yan-lu-befb669c37b4,
+  title = {A 6.78-MHz Wireless Power Transfer System With Inherent Wireless Phase Shift Control Without Feedback Data Sensing Coil},
+  author = {Bai, Xianglong and Lu, Yan and Zhan, Chenchang and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {58},
+  number = {6},
+  pages = {1746-1757},
+  doi = {10.1109/jssc.2022.3228101},
+  url = {https://doi.org/10.1109/jssc.2022.3228101}
+}
+
+@article{yan-lu-2edc2d3bb341,
+  title = {A Battery to 70-V Hybrid Boost Converter Achieving 14-to-20 VCR for Piezoelectric Actuators},
+  author = {Jiang, Yifan and Hu, Chen and Wu, Han and Lu, Yan and Liu, Xun and Jiang, Junmin},
+  year = {2023},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {70},
+  number = {10},
+  pages = {3857-3861},
+  doi = {10.1109/tcsii.2023.3289910},
+  url = {https://doi.org/10.1109/tcsii.2023.3289910}
+}
+
+@article{yan-lu-598ed299acb8,
+  title = {A High-Current Scalable Parallel LDO Scheme With Analog-Digital Merged Control for Small Current-Sharing Mismatch},
+  author = {Mao, Xiangyu and Lu, Yan and Wang, Chuang and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {70},
+  number = {10},
+  pages = {3857-3866},
+  doi = {10.1109/tcsi.2023.3293133},
+  url = {https://doi.org/10.1109/tcsi.2023.3293133}
+}
+
+@article{yan-lu-d4a92ba36be0,
+  title = {A Hybrid Single-Inductor Bipolar Triple-Output DC–DC Converter With High-Quality Positive Outputs for AMOLED Displays},
+  author = {Mao, Fangyu and Lu, Yan and Maloberti, Franco and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {70},
+  number = {1},
+  pages = {506-517},
+  doi = {10.1109/tcsi.2022.3211100},
+  url = {https://doi.org/10.1109/tcsi.2022.3211100}
+}
+
+@article{yan-lu-3e7d373398ff,
+  title = {A Level Shifter With Almost Full Immunity to Positive dv/dt for Buck Converters},
+  author = {Yang, Yunzhe and Huang, Mo and Du, Sijun and Martins, Rui P. and Lu, Yan},
+  year = {2023},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {70},
+  number = {11},
+  pages = {4595-4604},
+  doi = {10.1109/tcsi.2023.3307869},
+  url = {https://doi.org/10.1109/tcsi.2023.3307869}
+}
+
+@article{yan-lu-4790b63ee98c,
+  title = {All Rivers Flow to the Sea: A High-Density Wireless Power Receiver With Split-Dual-Path and Hybrid-Quad-Path Step-Down Rectifying Conversion},
+  author = {Lin, Zixiao and Lu, Yan and Mao, Fangyu and Wang, Chuang and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {58},
+  number = {11},
+  pages = {3127-3137},
+  doi = {10.1109/jssc.2023.3287212},
+  url = {https://doi.org/10.1109/jssc.2023.3287212}
+}
+
+@article{yan-lu-279e6e4f17d5,
+  title = {An SC-Parallel-Inductor Hybrid Buck Converter With Reduced Inductor Voltage and Current},
+  author = {Cai, Guigang and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {58},
+  number = {6},
+  pages = {1758-1768},
+  doi = {10.1109/jssc.2022.3213835},
+  url = {https://doi.org/10.1109/jssc.2022.3213835}
+}
+
+@article{yan-lu-ac7c36e7658b,
+  title = {Favorable basic cells for hybrid DC–DC converters},
+  author = {Lu, Yan and Cai, Guigang and Huang, Junwei},
+  year = {2023},
+  journal = {Journal of Semiconductors},
+  volume = {44},
+  number = {4},
+  pages = {040301},
+  doi = {10.1088/1674-4926/44/4/040301},
+  url = {https://doi.org/10.1088/1674-4926/44/4/040301}
+}
+
+@article{yan-lu-e1d83a8678d6,
+  title = {Guest Editorial 2022 Custom Integrated Circuits Conference},
+  author = {Sheikh, Farhana and Lu, Yan},
+  year = {2023},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {58},
+  number = {3},
+  pages = {587-588},
+  doi = {10.1109/jssc.2023.3236279},
+  url = {https://doi.org/10.1109/jssc.2023.3236279}
+}
+
+@article{yan-lu-d5dcadec3da5,
+  title = {Relative Stability Analysis of Multi-Loop Low Dropout Regulators Using a Sub-Loop Superposition Method},
+  author = {Yang, Zihan and Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {70},
+  number = {11},
+  pages = {3968-3972},
+  doi = {10.1109/tcsii.2023.3282633},
+  url = {https://doi.org/10.1109/tcsii.2023.3282633}
+}
+
+@article{yan-lu-9dd04defee52,
+  title = {A 1.2-A Calibration-Free Hybrid LDO With In-Loop Quantization and Auxiliary Constant Current Control Achieving High Accuracy and Fast DVS},
+  author = {Mao, Xiangyu and Lu, Yan and Martins, Rui P.},
+  year = {2022},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {69},
+  number = {11},
+  pages = {4443-4452},
+  doi = {10.1109/tcsi.2022.3198268},
+  url = {https://doi.org/10.1109/tcsi.2022.3198268}
+}
+
+@article{yan-lu-47fe56369031,
+  title = {A Capacitor-Cross-Connected Boost Converter With Duty Cycle < 0.5 Control for Extended Conversion-Ratio and Soft Start-Up},
+  author = {Hu, Tingxu and Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2022},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {69},
+  number = {10},
+  pages = {4272-4283},
+  doi = {10.1109/tcsi.2022.3189161},
+  url = {https://doi.org/10.1109/tcsi.2022.3189161}
+}
+
+@article{yan-lu-878ee78bf2ee,
+  title = {A Dual-Branch Series-Parallel Hybrid Buck DC-DC Converter With Flying Capacitor Voltage Auto-Balancing},
+  author = {Wang, Chuang and Lu, Yan and Li, Xiuping and Martins, Rui P.},
+  year = {2022},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {69},
+  number = {12},
+  pages = {4741-4750},
+  doi = {10.1109/tcsi.2022.3201166},
+  url = {https://doi.org/10.1109/tcsi.2022.3201166}
+}
+
+@article{yan-lu-fd17f375b987,
+  title = {A Highly Integrated Tri-Path Hybrid Buck Converter With Reduced Inductor Current and Self-Balanced Flying Capacitor Voltage},
+  author = {Wang, Chuang and Lu, Yan and Martins, Rui P.},
+  year = {2022},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {69},
+  number = {9},
+  pages = {3841-3850},
+  doi = {10.1109/tcsi.2022.3182145},
+  url = {https://doi.org/10.1109/tcsi.2022.3182145}
+}
+
+@article{yan-lu-562919b6179e,
+  title = {A Reconfigurable Single-Stage Asymmetrical Full-Wave Step-Down Rectifier for Bidirectional Device-to-Device Wireless Fast Charging},
+  author = {Mao, Fangyu and Lu, Yan and Martins, Rui P.},
+  year = {2022},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {57},
+  number = {6},
+  pages = {1888-1898},
+  doi = {10.1109/jssc.2022.3149921},
+  url = {https://doi.org/10.1109/jssc.2022.3149921}
+}
+
+@article{yan-lu-12c9d1b5e28a,
+  title = {A Scalable High-Current High-Accuracy Dual-Loop Four-Phase Switching LDO for Microprocessors},
+  author = {Mao, Xiangyu and Lu, Yan and Martins, Rui P.},
+  year = {2022},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {57},
+  number = {6},
+  pages = {1841-1853},
+  doi = {10.1109/jssc.2021.3129620},
+  url = {https://doi.org/10.1109/jssc.2021.3129620}
+}
+
+@article{yan-lu-55f333c694d5,
+  title = {A Symmetrical Double Step-Down Converter With Extended Voltage Conversion Ratio},
+  author = {Huang, Junwei and Lam, Chi-Seng and Lu, Yan and Martins, Rui Paulo},
+  year = {2022},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {69},
+  number = {12},
+  pages = {4761-4773},
+  doi = {10.1109/tcsi.2022.3197356},
+  url = {https://doi.org/10.1109/tcsi.2022.3197356}
+}
+
+@article{yan-lu-34b50a853365,
+  title = {RF Rectifiers With Wide Incident Angle of Incoming Waves Based on Rat-Race Couplers},
+  author = {Liu, Jian and Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2022},
+  journal = {IEEE Transactions on Microwave Theory and Techniques},
+  volume = {70},
+  number = {3},
+  pages = {1983-1993},
+  doi = {10.1109/tmtt.2021.3132331},
+  url = {https://doi.org/10.1109/tmtt.2021.3132331}
+}
+
+@article{yan-lu-a421da8f186d,
+  title = {Trending IC design directions in 2022},
+  author = {Chi-Hang Chan and Lin Cheng and Wei Deng and Peng Feng and Li Geng and Mo Huang and Haikun Jia and Lu Jie and Ka-Meng Lei and Xihao Liu and Xun Liu and Yongpan Liu and Yan Lu and Kaiming Nie and Dongfang Pan and Nan Qi and Sai-Weng Sin and Nan Sun and Wenyu Sun and Jiangtao Xu and Jinshan Yue and Milin Zhang and Zhao Zhang},
+  year = {2022},
+  journal = {Journal of Semiconductors},
+  publisher = {IOP Publishing},
+  volume = {43},
+  number = {7},
+  pages = {071401},
+  doi = {10.1088/1674-4926/43/7/071401},
+  url = {https://doi.org/10.1088/1674-4926/43/7/071401}
+}
+
+@article{yan-lu-0ec3dd4eaaf2,
+  title = {A 2.4-GHz CMOS Differential Class-DE Rectifier With Coupled Inductors},
+  author = {Hu, Tingxu and Huang, Mo and Lu, Yan and Zhang, Xiu Yin and Maloberti, Franco and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {36},
+  number = {9},
+  pages = {9864-9875},
+  doi = {10.1109/tpel.2021.3061703},
+  url = {https://doi.org/10.1109/tpel.2021.3061703}
+}
+
+@article{yan-lu-096e927a98d7,
+  title = {A 3-Phase Resonant Switched-Capacitor Converter for Data Center 48-V Rack Power Distribution},
+  author = {Wang, Chuang and Lu, Yan and Sun, Nan and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {68},
+  number = {6},
+  pages = {2714-2724},
+  doi = {10.1109/tcsi.2021.3068564},
+  url = {https://doi.org/10.1109/tcsi.2021.3068564}
+}
+
+@article{yan-lu-59a45a94c962,
+  title = {A 6.78-MHz Single-Stage Wireless Power Receiver With Ultrafast Transient Response Using Hysteretic Control and Multilevel Current-Wave Modulation},
+  author = {Lin, Jie and Zhan, Chenchang and Lu, Yan},
+  year = {2021},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {36},
+  number = {9},
+  pages = {9918-9926},
+  doi = {10.1109/tpel.2021.3062400},
+  url = {https://doi.org/10.1109/tpel.2021.3062400}
+}
+
+@article{yan-lu-889a7225aadc,
+  title = {A Fully Integrated FVF LDO With Enhanced Full-Spectrum Power Supply Rejection},
+  author = {Cai, Guigang and Lu, Yan and Zhan, Chenchang and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {36},
+  number = {4},
+  pages = {4326-4337},
+  doi = {10.1109/tpel.2020.3024595},
+  url = {https://doi.org/10.1109/tpel.2020.3024595}
+}
+
+@article{yan-lu-019bb93b7269,
+  title = {A Highly Integrated 3-Phase 4:1 Resonant Switched-Capacitor Converter With Parasitic Loss Reduction and Fast Pre-Charge Startup},
+  author = {Wang, Chuang and Lu, Yan and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {68},
+  number = {7},
+  pages = {2608-2612},
+  doi = {10.1109/tcsii.2021.3060188},
+  url = {https://doi.org/10.1109/tcsii.2021.3060188}
+}
+
+@article{yan-lu-657606761c84,
+  title = {A Hybrid Boost Converter With Cross-Connected Flying Capacitors},
+  author = {Huang, Mo and Lu, Yan and Hu, Tingxu and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {56},
+  number = {7},
+  pages = {2102-2112},
+  doi = {10.1109/jssc.2020.3044062},
+  url = {https://doi.org/10.1109/jssc.2020.3044062}
+}
+
+@article{yan-lu-057b1e9ec357,
+  title = {A Hybrid Single-Inductor Bipolar-Output DC–DC Converter With Floating Negative Output for AMOLED Displays},
+  author = {Mao, Fangyu and Lu, Yan and Bonizzoni, Edoardo and Boera, Filippo and Huang, Mo and Maloberti, Franco and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {56},
+  number = {9},
+  pages = {2760-2769},
+  doi = {10.1109/jssc.2021.3062092},
+  url = {https://doi.org/10.1109/jssc.2021.3062092}
+}
+
+@article{yan-lu-aa8e2d04629f,
+  title = {A Single-Stage Dual-Output Regulating Rectifier With Hysteretic Current-Wave Modulation},
+  author = {Lin, Jie and Lu, Yan and Zhan, Chenchang and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {56},
+  number = {9},
+  pages = {2770-2780},
+  doi = {10.1109/jssc.2021.3071221},
+  url = {https://doi.org/10.1109/jssc.2021.3071221}
+}
+
+@article{yan-lu-fbc96060e4d1,
+  title = {A Two-Phase Three-Level Buck Converter With Cross-Connected Flying Capacitors for Inductor Current Balancing},
+  author = {Wang, Chuang and Lu, Yan and Huang, Mo and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {36},
+  number = {12},
+  pages = {13855-13866},
+  doi = {10.1109/tpel.2021.3084218},
+  url = {https://doi.org/10.1109/tpel.2021.3084218}
+}
+
+@article{yan-lu-5f66dbb9b22a,
+  title = {Adaptive Maximum Power Point Tracking With Model-Based Negative Feedback Control and Improved V–f Model},
+  author = {Wang, Yuanfei and Huang, Mo and Luo, Ping and Lu, Yan and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {68},
+  number = {9},
+  pages = {3103-3107},
+  doi = {10.1109/tcsii.2021.3097825},
+  url = {https://doi.org/10.1109/tcsii.2021.3097825}
+}
+
+@article{yan-lu-529e3f6e7342,
+  title = {Circuit Techniques for High Efficiency Fully-Integrated Switched-Capacitor Converters},
+  author = {Jiang, Junmin and Liu, Xun and Ki, Wing-Hung and Mok, Philip K. T. and Lu, Yan},
+  year = {2021},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {68},
+  number = {2},
+  pages = {556-561},
+  doi = {10.1109/tcsii.2020.3046514},
+  url = {https://doi.org/10.1109/tcsii.2020.3046514}
+}
+
+@article{yan-lu-cb12d6ceb4da,
+  title = {Optimization of MEMS Vibration Energy Harvester With Perforated Electrode},
+  author = {Luo, Anxin and Zhang, Yulong and Guo, Xinge and Lu, Yan and Lee, Chengkuo and Wang, Fei},
+  year = {2021},
+  journal = {Journal of Microelectromechanical Systems},
+  volume = {30},
+  number = {2},
+  pages = {299-308},
+  doi = {10.1109/jmems.2021.3058766},
+  url = {https://doi.org/10.1109/jmems.2021.3058766}
+}
+
+@article{yan-lu-dedf2b0ecad3,
+  title = {Review of Analog-Assisted-Digital and Digital-Assisted-Analog Low Dropout Regulators},
+  author = {Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2021},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {68},
+  number = {1},
+  pages = {24-29},
+  doi = {10.1109/tcsii.2020.3040393},
+  url = {https://doi.org/10.1109/tcsii.2020.3040393}
+}
+
+@article{yan-lu-661b1b209e18,
+  title = {Spray-coated electret materials with enhanced stability in a harsh environment for an MEMS energy harvesting device},
+  author = {Anxin Luo and Yixin Xu and Yulong Zhang and Mi Zhang and Xiaoqing Zhang and Yan Lu and Fei Wang},
+  year = {2021},
+  journal = {Microsystems & Nanoengineering},
+  publisher = {Springer Science and Business Media LLC},
+  volume = {7},
+  number = {1},
+  doi = {10.1038/s41378-021-00239-0},
+  url = {https://doi.org/10.1038/s41378-021-00239-0}
+}
+
+@article{yan-lu-c49d6cba9b26,
+  title = {A 2.4-GHz Mid-Field CMOS Wireless Power Receiver Achieving 46% Maximum PCE and 163-mW Output Power},
+  author = {Li, Xiaofei and Lu, Yan and Huang, Mo and Martins, Rui P.},
+  year = {2020},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {67},
+  number = {2},
+  pages = {360-364},
+  doi = {10.1109/tcsii.2019.2911642},
+  url = {https://doi.org/10.1109/tcsii.2019.2911642}
+}
+
+@article{yan-lu-de75a2210686,
+  title = {A comparative study of digital low dropout regulators},
+  author = {Mo Huang and Yan Lu and Rui P. Martins},
+  year = {2020},
+  journal = {Journal of Semiconductors},
+  publisher = {IOP Publishing},
+  volume = {41},
+  number = {11},
+  pages = {111405},
+  doi = {10.1088/1674-4926/41/11/111405},
+  url = {https://doi.org/10.1088/1674-4926/41/11/111405}
+}
+
+@article{yan-lu-2fc5dc6d9adb,
+  title = {A Fully Integrated LDO With 50-mV Dropout for Power Efficiency Optimization},
+  author = {Ma, Xiaofei and Lu, Yan and Li, Qiang},
+  year = {2020},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {67},
+  number = {4},
+  pages = {725-729},
+  doi = {10.1109/tcsii.2019.2919665},
+  url = {https://doi.org/10.1109/tcsii.2019.2919665}
+}
+
+@article{yan-lu-e64f8d056fa7,
+  title = {A Multiphase Switched-Capacitor Converter for Fully Integrated AMLED Microdisplay System},
+  author = {Jiang, Junmin and Liu, Xun and Ki, Wing-Hung and Mok, Philip K. T. and Lu, Yan},
+  year = {2020},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {35},
+  number = {6},
+  pages = {6001-6011},
+  doi = {10.1109/tpel.2019.2951799},
+  url = {https://doi.org/10.1109/tpel.2019.2951799}
+}
+
+@article{yan-lu-6b7084cfd67c,
+  title = {A Nano-Watt Dual-Output Subthreshold CMOS Voltage Reference},
+  author = {Lin, Jie and Wang, Lidan and Lu, Yan and Zhan, Chenchang},
+  year = {2020},
+  journal = {IEEE Open Journal of Circuits and Systems},
+  volume = {1},
+  pages = {100-106},
+  doi = {10.1109/ojcas.2020.3005546},
+  url = {https://doi.org/10.1109/ojcas.2020.3005546}
+}
+
+@article{yan-lu-91633d242f19,
+  title = {A Two-Phase Three-Level Buck DC–DC Converter With X-Connected Flying Capacitors for Current Balancing},
+  author = {Wang, Chuang and Lu, Yan and Huang, Mo and Martins, Rui P.},
+  year = {2020},
+  journal = {IEEE Solid-State Circuits Letters},
+  volume = {3},
+  pages = {442-445},
+  doi = {10.1109/lssc.2020.3026056},
+  url = {https://doi.org/10.1109/lssc.2020.3026056}
+}
+
+@article{yan-lu-4f8fe7a13a2b,
+  title = {A VHF Wide-Input Range CMOS Passive Rectifier With Active Bias Tuning},
+  author = {Li, Xiaofei and Mao, Fangyu and Lu, Yan and Martins, Rui P.},
+  year = {2020},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {55},
+  number = {10},
+  pages = {2629-2638},
+  doi = {10.1109/jssc.2020.3005814},
+  url = {https://doi.org/10.1109/jssc.2020.3005814}
+}
+
+@article{yan-lu-2444a059ace7,
+  title = {An Analog-Proportional Digital-Integral Multiloop Digital LDO With PSR Improvement and LCO Reduction},
+  author = {Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2020},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {55},
+  number = {6},
+  pages = {1637-1650},
+  doi = {10.1109/jssc.2020.2967540},
+  url = {https://doi.org/10.1109/jssc.2020.2967540}
+}
+
+@article{yan-lu-7959e0f54355,
+  title = {An inertial rotary energy harvester for vibrations at ultra-low frequency with high energy conversion efficiency},
+  author = {Luo, Anxin and Zhang, Yulong and Dai, Xiangtian and Wang, Yifan and Xu, Weihan and Lu, Yan and Wang, Min and Fan, Kangqi and Wang, Fei},
+  year = {2020},
+  journal = {Applied Energy},
+  volume = {279},
+  pages = {115762},
+  doi = {10.1016/j.apenergy.2020.115762},
+  url = {https://doi.org/10.1016/j.apenergy.2020.115762}
+}
+
+@article{yan-lu-1a32eed7798e,
+  title = {An NMOS Digital LDO With NAND-Based Analog-Assisted Loop in 28-nm CMOS},
+  author = {Ma, Xiaofei and Lu, Yan and Li, Qiang and Ki, Wing-Hung and Martins, Rui P.},
+  year = {2020},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {67},
+  number = {11},
+  pages = {4041-4052},
+  doi = {10.1109/tcsi.2020.3009454},
+  url = {https://doi.org/10.1109/tcsi.2020.3009454}
+}
+
+@article{yan-lu-d85d68b10c5a,
+  title = {Dual Active-Feedback Frequency Compensation for Output-Capacitorless LDO With Transient and Stability Enhancement in 65-nm CMOS},
+  author = {Li, Guangxiang and Qian, Huimin and Guo, Jianping and Mo, Bing and Lu, Yan and Chen, Dihu},
+  year = {2020},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {35},
+  number = {1},
+  pages = {415-429},
+  doi = {10.1109/tpel.2019.2910557},
+  url = {https://doi.org/10.1109/tpel.2019.2910557}
+}
+
+@article{yan-lu-48f1505fb70e,
+  title = {Rotational electromagnetic energy harvester for human motion application at low frequency},
+  author = {Yulong Zhang and Anxin Luo and Yifan Wang and Xiangtian Dai and Yan Lu and Fei Wang},
+  year = {2020},
+  journal = {Applied Physics Letters},
+  publisher = {AIP Publishing},
+  volume = {116},
+  number = {5},
+  doi = {10.1063/1.5142575},
+  url = {https://doi.org/10.1063/1.5142575}
+}
+
+@article{yan-lu-a901b2c9b322,
+  title = {Subtraction-Mode Switched-Capacitor Converters With Parasitic Loss Reduction},
+  author = {Jiang, Junmin and Liu, Xun and Huang, Cheng and Ki, Wing-Hung and Mok, Philip K. T. and Lu, Yan},
+  year = {2020},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {35},
+  number = {2},
+  pages = {1200-1204},
+  doi = {10.1109/tpel.2019.2933623},
+  url = {https://doi.org/10.1109/tpel.2019.2933623}
+}
+
+@article{yan-lu-be040ee2a367,
+  title = {A 0.5-V-supply, 37.8-nW, 17.6-ppm/°C switched-capacitor bandgap reference with second-order curvature compensation},
+  author = {Yang Liu and Bin Li and Zhaoquan Chen and Zhijian Chen and Mo Huang and Yan Lu},
+  year = {2019},
+  journal = {Microelectronics Journal},
+  publisher = {Elsevier BV},
+  volume = {87},
+  pages = {136-143},
+  doi = {10.1016/j.mejo.2019.02.017},
+  url = {https://doi.org/10.1016/j.mejo.2019.02.017}
+}
+
+@article{yan-lu-dc81a730e7d4,
+  title = {A 1-nW Ultra-Low Voltage Subthreshold CMOS Voltage Reference With 0.0154%/V Line Sensitivity},
+  author = {Lin, Jie and Wang, Lidan and Zhan, Chenchang and Lu, Yan},
+  year = {2019},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {66},
+  number = {10},
+  pages = {1653-1657},
+  doi = {10.1109/tcsii.2019.2920693},
+  url = {https://doi.org/10.1109/tcsii.2019.2920693}
+}
+
+@article{yan-lu-5d1781a834e4,
+  title = {A Fast-Transient-Response Fully-Integrated Digital LDO With Adaptive Current Step Size Control},
+  author = {Cai, Guigang and Zhan, Chenchang and Lu, Yan},
+  year = {2019},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {66},
+  number = {9},
+  pages = {3610-3619},
+  doi = {10.1109/tcsi.2019.2917558},
+  url = {https://doi.org/10.1109/tcsi.2019.2917558}
+}
+
+@article{yan-lu-b82bf114d09f,
+  title = {A Fully Integrated FVF-Based Low-Dropout Regulator With Wide Load Capacitance and Current Ranges},
+  author = {Huang, Mo and Feng, Haigang and Lu, Yan},
+  year = {2019},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {34},
+  number = {12},
+  pages = {11880-11888},
+  doi = {10.1109/tpel.2019.2904622},
+  url = {https://doi.org/10.1109/tpel.2019.2904622}
+}
+
+@article{yan-lu-0bce5a420a71,
+  title = {A Reconfigurable Bidirectional Wireless Power Transceiver for Battery-to-Battery Wireless Charging},
+  author = {Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2019},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {34},
+  number = {8},
+  pages = {7745-7753},
+  doi = {10.1109/tpel.2018.2881285},
+  url = {https://doi.org/10.1109/tpel.2018.2881285}
+}
+
+@article{yan-lu-20c4edf6ab82,
+  title = {A Reconfigurable Cross-Connected Wireless-Power Transceiver for Bidirectional Device-to-Device Wireless Charging},
+  author = {Mao, Fangyu and Lu, Yan and Martins, Rui P.},
+  year = {2019},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {54},
+  number = {9},
+  pages = {2579-2589},
+  doi = {10.1109/jssc.2019.2921449},
+  url = {https://doi.org/10.1109/jssc.2019.2921449}
+}
+
+@article{yan-lu-cfe0411883b1,
+  title = {An Integrated DC–DC Converter With Segmented Frequency Modulation and Multiphase Co-Work Control for Fast Transient Recovery},
+  author = {Chio, U-Fat and Wen, Kuo-Chih and Sin, Sai-Weng and Lam, Chi-Seng and Lu, Yan and Maloberti, Franco and Martins, Rui P.},
+  year = {2019},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {54},
+  number = {10},
+  pages = {2637-2648},
+  doi = {10.1109/jssc.2019.2924092},
+  url = {https://doi.org/10.1109/jssc.2019.2924092}
+}
+
+@article{yan-lu-b512d4aa4220,
+  title = {0.45‐V 5.4‐nW switched‐capacitor bandgap reference with intermittent operation and improved supply immunity},
+  author = {Ziyang Luo and Yan Lu and Rui P. Martins},
+  year = {2018},
+  journal = {Electronics Letters},
+  publisher = {Institution of Engineering and Technology (IET)},
+  volume = {54},
+  number = {20},
+  pages = {1154-1156},
+  doi = {10.1049/el.2018.5524},
+  url = {https://doi.org/10.1049/el.2018.5524}
+}
+
+@article{yan-lu-dbe23bef814b,
+  title = {A Digital LDO With Co-SA Logics and TSPC Dynamic Latches for Fast Transient Response},
+  author = {Zhao, Lei and Lu, Yan and Martins, Rui P.},
+  year = {2018},
+  journal = {IEEE Solid-State Circuits Letters},
+  volume = {1},
+  number = {6},
+  pages = {154-157},
+  doi = {10.1109/lssc.2018.2885217},
+  url = {https://doi.org/10.1109/lssc.2018.2885217}
+}
+
+@article{yan-lu-fbc46db261cd,
+  title = {A Fully Integrated Low-Dropout Regulator With Differentiator-Based Active Zero Compensation},
+  author = {Bu, Shi and Leung, Ka Nang and Lu, Yan and Guo, Jianping and Zheng, Yanqi},
+  year = {2018},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {65},
+  number = {10},
+  pages = {3578-3591},
+  doi = {10.1109/tcsi.2018.2833162},
+  url = {https://doi.org/10.1109/tcsi.2018.2833162}
+}
+
+@article{yan-lu-e49a470e925f,
+  title = {An Analog-Assisted Tri-Loop Digital Low-Dropout Regulator},
+  author = {Huang, Mo and Lu, Yan and U, Seng-Pan and Martins, Rui P.},
+  year = {2018},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {53},
+  number = {1},
+  pages = {20-34},
+  doi = {10.1109/jssc.2017.2751512},
+  url = {https://doi.org/10.1109/jssc.2017.2751512}
+}
+
+@article{yan-lu-285880fabf0e,
+  title = {Design Considerations of Distributed and Centralized Switched-Capacitor Converters for Power Supply On-Chip},
+  author = {Lu, Yan and Jiang, Junmin and Ki, Wing-Hung},
+  year = {2018},
+  journal = {IEEE Journal of Emerging and Selected Topics in Power Electronics},
+  volume = {6},
+  number = {2},
+  pages = {515-525},
+  doi = {10.1109/jestpe.2017.2747094},
+  url = {https://doi.org/10.1109/jestpe.2017.2747094}
+}
+
+@article{yan-lu-c3e3e487f0ea,
+  title = {Missing-Code-Occurrence Probability Calibration Technique for DAC Nonlinearity With Supply and Reference Circuit Analysis in a SAR ADC},
+  author = {Wang, Guancheng and Li, Cheng and Zhu, Yan and Zhong, Jianyu and Lu, Yan and Chan, Chi-Hang and Martins, Rui P.},
+  year = {2018},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {65},
+  number = {11},
+  pages = {3707-3719},
+  doi = {10.1109/tcsi.2018.2858848},
+  url = {https://doi.org/10.1109/tcsi.2018.2858848}
+}
+
+@article{yan-lu-a770260b3e6d,
+  title = {Nano-Ampere Low-Dropout Regulator Designs for IoT Devices},
+  author = {Huang, Yuanqing and Lu, Yan and Maloberti, Franco and Martins, Rui P.},
+  year = {2018},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {65},
+  number = {11},
+  pages = {4017-4026},
+  doi = {10.1109/tcsi.2018.2851226},
+  url = {https://doi.org/10.1109/tcsi.2018.2851226}
+}
+
+@article{yan-lu-e8aab174c091,
+  title = {Partial analogue‐assisted digital low dropout regulator with transient body‐drive and 2.5× FOM improvement},
+  author = {Mo Huang and Yan Lu and Xing Lu},
+  year = {2018},
+  journal = {Electronics Letters},
+  publisher = {Institution of Engineering and Technology (IET)},
+  volume = {54},
+  number = {5},
+  pages = {282-283},
+  doi = {10.1049/el.2017.4211},
+  url = {https://doi.org/10.1049/el.2017.4211}
+}
+
+@article{yan-lu-d5059b38c042,
+  title = {A Dual-Output Wireless Power Transfer System With Active Rectifier and Three-Level Operation},
+  author = {Lu, Yan and Huang, Mo and Cheng, Lin and Ki, Wing-Hung and U, Seng-Pan and Martins, Rui P.},
+  year = {2017},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {32},
+  number = {2},
+  pages = {927-930},
+  doi = {10.1109/tpel.2016.2601623},
+  url = {https://doi.org/10.1109/tpel.2016.2601623}
+}
+
+@article{yan-lu-10910062d24f,
+  title = {A Multiphase Switched-Capacitor DC–DC Converter Ring With Fast Transient Response and Small Ripple},
+  author = {Lu, Yan and Jiang, Junmin and Ki, Wing-Hung},
+  year = {2017},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {52},
+  number = {2},
+  pages = {579-591},
+  doi = {10.1109/jssc.2016.2617315},
+  url = {https://doi.org/10.1109/jssc.2016.2617315}
+}
+
+@article{yan-lu-905605169ce6,
+  title = {A sub-1V 78-nA bandgap reference with curvature compensation},
+  author = {Luo, Ziyang and Lu, Yan and Huang, Mo and Jiang, Junmin and Sin, Sai-Weng and U, Seng-Pan and Martins, Rui P.},
+  year = {2017},
+  journal = {Microelectronics Journal},
+  volume = {63},
+  pages = {35-40},
+  doi = {10.1016/j.mejo.2017.02.016},
+  url = {https://doi.org/10.1016/j.mejo.2017.02.016}
+}
+
+@article{yan-lu-c8b27b10bac5,
+  title = {A Wide Input Range Dual-Path CMOS Rectifier for RF Energy Harvesting},
+  author = {Lu, Yan and Dai, Haojuan and Huang, Mo and Law, Man-Kay and Sin, Sai-Weng and U, Seng-Pan and Martins, Rui P.},
+  year = {2017},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {64},
+  number = {2},
+  pages = {166-170},
+  doi = {10.1109/tcsii.2016.2554778},
+  url = {https://doi.org/10.1109/tcsii.2016.2554778}
+}
+
+@article{yan-lu-c059af829a53,
+  title = {Digital 2-/3-Phase Switched-Capacitor Converter With Ripple Reduction and Efficiency Improvement},
+  author = {Jiang, Junmin and Ki, Wing-Hung and Lu, Yan},
+  year = {2017},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {52},
+  number = {7},
+  pages = {1836-1848},
+  doi = {10.1109/jssc.2017.2679065},
+  url = {https://doi.org/10.1109/jssc.2017.2679065}
+}
+
+@article{yan-lu-2f68a6acf659,
+  title = {Optic Nerve Stimulation System with Adaptive Wireless Powering and Data Telemetry},
+  author = {Xing Li and Yan Lu and Xiaodong Meng and Chi-Ying Tsui and Wing-Hung Ki},
+  year = {2017},
+  journal = {Micromachines},
+  publisher = {MDPI AG},
+  volume = {8},
+  number = {12},
+  pages = {368},
+  doi = {10.3390/mi8120368},
+  url = {https://doi.org/10.3390/mi8120368}
+}
+
+@article{yan-lu-0fb6dc0a829b,
+  title = {A 312 ps response‐time LDO with enhanced super source follower in 28 nm CMOS},
+  author = {Yan Lu and Cheng Li and Yan Zhu and Mo Huang and Seng‐Pan U and Rui P. Martins},
+  year = {2016},
+  journal = {Electronics Letters},
+  publisher = {Institution of Engineering and Technology (IET)},
+  volume = {52},
+  number = {16},
+  pages = {1368-1370},
+  doi = {10.1049/el.2016.1719},
+  url = {https://doi.org/10.1049/el.2016.1719}
+}
+
+@article{yan-lu-88944c9cb5cf,
+  title = {A Fully Integrated Digital LDO With Coarse–Fine-Tuning and Burst-Mode Operation},
+  author = {Huang, Mo and Lu, Yan and Sin, Sai-Weng and Seng-Pan, U. and Martins, Rui P.},
+  year = {2016},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {63},
+  number = {7},
+  pages = {683-687},
+  doi = {10.1109/tcsii.2016.2530094},
+  url = {https://doi.org/10.1109/tcsii.2016.2530094}
+}
+
+@article{yan-lu-8d089e302440,
+  title = {Adaptive On/Off Delay-Compensated Active Rectifiers for Wireless Power Transfer Systems},
+  author = {Cheng, Lin and Ki, Wing-Hung and Lu, Yan and Yim, Tak-Sang},
+  year = {2016},
+  journal = {IEEE Journal of Solid-State Circuits},
+  volume = {51},
+  number = {3},
+  pages = {712-723},
+  doi = {10.1109/jssc.2016.2517119},
+  url = {https://doi.org/10.1109/jssc.2016.2517119}
+}
+
+@article{yan-lu-903e8ad12f27,
+  title = {An 18-Gb/s Fully Integrated Optical Receiver With Adaptive Cascaded Equalizer},
+  author = {Pan, Quan and Wang, Yipeng and Lu, Yan and Yue, C. Patrick},
+  year = {2016},
+  journal = {IEEE Journal of Selected Topics in Quantum Electronics},
+  volume = {22},
+  number = {6},
+  pages = {361-369},
+  doi = {10.1109/jstqe.2016.2574567},
+  url = {https://doi.org/10.1109/jstqe.2016.2574567}
+}
+
+@article{yan-lu-181cb257de80,
+  title = {An NMOS-LDO Regulated Switched-Capacitor DC–DC Converter With Fast-Response Adaptive-Phase Digital Control},
+  author = {Lu, Yan and Ki, Wing-Hung and Patrick Yue, C.},
+  year = {2016},
+  journal = {IEEE Transactions on Power Electronics},
+  volume = {31},
+  number = {2},
+  pages = {1294-1303},
+  doi = {10.1109/tpel.2015.2420572},
+  url = {https://doi.org/10.1109/tpel.2015.2420572}
+}
+
+@article{yan-lu-eb82d5efceff,
+  title = {Limit Cycle Oscillation Reduction for Digital Low Dropout Regulators},
+  author = {Huang, Mo and Lu, Yan and Sin, Sai-Weng and U, Seng-Pan and Martins, Rui P. and Ki, Wing-Hung},
+  year = {2016},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {63},
+  number = {9},
+  pages = {903-907},
+  doi = {10.1109/tcsii.2016.2534778},
+  url = {https://doi.org/10.1109/tcsii.2016.2534778}
+}
+
+@article{yan-lu-28b0f00f4709,
+  title = {Wireless Power Transfer System Architectures for Portable or Implantable Applications},
+  author = {Yan Lu and Dongsheng Ma},
+  year = {2016},
+  journal = {Energies},
+  publisher = {MDPI AG},
+  volume = {9},
+  number = {12},
+  pages = {1087},
+  doi = {10.3390/en9121087},
+  url = {https://doi.org/10.3390/en9121087}
+}
+
+@article{yan-lu-34260d7b3317,
+  title = {A 30-Gb/s 1.37-pJ/b CMOS Receiver for Optical Interconnects},
+  author = {Pan, Quan and Wang, Yipeng and Hou, Zhengxiong and Sun, Li and Lu, Yan and Ki, Wing-Hung and Chiang, Patrick and Yue, C. Patrick},
+  year = {2015},
+  journal = {Journal of Lightwave Technology},
+  volume = {33},
+  number = {4},
+  pages = {778-786},
+  doi = {10.1109/jlt.2014.2381266},
+  url = {https://doi.org/10.1109/jlt.2014.2381266}
+}
+
+@article{yan-lu-ab4aaf41fd31,
+  title = {A CMOS Delta-Sigma PLL Transmitter with Efficient Modulation Bandwidth Calibration},
+  author = {Huang, Mo and Chen, Dihu and Guo, Jianping and Ye, Hui and Xu, Ken and Liang, Xiaofeng and Lu, Yan},
+  year = {2015},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {62},
+  number = {7},
+  pages = {1716-1725},
+  doi = {10.1109/tcsi.2015.2441965},
+  url = {https://doi.org/10.1109/tcsi.2015.2441965}
+}
+
+@article{yan-lu-b69229afd68a,
+  title = {A Fully-Integrated Low-Dropout Regulator With Full-Spectrum Power Supply Rejection},
+  author = {Lu, Yan and Wang, Yipeng and Pan, Quan and Ki, Wing-Hung and Yue, C. Patrick},
+  year = {2015},
+  journal = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume = {62},
+  number = {3},
+  pages = {707-716},
+  doi = {10.1109/tcsi.2014.2380644},
+  url = {https://doi.org/10.1109/tcsi.2014.2380644}
+}
+
+@article{yan-lu-b10b653bd1af,
+  title = {A 13.56 MHz CMOS Active Rectifier With Switched-Offset and Compensated Biasing for Biomedical Wireless Power Transfer Systems},
+  author = {Lu, Yan and Ki, Wing-Hung},
+  year = {2014},
+  journal = {IEEE Transactions on Biomedical Circuits and Systems},
+  volume = {8},
+  number = {3},
+  pages = {334-344},
+  doi = {10.1109/tbcas.2013.2270177},
+  url = {https://doi.org/10.1109/tbcas.2013.2270177}
+}
+
+@article{yan-lu-773501fdbcd0,
+  title = {A ±0.5% Precision On-Chip Frequency Reference With Programmable Switch Array for Crystal-Less Applications},
+  author = {Lu, Yan and Yuan, Gang and Der, Lawrence and Ki, Wing-Hung and Yue, C. Patrick},
+  year = {2013},
+  journal = {IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume = {60},
+  number = {10},
+  pages = {642-646},
+  doi = {10.1109/tcsii.2013.2277984},
+  url = {https://doi.org/10.1109/tcsii.2013.2277984}
+}
+
+@article{yan-lu-2d24a0e82c23,
+  title = {Low-voltage constant-gm rail-to-rail CMOS operational amplifier input stage},
+  author = {Yan Lu and Ruo He Yao},
+  year = {2008},
+  journal = {Solid-State Electronics},
+  publisher = {Elsevier BV},
+  volume = {52},
+  number = {6},
+  pages = {957-961},
+  doi = {10.1016/j.sse.2008.02.002},
+  url = {https://doi.org/10.1016/j.sse.2008.02.002}
+}
+
+@inproceedings{yan-lu-7bbc1e9d0137,
+  title = {26.5 An Inductor-at-Middle Hybrid Buck Converter with Shared Power-Signal Path for Distributed Vertical Power Delivery},
+  author = {Zhu, Zhongyao and Huang, Junwei and Song, Zhibang and Yu, Zhewen and Han, Shousheng and Sin, Sai-Weng and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {69},
+  pages = {454-456},
+  doi = {10.1109/isscc49663.2026.11409286},
+  url = {https://doi.org/10.1109/isscc49663.2026.11409286}
+}
+
+@inproceedings{yan-lu-c7848ae4507e,
+  title = {9.4 A Multi-Coil Scalable Energy-Shared Wireless Power Receiver Network for Distributed Time-Division-Multiplexing Somatosensory Cortex Stimulation},
+  author = {Cui, Kai and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {69},
+  pages = {164-166},
+  doi = {10.1109/isscc49663.2026.11409068},
+  url = {https://doi.org/10.1109/isscc49663.2026.11409068}
+}
+
+@inproceedings{yan-lu-0243d3984186,
+  title = {A 100V 86.2% Efficiency Fibonacci-Dickson Hybrid Boost Converter for Acoustic Screen Applications},
+  author = {Hu, Chen and Jiang, Yifan and Lu, Yan and Jiang, Junmin},
+  year = {2026},
+  booktitle = {2026 31st Asia and South Pacific Design Automation Conference (ASP-DAC)},
+  pages = {213-215},
+  doi = {10.1109/asp-dac66049.2026.11420450},
+  url = {https://doi.org/10.1109/asp-dac66049.2026.11420450}
+}
+
+@inproceedings{yan-lu-77e52ab77732,
+  title = {A 10MHz All-1.2V-NMOS Battery-Input Single-Mode Hybrid Buck-Boost Converter in 65nm CMOS with Fast Transient Response},
+  author = {Yang, Wenjie and Tong, Zhiguo and Yu, Zhewen and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc65509.2026.11509611},
+  url = {https://doi.org/10.1109/cicc65509.2026.11509611}
+}
+
+@inproceedings{yan-lu-84945b70998d,
+  title = {A 28.71ppm/°C Voltage Reference with 0.00002% Line Sensitivity and 35μs Startup Time for High Voltage Applications},
+  author = {Wang, Yining and Li, Xing and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc65509.2026.11509634},
+  url = {https://doi.org/10.1109/cicc65509.2026.11509634}
+}
+
+@inproceedings{yan-lu-4cd8d545b349,
+  title = {A 48V-Input Series Double Dickson (SDD) Converter for Point-of-Load Conversion},
+  author = {Yang, Wenjie and Tong, Zhiguo and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Applied Power Electronics Conference and Exposition (APEC)},
+  pages = {1929-1934},
+  doi = {10.1109/apec51134.2026.11516718},
+  url = {https://doi.org/10.1109/apec51134.2026.11516718}
+}
+
+@inproceedings{yan-lu-552a84dc16a4,
+  title = {A 6V-to-1V ReSC-Hybrid Two-Stage Merged Buck Converter with an Ultra-Small Inductor for VPD},
+  author = {Song, Zhibang and Tong, Zhiguo and Huang, Junwei and Zhu, Zhongyao and Sin, Sai-Weng and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc65509.2026.11509559},
+  url = {https://doi.org/10.1109/cicc65509.2026.11509559}
+}
+
+@inproceedings{yan-lu-9e0b51f52f83,
+  title = {A 94.1% Peak Efficiency Coupled-Inductor Boost Converter with Small Inductor Current Ripple and Fast Transient Response},
+  author = {Han, Shousheng and Huang, Junwei and Song, Fei and Tong, Zhiguo and Sin, Sai-Weng and Jiang, Hanjun and Wu, Xiaoming and Ren, Tianling and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc65509.2026.11509628},
+  url = {https://doi.org/10.1109/cicc65509.2026.11509628}
+}
+
+@inproceedings{yan-lu-f4a4f81d4ea4,
+  title = {A Buck Converter with Mixed-Signal Computational Charge Balance Control for One-Cycle Fast Recovery},
+  author = {Wang, Shiyuan and Zhou, Zekun and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {4350-4354},
+  doi = {10.1109/iscas66217.2026.11562556},
+  url = {https://doi.org/10.1109/iscas66217.2026.11562556}
+}
+
+@inproceedings{yan-lu-e8b14cf51dcd,
+  title = {A Compact Dual-Capacitor Relay SPT Supply Modulator with Overshoot-Free Adaptive on-Time Control for 5G FR2 CMOS PA},
+  author = {Yu, Zhewen and Tong, Zhiguo and Huang, Junwei and Yin, Jun and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {69},
+  pages = {462-464},
+  doi = {10.1109/isscc49663.2026.11409358},
+  url = {https://doi.org/10.1109/isscc49663.2026.11409358}
+}
+
+@inproceedings{yan-lu-1b9631bf48cd,
+  title = {A Constant-Loss 6.78-MHz Wireless Power Transfer System with Hybrid Class-ED Power Amplifier for D2D Fast Charging},
+  author = {Zou, Jiwei and Cui, Kai and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {4420-4424},
+  doi = {10.1109/iscas66217.2026.11562205},
+  url = {https://doi.org/10.1109/iscas66217.2026.11562205}
+}
+
+@inproceedings{yan-lu-44625b696102,
+  title = {A Dual-Output Resonant Current-Mode Wireless Power Receiver With Shared-Inductor Energy Replenishing for Neuron Stimulation},
+  author = {Cui, Kai and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1506-1510},
+  doi = {10.1109/iscas66217.2026.11562613},
+  url = {https://doi.org/10.1109/iscas66217.2026.11562613}
+}
+
+@inproceedings{yan-lu-284b1e1601e4,
+  title = {A Multiple-Inductor-Middle 48V-1V Hybrid DC-DC Converter for Computing Power Delivery},
+  author = {Tong, Zhiguo and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Applied Power Electronics Conference and Exposition (APEC)},
+  pages = {1434-1438},
+  doi = {10.1109/apec51134.2026.11517126},
+  url = {https://doi.org/10.1109/apec51134.2026.11517126}
+}
+
+@inproceedings{yan-lu-1ec06290584f,
+  title = {A Scalable Distributed 12-to-1V Fast-Slow Hybrid DC-DC Combo with Fast-Transient Bucklets and One-Pin Current Balancing},
+  author = {Huang, Junwei and Mao, Xiangyu and Tong, Zhiguo and Yu, Zhewen and Han, Shousheng and Martins, Rui P. and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc65509.2026.11509472},
+  url = {https://doi.org/10.1109/cicc65509.2026.11509472}
+}
+
+@inproceedings{yan-lu-b6632a2f62d2,
+  title = {A Single-Stage Regulated Resonant Switched-Capacitor Converter},
+  author = {Song, Zhibang and Tong, Zhiguo and Sin, Sai-Weng and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Applied Power Electronics Conference and Exposition (APEC)},
+  pages = {2170-2174},
+  doi = {10.1109/apec51134.2026.11517066},
+  url = {https://doi.org/10.1109/apec51134.2026.11517066}
+}
+
+@inproceedings{yan-lu-d299791261a4,
+  title = {An Output-Rail-Scalable Hybrid Buck Converter with Globally Adaptive Frequency Control Achieving 98.0% Peak Efficiency and 490 mW/mm3 Power Density},
+  author = {Yu, Zhewen and Huang, Junwei and Tong, Zhiguo and Zhu, Zhongyao and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc65509.2026.11509526},
+  url = {https://doi.org/10.1109/cicc65509.2026.11509526}
+}
+
+@inproceedings{yan-lu-5b727df67f6f,
+  title = {Analysis of Small 3-TX-Coil Array and Large-RX Coupler for Mobile Device Wireless Fast Charging},
+  author = {Fang, Zanfeng and Yin, Jun and Huang, Mo and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE 9th International Electrical and Energy Conference (CIEEC)},
+  pages = {140-145},
+  doi = {10.1109/cieec69682.2026.11572001},
+  url = {https://doi.org/10.1109/cieec69682.2026.11572001}
+}
+
+@inproceedings{yan-lu-7a38b02c9bf9,
+  title = {Sunflower: A Small-Size Energy-Efficient Power-Based Solar Tracking System for IoT Devices},
+  author = {Han, Shousheng and Shi, Nan and Lu, Yan},
+  year = {2026},
+  booktitle = {2026 IEEE Applied Power Electronics Conference and Exposition (APEC)},
+  pages = {694-699},
+  doi = {10.1109/apec51134.2026.11516731},
+  url = {https://doi.org/10.1109/apec51134.2026.11516731}
+}
+
+@inproceedings{yan-lu-1d87f509ed5e,
+  title = {21.9 A 20MHz & 1MHz Dual-Loop Non-Uniform-Multi-Inductor Hybrid DC-DC Converter with Specified Inductor Current Allocation and Fast Transient Response},
+  author = {Huang, Junwei and Mao, Xiangyu and Tong, Zhiguo and Yu, Zhewen and Yang, Wenjie and Lam, Chi-Seng and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {68},
+  pages = {1-3},
+  doi = {10.1109/isscc49661.2025.10904544},
+  url = {https://doi.org/10.1109/isscc49661.2025.10904544}
+}
+
+@inproceedings{yan-lu-2ac44cf65a1a,
+  title = {9.10 A 93%-Peak-Efficiency Battery-Input 12-to-36V-Output Inductor-in-the-Middle Hybrid Boost Converter with Continuous Input and Output Currents and Fast Transient with No RHP Zero},
+  author = {Jiang, Yifan and Lu, Yan and Tang, Tiantian and Jiang, Junmin},
+  year = {2025},
+  booktitle = {2025 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {68},
+  pages = {196-198},
+  doi = {10.1109/isscc49661.2025.10904669},
+  url = {https://doi.org/10.1109/isscc49661.2025.10904669}
+}
+
+@inproceedings{yan-lu-1bb70ab4a007,
+  title = {A 12V-Input 1.8V-0.8V-Output Multiple-Output Hybrid Buck DC-DC Converter with a Shared Flying Capacitor},
+  author = {Luo, Fucong and Huang, Junwei and Huang, Mo and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-5},
+  doi = {10.1109/iscas56072.2025.11043422},
+  url = {https://doi.org/10.1109/iscas56072.2025.11043422}
+}
+
+@inproceedings{yan-lu-391955299523,
+  title = {A 180mA LDO Achieving 65dB PSR Across Wide Load and Input Ranges with Adaptive FFRC},
+  author = {Zhao, Xiaoyan and Xu, Jinshuo and Mao, Xiangyu and Jia, Haiyang and Sun, Nan and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)},
+  pages = {73-74},
+  doi = {10.1109/icta68203.2025.11329607},
+  url = {https://doi.org/10.1109/icta68203.2025.11329607}
+}
+
+@inproceedings{yan-lu-4347b33d9ad3,
+  title = {A 22.4-25.6GHz Ping-Pong Sub-Sampling PLL Featuring Unified Supply Voltage and Balanced 2nd Harmonic Extraction Achieving 45.8fsrms Jitter and -254.3dB FoM},
+  author = {Huang, Yunbo and Yang, Zunsong and Ren, Hongyu and Martins, Rui P. and Lu, Yan and Sun, Nan and Qi, Nan and Chen, Yong},
+  year = {2025},
+  booktitle = {2025 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-3},
+  doi = {10.1109/cicc63670.2025.10983523},
+  url = {https://doi.org/10.1109/cicc63670.2025.10983523}
+}
+
+@inproceedings{yan-lu-45fd4648e8b1,
+  title = {A 3.4-μW Active Charge Balancing with Optimal-Pulse-Width-Searching Technique for Implantable Biphasic Neural Stimulators},
+  author = {Cui, Kai and Yan, Junhong and Li, Zhi and Lu, Yan and Fan, Xiaoya and Ma, Yanzhao},
+  year = {2025},
+  booktitle = {2025 IEEE European Solid-State Electronics Research Conference (ESSERC)},
+  pages = {313-316},
+  doi = {10.1109/esserc66193.2025.11214011},
+  url = {https://doi.org/10.1109/esserc66193.2025.11214011}
+}
+
+@inproceedings{yan-lu-551108198e62,
+  title = {A 4-Phase Adaptive On-Time Controlled Buck Converter With Auto-Synchronized Dynamic Frequency and Transient-Enhancement Techniques},
+  author = {He, Zhiming and Sin, Sai-Weng and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-5},
+  doi = {10.1109/iscas56072.2025.11043445},
+  url = {https://doi.org/10.1109/iscas56072.2025.11043445}
+}
+
+@inproceedings{yan-lu-958f3d0ce348,
+  title = {A 45W 12-40V Input 94.4% Peak Efficiency Simultaneous 1S/2S Battery Charging and PoL Supply Hybrid Converter with Flying Capacitor Floating Technique and Duty-Cycle Lockout-Release Operations},
+  author = {Zhang, Xiongjie and Li, Xinman and Ma, Qiaobo and Li, Huihua and Jiang, Yang and Lu, Yan and Martins, Rui and Mak, Pui-In},
+  year = {2025},
+  booktitle = {2025 IEEE Asian Solid-State Circuits Conference (A-SSCC)},
+  pages = {175-177},
+  doi = {10.1109/a-sscc67472.2025.11349487},
+  url = {https://doi.org/10.1109/a-sscc67472.2025.11349487}
+}
+
+@inproceedings{yan-lu-4d899ec512cf,
+  title = {A 5V-to-0.8V Inductor-First 2L2C Multi-Path Hybrid DC-DC Converter},
+  author = {Hu, Yasi and Huang, Junwei and Lam, Chi-Seng and Huang, Mo and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-5},
+  doi = {10.1109/iscas56072.2025.11043398},
+  url = {https://doi.org/10.1109/iscas56072.2025.11043398}
+}
+
+@inproceedings{yan-lu-6737e5e77612,
+  title = {A Bi-Directional Dual-Path Boost-48V-Buck Hybrid Converter for High-Voltage Power-Transmission Cable in Light-Weight Humanoid Robots},
+  author = {Yang, Wenjie and Tong, Zhiguo and Huang, Junwei and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {68},
+  pages = {194-196},
+  doi = {10.1109/isscc49661.2025.10904797},
+  url = {https://doi.org/10.1109/isscc49661.2025.10904797}
+}
+
+@inproceedings{yan-lu-0171b36804e5,
+  title = {A Bidirectional Buck/Buck Hybrid Converter Achieving 96.3% Charging and 91.4% Discharging Peak Efficiency for Alkaline-to-Li-Ion Replacement},
+  author = {Wu, Xuan and Tong, Caiyu and Lu, Yan and Huang, Mo and Gao, Yuan},
+  year = {2025},
+  booktitle = {2025 IEEE European Solid-State Electronics Research Conference (ESSERC)},
+  pages = {269-272},
+  doi = {10.1109/esserc66193.2025.11214027},
+  url = {https://doi.org/10.1109/esserc66193.2025.11214027}
+}
+
+@inproceedings{yan-lu-5e2253a3dcb3,
+  title = {A Class-Phi-2 Based Single-Stage AC-AC Converter with a Half-Cycle PWM Control for Wireless Power Transfer},
+  author = {Fang, Zanfeng and Han, Shousheng and Mao, Fangyu and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE)},
+  pages = {1-7},
+  doi = {10.1109/ecce58356.2025.11259640},
+  url = {https://doi.org/10.1109/ecce58356.2025.11259640}
+}
+
+@inproceedings{yan-lu-bedc2fdacff9,
+  title = {A High Bandwidth Capacitorless NMOS LDO with Pole-Tracking Scheme and Adaptive FFRC Achieving -65dB PSR across Full Load Range},
+  author = {Xu, Jinshuo and Zhao, Xiaoyan and Mao, Xiangyu and Yin, Jun and Huang, Mo and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-5},
+  doi = {10.1109/iscas56072.2025.11043785},
+  url = {https://doi.org/10.1109/iscas56072.2025.11043785}
+}
+
+@inproceedings{yan-lu-3afd0ac479ce,
+  title = {A LEGO-Like Easy-Stacking Step-Up SC Converter with Ultra-High and Wide VCR Using All Input-Stress-Only Devices},
+  author = {Han, Shousheng and Song, Fei and Zhu, Zhongyao and Wu, Xiaoming and Jiang, Hanjun and Ren, Tianling and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-3},
+  doi = {10.1109/cicc63670.2025.10983382},
+  url = {https://doi.org/10.1109/cicc63670.2025.10983382}
+}
+
+@inproceedings{yan-lu-1fab323dce31,
+  title = {A Multiple-Output DC-DC with Dual-Inductor Complementary-Priority Control},
+  author = {Li, Yang and Huang, Mo and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)},
+  pages = {105-106},
+  doi = {10.1109/icta68203.2025.11329935},
+  url = {https://doi.org/10.1109/icta68203.2025.11329935}
+}
+
+@inproceedings{yan-lu-6b1e3a08092f,
+  title = {A Single-Mode Three-Phase Dual-Path Hybrid Buck-Boost Converter with Extended VCR Range and Always-Reduced Conduction Loss},
+  author = {Li, Xinman and Zhang, Xiongjie and Jiang, Yang and Lu, Yan and Martins, Rui P. and Mak, Pui-In},
+  year = {2025},
+  booktitle = {2025 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {1-5},
+  doi = {10.1109/apccas67402.2025.11377044},
+  url = {https://doi.org/10.1109/apccas67402.2025.11377044}
+}
+
+@inproceedings{yan-lu-e6f8c3ff3d02,
+  title = {An 85-to-230VAC to 3.3-to-4.6VDc 1.52W Capacitor-Drop Sigma-Floating-SC AC-DC Converter with 81.3% Peak Efficiency},
+  author = {Song, Fei and Han, Shousheng and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {68},
+  pages = {1-3},
+  doi = {10.1109/isscc49661.2025.10904504},
+  url = {https://doi.org/10.1109/isscc49661.2025.10904504}
+}
+
+@inproceedings{yan-lu-7a463828d5a9,
+  title = {An Always Dual-Path Hybrid DC-DC Converter with Multiphase Interleaving Switched-Capacitor Cell Obtaining 45% Output Ripple Reduction},
+  author = {Yu, Zhewen and Huang, Junwei and Tong, Zhiguo and Huang, Mo and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-5},
+  doi = {10.1109/iscas56072.2025.11043583},
+  url = {https://doi.org/10.1109/iscas56072.2025.11043583}
+}
+
+@inproceedings{yan-lu-f3189616160f,
+  title = {HOOP: A Scalable Hybrid DC-DC Converter Ring for High-Performance Computing},
+  author = {Tong, Zhiguo and Yu, Zhewen and Huang, Junwei and Mao, Xiangyu and Wicht, Bernhard and Martins, Rui P. and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {68},
+  pages = {1-3},
+  doi = {10.1109/isscc49661.2025.10904695},
+  url = {https://doi.org/10.1109/isscc49661.2025.10904695}
+}
+
+@inproceedings{yan-lu-ba93316d24e9,
+  title = {Where is the Inductor: A Review and Comparison of the Hybrid DC-DC Buck Topologies},
+  author = {Tong, Zhiguo and Yang, Wenjie and Han, Shousheng and Huang, Junwei and Mao, Xiangyu and Lu, Yan},
+  year = {2025},
+  booktitle = {2025 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-8},
+  doi = {10.1109/cicc63670.2025.10983170},
+  url = {https://doi.org/10.1109/cicc63670.2025.10983170}
+}
+
+@inproceedings{yan-lu-c1b1941c4c59,
+  title = {27.1 A Differential Hybrid Class-ED Power Amplifier with 27W Maximum Power and 82% Peak E2E Efficiency for Wireless Fast Charging To-Go},
+  author = {Mao, Fangyu and Martins, Rui and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {67},
+  pages = {444-446},
+  doi = {10.1109/isscc49657.2024.10454369},
+  url = {https://doi.org/10.1109/isscc49657.2024.10454369}
+}
+
+@inproceedings{yan-lu-d4fb12aa70cf,
+  title = {31.5 A 750mW, 37% Peak Efficiency Isolated DC-DC Converter with 54/18Mb/s Full-Duplex Communication Using a Single Pair of Transformers},
+  author = {Hu, Tingxu and Huang, Mo and Martins, Rui Paulo and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {67},
+  pages = {504-506},
+  doi = {10.1109/isscc49657.2024.10454311},
+  url = {https://doi.org/10.1109/isscc49657.2024.10454311}
+}
+
+@inproceedings{yan-lu-66aa46b991c4,
+  title = {31.6 A SIDO/DISO VCF-Step-Reconfigurable Continuously Scalable-Conversion-Ratio SC Converter Achieving 91.4%/92.6% Peak Efficiency and Almost-lossless Channel Switching},
+  author = {Wang, Yuanfei and Huang, Mo and Martins, Rui Paulo and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {67},
+  pages = {506-508},
+  doi = {10.1109/isscc49657.2024.10454453},
+  url = {https://doi.org/10.1109/isscc49657.2024.10454453}
+}
+
+@inproceedings{yan-lu-9915cfd054e7,
+  title = {8.10 A 5V-to-150V Input-Parallel Output-Series Hybrid DC-DC Boost Converter Achieving 76.4mW/mg Power Density and 80% Peak Efficiency},
+  author = {Han, Shousheng and Fang, Zanfeng and Tong, Zhiguo and Wu, Xiaoming and Jiang, Hanjun and Ren, Tianling and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {67},
+  pages = {162-164},
+  doi = {10.1109/isscc49657.2024.10454429},
+  url = {https://doi.org/10.1109/isscc49657.2024.10454429}
+}
+
+@inproceedings{yan-lu-3c78480ab4b4,
+  title = {8.4 A Fast-Transient 3-Fine-Level Buck-Boost Hybrid DC-DC Converter with Half-Voltage-Stress on All Switches and 98.2% Peak Efficiency},
+  author = {Zhao, Shuangxing and Zhan, Chenchang and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {67},
+  pages = {150-152},
+  doi = {10.1109/isscc49657.2024.10454536},
+  url = {https://doi.org/10.1109/isscc49657.2024.10454536}
+}
+
+@inproceedings{yan-lu-45531a93314c,
+  title = {A -28.5-dBm Sensitivity RF Energy Harvesting Interface with 3-D MPPT Achieving > 98% MPPT Accuracy and Good Temperature Consistency},
+  author = {Chen, Qiujin and Huang, Mo and Xia, Tian and Hu, Tingxu and Martins, R. P. and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE European Solid-State Electronics Research Conference (ESSERC)},
+  pages = {544-547},
+  doi = {10.1109/esserc62670.2024.10719501},
+  url = {https://doi.org/10.1109/esserc62670.2024.10719501}
+}
+
+@inproceedings{yan-lu-d12773ad7290,
+  title = {A 1.58-nA CEPE-Based Hill-Climbing MPPT Technique with Compensated Ton Achieving 67.3% Efficiency at 10-nA Lload and > 97% MPPT Efficiency at VCR from 2 to 6},
+  author = {Chen, Qiujin and Xia, Tian and Hu, Tingxu and Wang, Yuanfei and Huang, Mo and Martins, Rui. P. and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc60959.2024.10528995},
+  url = {https://doi.org/10.1109/cicc60959.2024.10528995}
+}
+
+@inproceedings{yan-lu-72c0e48317ba,
+  title = {A 12V-to-PoL CCC-Based Easy-Scalable Multiple-Phase Hybrid Converter with Auto VCF Balancing and Inactive CF Charging},
+  author = {Yang, Jiacheng and Hu, Tingxu and Huang, Mo and Martins, Rui. P. and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc60959.2024.10529038},
+  url = {https://doi.org/10.1109/cicc60959.2024.10529038}
+}
+
+@inproceedings{yan-lu-4b4eba7345a4,
+  title = {A Fast-Slow Two-Module DC-DC Solution with Transient and Efficiency Improvements for 2.5D/3D Integration},
+  author = {Huang, Junwei and Tong, Zhiguo and Mao, Xiangyu and Lam, Chi-Seng and Martins, Rui. P. and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc60959.2024.10529007},
+  url = {https://doi.org/10.1109/cicc60959.2024.10529007}
+}
+
+@inproceedings{yan-lu-e109fd9bde8d,
+  title = {A Quad-Output Hybrid Buck Converter with 8-Inductor Helping One Spot from All Quarters for Multi-Core XPUs},
+  author = {Mao, Xiangyu and Huang, Junwei and Tong, Zhiguo and Martins, Rui and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc60959.2024.10529095},
+  url = {https://doi.org/10.1109/cicc60959.2024.10529095}
+}
+
+@inproceedings{yan-lu-6449d3292b8e,
+  title = {A Quad-Slope 70V GaN Gate Driver with Integrated Three-Mode Level Shifter for Enhanced Negative Voltage Tolerance, dV/dt Detection and Double-Edge Self-Triggered Delay Compensation},
+  author = {Liu, Tianqi and Gao, Qiang and Martins, Rui P. and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE Applied Power Electronics Conference and Exposition (APEC)},
+  pages = {1141-1145},
+  doi = {10.1109/apec48139.2024.10509138},
+  url = {https://doi.org/10.1109/apec48139.2024.10509138}
+}
+
+@inproceedings{yan-lu-9c8b5e7f1139,
+  title = {A Wide-Load-Range High-PSR Capless Low-Dropout Regulator with Adaptive Supply-Ripple Cancellation},
+  author = {Xie, Linzhi and Mao, Xiangyu and Yin, Jun and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)},
+  pages = {1-2},
+  doi = {10.1109/icta64028.2024.10860329},
+  url = {https://doi.org/10.1109/icta64028.2024.10860329}
+}
+
+@inproceedings{yan-lu-e171703f0f15,
+  title = {An All-digital, 3.68 mV/LSB Voltage Sensor based Droop Prediction and Fast Mitigation System in 28nm CMOS},
+  author = {Du, Yuxuan and Zhou, Kaize and Chen, Zhuo and Deng, Lishuo and Li, Tuo and Lu, Yan and Shan, Weiwei},
+  year = {2024},
+  booktitle = {2024 IEEE Asian Solid-State Circuits Conference (A-SSCC)},
+  pages = {1-3},
+  doi = {10.1109/a-sscc60305.2024.10848677},
+  url = {https://doi.org/10.1109/a-sscc60305.2024.10848677}
+}
+
+@inproceedings{yan-lu-ba838eab320d,
+  title = {An AOT-COT Dual-Mode Three-Level Buck Converter With Wide Load and Input Ranges},
+  author = {He, Zhiming and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {767-771},
+  doi = {10.1109/apccas62602.2024.10808743},
+  url = {https://doi.org/10.1109/apccas62602.2024.10808743}
+}
+
+@inproceedings{yan-lu-8cd5159f3084,
+  title = {An Emulated Peak/Valley Curve Assisted Fast-Transient Buck Converter Achieving Precise One-Cycle Charge Balance with One-Parameter Calibration},
+  author = {Tang, Zihao and Huang, Mo and Martins, Rui Paulo and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc60959.2024.10529082},
+  url = {https://doi.org/10.1109/cicc60959.2024.10529082}
+}
+
+@inproceedings{yan-lu-5b682d08d324,
+  title = {An FVF-LDO with Differential EA and Push-Pull Super Source Follower for Fast Transient Response},
+  author = {Chen, Ruiyuan and Mao, Xiangyu and Yin, Jun and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)},
+  pages = {5-6},
+  doi = {10.1109/icta64028.2024.10860401},
+  url = {https://doi.org/10.1109/icta64028.2024.10860401}
+}
+
+@inproceedings{yan-lu-5605662a0113,
+  title = {Analysis and Design of Three-Coil Wireless Power Transfer System with Split Transmitting Coils},
+  author = {Fang, Zanfeng and Zhong, Wenxing and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE 7th International Electrical and Energy Conference (CIEEC)},
+  pages = {3038-3043},
+  doi = {10.1109/cieec60922.2024.10583502},
+  url = {https://doi.org/10.1109/cieec60922.2024.10583502}
+}
+
+@inproceedings{yan-lu-5fd5b0436a78,
+  title = {Prediction of Subharmonic Oscillation in SIMO DC-DC Converter with Ordered Power Distributive Control in CCM and Peak Current Mode},
+  author = {Yu, Zhewen and Mao, Fangyu and Lu, Yan},
+  year = {2024},
+  booktitle = {2024 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-5},
+  doi = {10.1109/iscas58744.2024.10558010},
+  url = {https://doi.org/10.1109/iscas58744.2024.10558010}
+}
+
+@inproceedings{yan-lu-64afac7ddf5c,
+  title = {11.10 A 12V-lnput 1V-1.8V-Output 93.7% Peak Efficiency Dual-Inductor Quad-Path Hybrid DC-DC Converter},
+  author = {Zeng, Wen-Liang and Cai, Guigang and Lee, Chon-Fai and Lam, Chi-Seng and Lu, Yan and Sin, Sai-Weng and Martins, Rui P.},
+  year = {2023},
+  booktitle = {2023 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {10-12},
+  doi = {10.1109/isscc42615.2023.10067710},
+  url = {https://doi.org/10.1109/isscc42615.2023.10067710}
+}
+
+@inproceedings{yan-lu-b4cd33e40f63,
+  title = {11.2 A 12V-to-1V Quad-Output Switched-Capacitor Buck Converter with Shared DC Capacitors Achieving 90.4% Peak Efficiency and 48mA/mm3 Power Density at 85% Efficiency},
+  author = {Hu, Tingxu and Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  booktitle = {2023 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {184-186},
+  doi = {10.1109/isscc42615.2023.10067463},
+  url = {https://doi.org/10.1109/isscc42615.2023.10067463}
+}
+
+@inproceedings{yan-lu-1930edb775c4,
+  title = {11.9 A Compact 12V-to-1V 91.8% Peak Efficiency Hybrid Resonant Switched-Capacitor Parallel Inductor (ReSC-PL) Buck Converter},
+  author = {Cai, Guigang and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  booktitle = {2023 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {198-200},
+  doi = {10.1109/isscc42615.2023.10067303},
+  url = {https://doi.org/10.1109/isscc42615.2023.10067303}
+}
+
+@inproceedings{yan-lu-bf5b05ec87d0,
+  title = {A 23-nA Quiescent Current Output-Capacitorless LDO Regulator for IoT Devices},
+  author = {Zhou, Shengnan and Mao, Xiangyu and Huang, Cheng and Martins, Rui P. and Lu, Yan},
+  year = {2023},
+  booktitle = {2023 IEEE 15th International Conference on ASIC (ASICON)},
+  pages = {1-4},
+  doi = {10.1109/asicon58565.2023.10396031},
+  url = {https://doi.org/10.1109/asicon58565.2023.10396031}
+}
+
+@inproceedings{yan-lu-560a7b75cd16,
+  title = {A 42W Reconfigurable Bidirectional Power Delivery Voltage-Regulating Cable},
+  author = {Tong, Zhiguo and Huang, Junwei and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  booktitle = {2023 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {192-194},
+  doi = {10.1109/isscc42615.2023.10067491},
+  url = {https://doi.org/10.1109/isscc42615.2023.10067491}
+}
+
+@inproceedings{yan-lu-f366efc52f2a,
+  title = {A 5V-to-0.5V Inductor-First Inductor-on-Ground Switched Capacitor Multi-Path Hybrid DC-DC Converter},
+  author = {Huang, Junwei and Tong, Zhiguo and Lu, Yan and Lam, Chi-Seng and Martins, Rui. P.},
+  year = {2023},
+  booktitle = {2023 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc57935.2023.10121314},
+  url = {https://doi.org/10.1109/cicc57935.2023.10121314}
+}
+
+@inproceedings{yan-lu-c591bffca7bc,
+  title = {A 600-V GaN Active Gate Driver with Level Shifter Common-Mode Noise Sensing for Built-in dV/dt Self-Adaptive Control},
+  author = {Liu, Tianqi and Martins, Rui P. and Lu, Yan},
+  year = {2023},
+  booktitle = {2023 35th International Symposium on Power Semiconductor Devices and ICs (ISPSD)},
+  pages = {195-198},
+  doi = {10.1109/ispsd57135.2023.10147641},
+  url = {https://doi.org/10.1109/ispsd57135.2023.10147641}
+}
+
+@inproceedings{yan-lu-72602f44d736,
+  title = {A Continuously Scalable-Conversion-Ratio SC Converter with Reconfigurable VCF Step for High Efficiency over an Extended VCR Range},
+  author = {Wang, Yuanfei and Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2023},
+  booktitle = {2023 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {1-3},
+  doi = {10.1109/isscc42615.2023.10067756},
+  url = {https://doi.org/10.1109/isscc42615.2023.10067756}
+}
+
+@inproceedings{yan-lu-8a64c90621df,
+  title = {A Dual-Ring Switched-Capacitor DC-DC Converter With Systematic Fractional Conversion Ratios},
+  author = {Jiang, Yifan and Jiang, Junmin and Lu, Yan},
+  year = {2023},
+  booktitle = {2023 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-4},
+  doi = {10.1109/iscas46773.2023.10181605},
+  url = {https://doi.org/10.1109/iscas46773.2023.10181605}
+}
+
+@inproceedings{yan-lu-154e38121679,
+  title = {A Monolithic Integrated E-Mode GaN 48V-to-1V DC-DC Buck Converter with PWM Control},
+  author = {Wu, Sijian and Ran, Ziang and Tong, Zhiguo and Liu, Tianqi and Lu, Yan},
+  year = {2023},
+  booktitle = {2023 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)},
+  pages = {130-131},
+  doi = {10.1109/icta60488.2023.10364290},
+  url = {https://doi.org/10.1109/icta60488.2023.10364290}
+}
+
+@inproceedings{yan-lu-513235de379a,
+  title = {A Switched-Capacitor DC-DC Converter with Adaptive Single-Boundary Hysteretic Control},
+  author = {Zhang, Tai and Cai, Guigang and Lu, Yan},
+  year = {2023},
+  booktitle = {2023 IEEE 2nd International Power Electronics and Application Symposium (PEAS)},
+  pages = {775-779},
+  doi = {10.1109/peas58692.2023.10395753},
+  url = {https://doi.org/10.1109/peas58692.2023.10395753}
+}
+
+@inproceedings{yan-lu-574c618834fd,
+  title = {A 27W D2D Wireless Power Transfer System with Compact Single-Stage Regulated Class-E Architecture and Adaptive ZVS Control},
+  author = {Ma, Xiaofei and Lu, Yan and Ki, Wing-Hung},
+  year = {2022},
+  booktitle = {2022 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {65},
+  pages = {1-3},
+  doi = {10.1109/isscc42614.2022.9731724},
+  url = {https://doi.org/10.1109/isscc42614.2022.9731724}
+}
+
+@inproceedings{yan-lu-a6b01262ee4e,
+  title = {A 4A 12-to-1 Flying Capacitor Cross-Connected DC-DC Converter with Inserted D>0.5 Control Achieving >2x Transient Inductor Current Slew Rate and 0.73× Theoretical Minimum Output Undershoot of DSD},
+  author = {Hu, Tingxu and Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2022},
+  booktitle = {2022 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {65},
+  pages = {1-3},
+  doi = {10.1109/isscc42614.2022.9731669},
+  url = {https://doi.org/10.1109/isscc42614.2022.9731669}
+}
+
+@inproceedings{yan-lu-6b0b6d918a87,
+  title = {A Battery-Input Sub-1V Output 92.9% Peak Efficiency 0.3A/mm2 Current Density Hybrid SC-Parallel-Inductor Buck Converter with Reduced Inductor Current in 65nm CMOS},
+  author = {Cai, Guigang and Lu, Yan and Martins, Rui},
+  year = {2022},
+  booktitle = {2022 IEEE International Solid-State Circuits Conference (ISSCC)},
+  volume = {65},
+  pages = {312-314},
+  doi = {10.1109/isscc42614.2022.9731576},
+  url = {https://doi.org/10.1109/isscc42614.2022.9731576}
+}
+
+@inproceedings{yan-lu-3b414dd0c4d4,
+  title = {A Hybrid Boost Converter with Regulated Flying Capacitor Voltage and Reduced Inductor Current for LED Lighting},
+  author = {Wang, Chuang and Lin, Zixiao and Lu, Yan and Li, Xiuping and Martins, Rui P.},
+  year = {2022},
+  booktitle = {2022 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {2900-2904},
+  doi = {10.1109/iscas48785.2022.9937348},
+  url = {https://doi.org/10.1109/iscas48785.2022.9937348}
+}
+
+@inproceedings{yan-lu-e1df2fdcec30,
+  title = {All Rivers Flow to the Sea: A High Power Density Wireless Power Receiver with Split-Dual-Path Rectification and Hybrid-Quad-Path Step-Down Conversion},
+  author = {Lin, Zixiao and Lu, Yan and Mao, Fangyu and Wang, Chuang and Martins, Rui P.},
+  year = {2022},
+  booktitle = {2022 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc53496.2022.9772824},
+  url = {https://doi.org/10.1109/cicc53496.2022.9772824}
+}
+
+@inproceedings{yan-lu-609a533dcef5,
+  title = {A Dual-Loop 4-Phase Switching LDO with Scalable Load Capability and Tunable Active Voltage Positioning for Microprocessors},
+  author = {Mao, Xiangyu and Lu, Yan and Martins, Rui P.},
+  year = {2021},
+  booktitle = {2021 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-2},
+  doi = {10.1109/cicc51472.2021.9431511},
+  url = {https://doi.org/10.1109/cicc51472.2021.9431511}
+}
+
+@inproceedings{yan-lu-2e73e805787c,
+  title = {About the Advantages of Balanced Switching in Switched Capacitor Converters},
+  author = {Mustafa, Yerzhan and Lu, Yan and Ruderman, Alex},
+  year = {2021},
+  booktitle = {2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)},
+  pages = {204-207},
+  doi = {10.1109/mwscas47672.2021.9531710},
+  url = {https://doi.org/10.1109/mwscas47672.2021.9531710}
+}
+
+@inproceedings{yan-lu-1ec3628e5895,
+  title = {Design of Diode-Connected and Cross-Connected CMOS Rectifiers with Adaptive Tuning for RF Energy Harvesting},
+  author = {Li, Xiaofei and Lu, Yan and Martins, Rui P.},
+  year = {2021},
+  booktitle = {2021 IEEE Asia Pacific Conference on Circuit and Systems (APCCAS)},
+  pages = {141-144},
+  doi = {10.1109/apccas51387.2021.9687776},
+  url = {https://doi.org/10.1109/apccas51387.2021.9687776}
+}
+
+@inproceedings{yan-lu-f88833dfa2d7,
+  title = {11.5 A 2-Phase Soft-Charging Hybrid Boost Converter with Doubled-Switching Pulse Width and Shared Bootstrap Capacitor Achieving 93.5% Efficiency at a Conversion Ratio of 4.5},
+  author = {Huang, Mo and Lu, Yan and Martins, Rui P.},
+  year = {2020},
+  booktitle = {2020 IEEE International Solid-State Circuits Conference - (ISSCC)},
+  pages = {198-200},
+  doi = {10.1109/isscc19947.2020.9062902},
+  url = {https://doi.org/10.1109/isscc19947.2020.9062902}
+}
+
+@inproceedings{yan-lu-25730084b2e5,
+  title = {A 10MHz Buck Converter with Type-III Control and Transient Enhancement Transistor},
+  author = {Zhao, Shuangxing and Lu, Yan and Zhan, Chenchang and Martins, Rui P.},
+  year = {2020},
+  booktitle = {2020 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)},
+  pages = {43-44},
+  doi = {10.1109/icta50426.2020.9332029},
+  url = {https://doi.org/10.1109/icta50426.2020.9332029}
+}
+
+@inproceedings{yan-lu-42a1cecd0bf0,
+  title = {A 6.78-MHz Single-Stage Regulating Rectifier with Hysteretic Control and Current-Wave Modulation},
+  author = {Lin, Jie and Zhan, Chenchang and Lu, Yan},
+  year = {2020},
+  booktitle = {2020 IEEE Asian Solid-State Circuits Conference (A-SSCC)},
+  pages = {1-2},
+  doi = {10.1109/a-sscc48613.2020.9336129},
+  url = {https://doi.org/10.1109/a-sscc48613.2020.9336129}
+}
+
+@inproceedings{yan-lu-4d0a2f750c61,
+  title = {A Power-Efficient Hybrid Single-Inductor Bipolar-Output DC-DC Converter with Floating Negative Output for AMOLED Displays},
+  author = {Mao, Fangyu and Lu, Yan and Bonizzoni, Edoardo and Boera, Filippo and Huang, Mo and Maloberti, Franco and Martins, Rui P.},
+  year = {2020},
+  booktitle = {2020 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc48029.2020.9075940},
+  url = {https://doi.org/10.1109/cicc48029.2020.9075940}
+}
+
+@inproceedings{yan-lu-62aa2c7eb986,
+  title = {A Single-Stage Delay-Tuned Active Rectifier for Constant-Current Constant-Voltage Wireless Charging},
+  author = {Bai, Xianglong and Mao, Fangyu and Lu, Yan and Zhan, Chenchang and Martins, Rui P.},
+  year = {2020},
+  booktitle = {2020 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {47-49},
+  doi = {10.1109/apccas50809.2020.9301663},
+  url = {https://doi.org/10.1109/apccas50809.2020.9301663}
+}
+
+@inproceedings{yan-lu-b41ba7cf734a,
+  title = {A 200-MHz Wide Input Range CMOS Passive Rectifier with Active Bias Tunning},
+  author = {Li, Xiaofei and Mao, Fangyu and Yeon, Pyungwoo and Lu, Yan and Ghovanloo, Maysam and Martins, Rui P.},
+  year = {2019},
+  booktitle = {2019 IEEE Asian Solid-State Circuits Conference (A-SSCC)},
+  pages = {245-246},
+  doi = {10.1109/a-sscc47793.2019.9056981},
+  url = {https://doi.org/10.1109/a-sscc47793.2019.9056981}
+}
+
+@inproceedings{yan-lu-49ee7ca853fd,
+  title = {A Fast-Transient-Response Fully-Integrated Digital LDO with Adaptive Current Step Size Control},
+  author = {Cai, Guigang and Zhan, Chenchang and Lu, Yan},
+  year = {2019},
+  booktitle = {2019 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-4},
+  doi = {10.1109/iscas.2019.8702758},
+  url = {https://doi.org/10.1109/iscas.2019.8702758}
+}
+
+@inproceedings{yan-lu-2203ed6b6ba2,
+  title = {A Switched-Capacitor DC-DC Converter with Unequal Duty Cycle for Ripple Reduction and Efficiency Improvement},
+  author = {Wu, Yulun and Mustafa, Yerzhan and Lu, Yan and Ruderman, Alex and Martins, Rui P.},
+  year = {2019},
+  booktitle = {2019 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)},
+  pages = {43-44},
+  doi = {10.1109/icta48799.2019.9012902},
+  url = {https://doi.org/10.1109/icta48799.2019.9012902}
+}
+
+@inproceedings{yan-lu-9beea47834bc,
+  title = {An Analog-Proportional Digital-Integral Multi-Loop Digital LDO with Fast Response, Improved PSR and Zero Minimum Load Current},
+  author = {Huang, Mo and Lu, Yan},
+  year = {2019},
+  booktitle = {2019 IEEE Custom Integrated Circuits Conference (CICC)},
+  pages = {1-4},
+  doi = {10.1109/cicc.2019.8780307},
+  url = {https://doi.org/10.1109/cicc.2019.8780307}
+}
+
+@inproceedings{yan-lu-8ea409cb9a3d,
+  title = {Design Considerations on Integrated Rectifiers with High Efficiency and Wide Input Power Range for RF Energy Harvesting},
+  author = {Huang, Mo and Hu, Tingxu and Zhang, Xiuyin and Lu, Yan},
+  year = {2019},
+  booktitle = {2019 IEEE 13th International Conference on ASIC (ASICON)},
+  pages = {1-4},
+  doi = {10.1109/asicon47005.2019.8983586},
+  url = {https://doi.org/10.1109/asicon47005.2019.8983586}
+}
+
+@inproceedings{yan-lu-f03651d2732e,
+  title = {PID Control Considerations for Analog-Digital Hybrid Low-Dropout Regulators (Invited Paper)},
+  author = {Lu, Yan and Huang, Mo and Martins, Rui P.},
+  year = {2019},
+  booktitle = {2019 IEEE International Conference on Electron Devices and Solid-State Circuits (EDSSC)},
+  pages = {1-3},
+  doi = {10.1109/edssc.2019.8754302},
+  url = {https://doi.org/10.1109/edssc.2019.8754302}
+}
+
+@inproceedings{yan-lu-d9c7dce6d25b,
+  title = {A 0.4V 430nA quiescent current NMOS digital LDO with NAND-based analog-assisted loop in 28nm CMOS},
+  author = {Ma, Xiaofei and Lu, Yan and Martins, Rui P. and Li, Qiang},
+  year = {2018},
+  booktitle = {2018 IEEE International Solid-State Circuits Conference - (ISSCC)},
+  pages = {306-308},
+  doi = {10.1109/isscc.2018.8310306},
+  url = {https://doi.org/10.1109/isscc.2018.8310306}
+}
+
+@inproceedings{yan-lu-449046630143,
+  title = {A 6.78 MHz active voltage doubler with near-optimal on/off delay compensation for wireless power transfer systems},
+  author = {Mao, Fangyu and Lu, Yan and Seng-Pan, U and Martins, Rui P.},
+  year = {2018},
+  booktitle = {2018 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)},
+  pages = {1-4},
+  doi = {10.1109/vlsi-dat.2018.8373261},
+  url = {https://doi.org/10.1109/vlsi-dat.2018.8373261}
+}
+
+@inproceedings{yan-lu-1dca74678fb3,
+  title = {A digital SC converter with high efficiency and low voltage ripple},
+  author = {Jiang, Junmin and Ki, Wing-Hung and Lu, Yan},
+  year = {2018},
+  booktitle = {2018 23rd Asia and South Pacific Design Automation Conference (ASP-DAC)},
+  pages = {289-290},
+  doi = {10.1109/aspdac.2018.8297324},
+  url = {https://doi.org/10.1109/aspdac.2018.8297324}
+}
+
+@inproceedings{yan-lu-1a86875ae83e,
+  title = {A Dual-Loop Digital LDO Regulator with Asynchronous-Flash Binary Coarse Tuning},
+  author = {Huang, Yuanqing and Lu, Yan and Maloberti, Franco and Martins, Rui P.},
+  year = {2018},
+  booktitle = {2018 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-5},
+  doi = {10.1109/iscas.2018.8351669},
+  url = {https://doi.org/10.1109/iscas.2018.8351669}
+}
+
+@inproceedings{yan-lu-2dec328195f7,
+  title = {A dual-output SC converter with dynamic power allocation for multicore application processors},
+  author = {Jiang, Junmin and Lu, Yan and Liu, Xun and Ki, Wing-Hung and Mok, Philip K. T. and Seng-Pan, U and Martins, Rui P.},
+  year = {2018},
+  booktitle = {2018 23rd Asia and South Pacific Design Automation Conference (ASP-DAC)},
+  pages = {285-286},
+  doi = {10.1109/aspdac.2018.8297322},
+  url = {https://doi.org/10.1109/aspdac.2018.8297322}
+}
+
+@inproceedings{yan-lu-bea508e7c158,
+  title = {A reconfigurable cross-connected wireless-power transceiver for bidirectional device-to-device charging with 78.1% total efficiency},
+  author = {Mao, Fangyu and Lu, Yan and Seng-Pan, U and Martins, Rui P.},
+  year = {2018},
+  booktitle = {2018 IEEE International Solid-State Circuits Conference - (ISSCC)},
+  pages = {140-142},
+  doi = {10.1109/isscc.2018.8310223},
+  url = {https://doi.org/10.1109/isscc.2018.8310223}
+}
+
+@inproceedings{yan-lu-d5e2bc249c04,
+  title = {A Reconfigurable Switched-Capacitor DC-DC Converter and Cascode LDO for Dynamic Voltage Scaling and High PSR},
+  author = {Lu, Yan},
+  year = {2018},
+  booktitle = {2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {509-511},
+  doi = {10.1109/apccas.2018.8605607},
+  url = {https://doi.org/10.1109/apccas.2018.8605607}
+}
+
+@inproceedings{yan-lu-bd6c2bc49d9f,
+  title = {A Single-Stage Current-Mode Active Rectifier with Accurate Output-Current Regulation for IoT},
+  author = {Mao, Fangyu and Lu, Yan and Lin, Jie and Zhan, Chenchang and Seng-Pan, U. and Martins, Rui P.},
+  year = {2018},
+  booktitle = {2018 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1-4},
+  doi = {10.1109/iscas.2018.8351692},
+  url = {https://doi.org/10.1109/iscas.2018.8351692}
+}
+
+@inproceedings{yan-lu-81d6a2d8038f,
+  title = {An Integrated DC-DC Converter with Segmented Frequency Modulation and Multiphase Co-Work Control for Fast Transient Recovery},
+  author = {Chio, U-Fat and Wen, Kuo-Chih and Sin, Sai-Weng and Lam, Chi-Seng and Lu, Yan and Maloberti, Franco and Martins, R. P.},
+  year = {2018},
+  booktitle = {2018 IEEE Asian Solid-State Circuits Conference (A-SSCC)},
+  pages = {31-32},
+  doi = {10.1109/asscc.2018.8579295},
+  url = {https://doi.org/10.1109/asscc.2018.8579295}
+}
+
+@inproceedings{yan-lu-57d01426e96e,
+  title = {An Overview of Digital Low Drop-out Regulator Design},
+  author = {Huang, Mo and Lu, Yan},
+  year = {2018},
+  booktitle = {2018 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {516-519},
+  doi = {10.1109/apccas.2018.8605699},
+  url = {https://doi.org/10.1109/apccas.2018.8605699}
+}
+
+@inproceedings{yan-lu-fe881fb3ba04,
+  title = {Bi-directional Battery-to-Battery Wireless Charging Enabled by Reconfigurable Wireless Power Transceivers (Invited Paper)},
+  author = {Lu, Yan and Mao, Fangyu and Martins, Rui P.},
+  year = {2018},
+  booktitle = {2018 IEEE International Conference on Electron Devices and Solid State Circuits (EDSSC)},
+  pages = {1-2},
+  doi = {10.1109/edssc.2018.8487127},
+  url = {https://doi.org/10.1109/edssc.2018.8487127}
+}
+
+@inproceedings{yan-lu-8445c8f39ddd,
+  title = {20.4 An output-capacitor-free analog-assisted digital low-dropout regulator with tri-loop control},
+  author = {Huang, Mo and Lu, Yan and Seng-Pan, U. and Martins, Rui P.},
+  year = {2017},
+  booktitle = {2017 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {342-343},
+  doi = {10.1109/isscc.2017.7870401},
+  url = {https://doi.org/10.1109/isscc.2017.7870401}
+}
+
+@inproceedings{yan-lu-ab274355ccc6,
+  title = {20.5 A dual-symmetrical-output switched-capacitor converter with dynamic power cells and minimized cross regulation for application processors in 28nm CMOS},
+  author = {Jiang, Junmin and Lu, Yan and Ki, Wing-Hung and Seng-Pan, U. and Martins, Rui P.},
+  year = {2017},
+  booktitle = {2017 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {344-345},
+  doi = {10.1109/isscc.2017.7870402},
+  url = {https://doi.org/10.1109/isscc.2017.7870402}
+}
+
+@inproceedings{yan-lu-de512b873e0b,
+  title = {22.4 A reconfigurable bidirectional wireless power transceiver with maximum-current charging mode and 58.6% battery-to-battery efficiency},
+  author = {Huang, Mo and Lu, Yan and Seng-Pan, U. and Martins, Rui P.},
+  year = {2017},
+  booktitle = {2017 IEEE International Solid-State Circuits Conference (ISSCC)},
+  pages = {376-377},
+  doi = {10.1109/isscc.2017.7870418},
+  url = {https://doi.org/10.1109/isscc.2017.7870418}
+}
+
+@inproceedings{yan-lu-723aa0a1d676,
+  title = {A digital IQ imbalance self-calibration in FDD transceiver},
+  author = {Ye, Hui and Li, Bin and Huang, Mo and Liang, Zhen and Lu, Yan},
+  year = {2017},
+  booktitle = {2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)},
+  pages = {1-4},
+  doi = {10.1109/vlsi-dat.2017.7939681},
+  url = {https://doi.org/10.1109/vlsi-dat.2017.7939681}
+}
+
+@inproceedings{yan-lu-9bc5e229dbf9,
+  title = {A four-band TD-LTE transmitter with wide dynamic range and LPF bandwidth calibration},
+  author = {Liang, Zhen and Li, Bin and Huang, Mo and Ye, Hui and Xu, Ken and Liu, Yutao and Lu, Yan},
+  year = {2017},
+  booktitle = {2017 International Symposium on VLSI Design, Automation and Test (VLSI-DAT)},
+  pages = {1-4},
+  doi = {10.1109/vlsi-dat.2017.7939680},
+  url = {https://doi.org/10.1109/vlsi-dat.2017.7939680}
+}
+
+@inproceedings{yan-lu-d619288a3c18,
+  title = {A digital LDO with transient enhancement and limit cycle oscillation reduction},
+  author = {Huang, Mo and Lu, Yan and Seng-Pan, U and Martins, Rui P.},
+  year = {2016},
+  booktitle = {2016 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {25-28},
+  doi = {10.1109/apccas.2016.7803886},
+  url = {https://doi.org/10.1109/apccas.2016.7803886}
+}
+
+@inproceedings{yan-lu-745b679e2986,
+  title = {A digitally-controlled 2-/3-phase 6-ratio switched- capacitor DC-DC converter with adaptive ripple reduction and efficiency improvements},
+  author = {Jiang, Junmin and Lu, Yan and Ki, Wing-Hung},
+  year = {2016},
+  booktitle = {ESSCIRC Conference 2016: 42nd European Solid-State Circuits Conference},
+  pages = {441-444},
+  doi = {10.1109/esscirc.2016.7598336},
+  url = {https://doi.org/10.1109/esscirc.2016.7598336}
+}
+
+@inproceedings{yan-lu-fd0aa74f5ac3,
+  title = {Digitally assisted low dropout regulator design for low duty cycle IoT applications},
+  author = {Lu, Yan},
+  year = {2016},
+  booktitle = {2016 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {33-36},
+  doi = {10.1109/apccas.2016.7803888},
+  url = {https://doi.org/10.1109/apccas.2016.7803888}
+}
+
+@inproceedings{yan-lu-06391f1d95b8,
+  title = {20.4 A 123-phase DC-DC converter-ring with fast-DVS for microprocessors},
+  author = {Lu, Yan and Jiang, Junmin and Wing-Hung Ki and Yue, C. Patrick and Sai-Weng Sin and Seng-Pan U and Martins, R. P.},
+  year = {2015},
+  booktitle = {2015 IEEE International Solid-State Circuits Conference - (ISSCC) Digest of Technical Papers},
+  pages = {1-3},
+  doi = {10.1109/isscc.2015.7063077},
+  url = {https://doi.org/10.1109/isscc.2015.7063077}
+}
+
+@inproceedings{yan-lu-1405b2c424ad,
+  title = {20.5 A 2-/3-phase fully integrated switched-capacitor DC-DC converter in bulk CMOS for energy-efficient digital circuits with 14% efficiency improvement},
+  author = {Jiang, Junmin and Lu, Yan and Huang, Cheng and Ki, Wing-Hung and Mok, Philip K. T.},
+  year = {2015},
+  booktitle = {2015 IEEE International Solid-State Circuits Conference - (ISSCC) Digest of Technical Papers},
+  pages = {1-3},
+  doi = {10.1109/isscc.2015.7063078},
+  url = {https://doi.org/10.1109/isscc.2015.7063078}
+}
+
+@inproceedings{yan-lu-312ecf1fe16d,
+  title = {A review and design of the on-chip rectifiers for RF energy harvesting},
+  author = {Dai, Haojuan and Lu, Yan and Law, Man-Kay and Sai-Weng Sin and Seng-Pan, U and Martins, R. P.},
+  year = {2015},
+  booktitle = {2015 IEEE International Wireless Symposium (IWS 2015)},
+  pages = {1-4},
+  doi = {10.1109/ieee-iws.2015.7164642},
+  url = {https://doi.org/10.1109/ieee-iws.2015.7164642}
+}
+
+@inproceedings{yan-lu-43dc78ef5870,
+  title = {An all-factor modulation bandwidth extension technique for delta-sigma PLL transmitter},
+  author = {Huang, Mo and Lu, Yan and Xiao-ming Xiong and Seng-Pan U and Martins, R. P.},
+  year = {2015},
+  booktitle = {TENCON 2015 - 2015 IEEE Region 10 Conference},
+  pages = {1-4},
+  doi = {10.1109/tencon.2015.7373012},
+  url = {https://doi.org/10.1109/tencon.2015.7373012}
+}
+
+@inproceedings{yan-lu-2b9bf0d45eac,
+  title = {Capacitive floating level shifter: Modeling and design},
+  author = {Wen-Ming Zheng and Chi-Seng Lam and Sin, Sai-Weng and Lu, Yan and Man-Chung Wong and Seng-Pan U and Martins, R.P.},
+  year = {2015},
+  booktitle = {TENCON 2015 - 2015 IEEE Region 10 Conference},
+  pages = {1-6},
+  doi = {10.1109/tencon.2015.7373013},
+  url = {https://doi.org/10.1109/tencon.2015.7373013}
+}
+
+@inproceedings{yan-lu-ad0d5dffc3b1,
+  title = {17.11 A 0.65ns-response-time 3.01ps FOM fully-integrated low-dropout regulator with full-spectrum power-supply-rejection for wideband communication systems},
+  author = {Lu, Yan and Ki, Wing-Hung and Yue, C. Patrick},
+  year = {2014},
+  booktitle = {2014 IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC)},
+  pages = {306-307},
+  doi = {10.1109/isscc.2014.6757446},
+  url = {https://doi.org/10.1109/isscc.2014.6757446}
+}
+
+@inproceedings{yan-lu-b7a579365c08,
+  title = {A 3-mW 25-Gb/s CMOS transimpedance amplifier with fully integrated low-dropout regulator for 100GbE systems},
+  author = {Wang, Yipeng and Lu, Yan and Pan, Quan and Hou, Zhengxiong and Wu, Liang and Ki, Wing-Hung and Yue, C. Patrick},
+  year = {2014},
+  booktitle = {2014 IEEE Radio Frequency Integrated Circuits Symposium},
+  pages = {275-278},
+  doi = {10.1109/rfic.2014.6851718},
+  url = {https://doi.org/10.1109/rfic.2014.6851718}
+}
+
+@inproceedings{yan-lu-a3b1da65d737,
+  title = {A 48-mW 18-Gb/s fully integrated CMOS optical receiver with photodetector and adaptive equalizer},
+  author = {Quan Pan and Zhengxiong Hou and Yipeng Wang and Yan Lu and Wing-Hung Ki and Keh Chung Wang and Yue, C. Patrick},
+  year = {2014},
+  booktitle = {2014 Symposium on VLSI Circuits Digest of Technical Papers},
+  pages = {1-2},
+  doi = {10.1109/vlsic.2014.6858402},
+  url = {https://doi.org/10.1109/vlsic.2014.6858402}
+}
+
+@inproceedings{yan-lu-0948b3a9925f,
+  title = {A low-dropout regulator with power supply rejection improvement by bandwidth-zero tracking},
+  author = {Lu, Yan and Yao, Ruó He and Huang, Da Qiang and Su, Julien and Jiang, Junmin and Ki, Wing-Hung},
+  year = {2014},
+  booktitle = {2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {105-108},
+  doi = {10.1109/apccas.2014.7032730},
+  url = {https://doi.org/10.1109/apccas.2014.7032730}
+}
+
+@inproceedings{yan-lu-b6a85ff44b54,
+  title = {An adaptive wireless powering and data telemetry system for optic nerve stimulation},
+  author = {Li, Xing and Lu, Yan and Tsui, Chi-Ying and Ki, Wing-Hung},
+  year = {2014},
+  booktitle = {2014 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages = {1404-1407},
+  doi = {10.1109/iscas.2014.6865407},
+  url = {https://doi.org/10.1109/iscas.2014.6865407}
+}
+
+@inproceedings{yan-lu-64351e1fc113,
+  title = {Analysis of two-phase on-chip step-down switched capacitor power converters},
+  author = {Jiang, Junmin and Lu, Yan and Ki, Wing-Hung},
+  year = {2014},
+  booktitle = {2014 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  pages = {575-578},
+  doi = {10.1109/apccas.2014.7032847},
+  url = {https://doi.org/10.1109/apccas.2014.7032847}
+}
+
+@inproceedings{yan-lu-0f7045f177bf,
+  title = {A 13.56MHz fully integrated 1X/2X active rectifier with compensated bias current for inductively powered devices},
+  author = {Lu, Yan and Li, Xing and Ki, Wing-Hung and Tsui, Chi-Ying and Yue, C. Patrick},
+  year = {2013},
+  booktitle = {2013 IEEE International Solid-State Circuits Conference Digest of Technical Papers},
+  pages = {66-67},
+  doi = {10.1109/isscc.2013.6487639},
+  url = {https://doi.org/10.1109/isscc.2013.6487639}
+}
+
+@inproceedings{yan-lu-e6971017b6e7,
+  title = {Input-adaptive dual-output power management unit for energy harvesting devices},
+  author = {Lu, Yan and Ki, Wing-Hung and Yue, C. Patrick},
+  year = {2012},
+  booktitle = {2012 IEEE 55th International Midwest Symposium on Circuits and Systems (MWSCAS)},
+  pages = {1080-1083},
+  doi = {10.1109/mwscas.2012.6292211},
+  url = {https://doi.org/10.1109/mwscas.2012.6292211}
+}
+
+@inproceedings{yan-lu-fef0709a5ca9,
+  title = {A 13.56MHz CMOS rectifier with switched-offset for reversion current control},
+  author = {Lu, Yan and Ki, Wing-Hung and Yi, Jun},
+  year = {2011},
+  booktitle = {2011 Symposium on VLSI Circuits - Digest of Technical Papers},
+  pages = {246-247},
+  url = {https://ieeexplore.ieee.org/document/5986130}
+}
+
+@inproceedings{yan-lu-5aee177e6aa6,
+  title = {Design and analysis of on-chip charge pumps for micro-power energy harvesting applications},
+  author = {Ki, Wing-Hung and Yan Lu and Su, Feng and Tsui, Chi-Ying},
+  year = {2011},
+  booktitle = {2011 IEEE/IFIP 19th International Conference on VLSI and System-on-Chip},
+  pages = {374-379},
+  doi = {10.1109/vlsisoc.2011.6081612},
+  url = {https://doi.org/10.1109/vlsisoc.2011.6081612}
+}
